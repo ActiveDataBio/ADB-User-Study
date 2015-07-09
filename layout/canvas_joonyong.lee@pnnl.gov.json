@@ -1,0 +1,20 @@
+{
+  "@type":"gov.pnnl.activedata.data.Canvas",
+  "id":1435250550365,
+  "name":"Sample01_joonyong.lee@pnnl.gov",
+  "creationDate":1435250550365,
+  "lastModifiedDate":1435250550365,
+  "users":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.ADUser",
+        "id":0,
+        "name":"Sample01_joonyong.lee@pnnl.gov"
+      }
+    ]
+  },
+  "userDataNodes":null,
+  "userEdges":null,
+  "groups":null
+}
