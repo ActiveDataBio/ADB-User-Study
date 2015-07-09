@@ -1,0 +1,20 @@
+{
+  "@type":"gov.pnnl.activedata.data.Canvas",
+  "id":1436485973019,
+  "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
+  "creationDate":1436485973019,
+  "lastModifiedDate":1436485973019,
+  "users":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.ADUser",
+        "id":0,
+        "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu"
+      }
+    ]
+  },
+  "userDataNodes":null,
+  "userEdges":null,
+  "groups":null
+}
