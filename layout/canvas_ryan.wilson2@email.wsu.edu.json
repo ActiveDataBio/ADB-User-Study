@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":20,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436542682187,
         "groupId":-1,
@@ -26,7 +26,7 @@
         "x":899.9735996127886,
         "y":519.5999999999999,
         "type":{
-          "@id":3,
+          "@id":1,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -46,14 +46,13 @@
         }
       },
       {
-        "@id":19,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436542883717,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":3},
+        "type":{"@ref":1},
         "score":0.0,
         "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_852478",
@@ -70,7 +69,6 @@
         }
       },
       {
-        "@id":18,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436542955962,
         "groupId":-1,
@@ -78,7 +76,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -98,14 +96,13 @@
         }
       },
       {
-        "@id":17,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436543080092,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa04666;node587;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04666",
@@ -122,14 +119,13 @@
         }
       },
       {
-        "@id":16,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436543429063,
         "groupId":-1,
         "isUserData":true,
         "x":974.9713995805209,
         "y":649.4999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa04666;node587;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04666",
@@ -146,14 +142,13 @@
         }
       },
       {
-        "@id":15,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436543841234,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa04512;node1335;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04512",
@@ -170,14 +165,13 @@
         }
       },
       {
-        "@id":14,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436543951082,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa05020;node969;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa05020",
@@ -194,14 +188,13 @@
         }
       },
       {
-        "@id":13,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436544048841,
         "groupId":-1,
         "isUserData":true,
         "x":149.99559993546475,
         "y":519.5999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa04514;node298;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04514",
@@ -218,14 +211,13 @@
         }
       },
       {
-        "@id":12,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436544225728,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa04670;node1322;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04670",
@@ -242,7 +234,6 @@
         }
       },
       {
-        "@id":11,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436544281838,
         "groupId":-1,
@@ -250,7 +241,7 @@
         "x":224.99339990319714,
         "y":649.4999999999999,
         "type":{
-          "@id":6,
+          "@id":3,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -270,14 +261,13 @@
         }
       },
       {
-        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436544382979,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa04666;node587;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04666",
@@ -294,14 +284,13 @@
         }
       },
       {
-        "@id":9,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436544389558,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";hsa04666;node587;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04666",
@@ -318,14 +307,13 @@
         }
       },
       {
-        "@id":8,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436544412888,
         "groupId":-1,
         "isUserData":true,
         "x":149.99559993546475,
         "y":1039.1999999999998,
-        "type":{"@ref":6},
+        "type":{"@ref":3},
         "score":0.0,
         "data":"null;node587;22;32;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node587",
@@ -342,14 +330,13 @@
         }
       },
       {
-        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436545764224,
         "groupId":-1,
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":3},
+        "type":{"@ref":1},
         "score":0.0,
         "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_003124",
