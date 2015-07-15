@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":6,
+        "@id":8,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1437001855129,
         "groupId":-1,
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":5,
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1437001883881,
         "groupId":-1,
@@ -54,7 +54,7 @@
         "x":1499.9559993546475,
         "y":519.5999999999999,
         "type":{
-          "@id":1,
+          "@id":3,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -74,14 +74,14 @@
         }
       },
       {
-        "@id":4,
+        "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1437001884788,
         "groupId":-1,
         "isUserData":true,
         "x":599.982399741859,
         "y":519.5999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":3},
         "score":0.0,
         "data":";NP_079478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_079478",
