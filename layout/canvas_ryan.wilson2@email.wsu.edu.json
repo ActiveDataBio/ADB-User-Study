@@ -62,7 +62,7 @@
               "x":1049.9691995482533,
               "y":259.79999999999995,
               "type":{
-                "@id":3,
+                "@id":1,
                 "name":"PROTEIN",
                 "ordinal":17
               },
@@ -88,7 +88,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":3},
+              "type":{"@ref":1},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -111,7 +111,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":3},
+              "type":{"@ref":1},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
