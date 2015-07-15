@@ -3,7 +3,7 @@
   "id":1436999854594,
   "name":"ADB-User-Study_pnnl.guest@gmail.com",
   "creationDate":1436999854594,
-  "lastModifiedDate":1437002735624,
+  "lastModifiedDate":1437002787117,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,37 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@id":2,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1437002787117,
+        "groupId":-1,
+        "isUserData":true,
+        "x":599.982399741859,
+        "y":519.5999999999999,
+        "type":{
+          "@id":1,
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa04666;node587;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04666",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":null,
   "groups":null
