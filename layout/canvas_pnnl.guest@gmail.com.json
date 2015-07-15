@@ -3,7 +3,7 @@
   "id":1436999854594,
   "name":"ADB-User-Study_pnnl.guest@gmail.com",
   "creationDate":1436999854594,
-  "lastModifiedDate":1437002787117,
+  "lastModifiedDate":1437002817087,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":2,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1437002787117,
         "groupId":-1,
@@ -33,6 +33,34 @@
         "score":0.0,
         "data":";hsa04666;node587;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04666",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":4,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1437002817087,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1199.964799483718,
+        "y":519.5999999999999,
+        "type":{
+          "@id":3,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_036552;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_036552",
         "badge":0,
         "sections":null,
         "listValues":null,
