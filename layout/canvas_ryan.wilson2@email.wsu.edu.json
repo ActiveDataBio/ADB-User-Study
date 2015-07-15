@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1436983897062,
+  "lastModifiedDate":1436984046979,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,10 +15,191 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@id":15,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436983918570,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1049.9691995482533,
+        "y":0.0,
+        "type":{
+          "@id":6,
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa04666;node587;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04666",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":8,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436983920364,
+        "groupId":1436984038089,
+        "isUserData":true,
+        "x":299.9911998709295,
+        "y":519.5999999999999,
+        "type":{
+          "@id":2,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_563578",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":14,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436983920949,
+        "groupId":-1,
+        "isUserData":true,
+        "x":674.9801997095914,
+        "y":909.2999999999998,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":";NP_055615;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_055615",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:18245461":"(2008) Alterations in Gemin5 expression contribute to alternative mRNA splicing patterns and tumor cell motility."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":13,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436983923048,
+        "groupId":-1,
+        "isUserData":true,
+        "x":599.982399741859,
+        "y":259.79999999999995,
+        "type":{
+          "@id":3,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"null;node587;22;32;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node587",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node587_Summary":"Summary for node587",
+          "GROUPNODE:node587":"Node id node587"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":12,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436983973290,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":500.0,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":"undefined;NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_563578",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap",
+          "LITERATURE:26171165":"(2015) A synergistic interaction of 17-?-estradiol with specific cannabinoid receptor type 2 antagonist/inverse agonist on proliferation activity in primary human osteoblasts.",
+          "PROTEIN:NP_563578":"receptor-type tyrosine-protein phosphatase C isoform 2 precursor [Homo sapiens]"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":11,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436984038089,
+        "groupId":-1,
+        "isUserData":true,
+        "x":-74.99779996773238,
+        "y":-129.89999999999998,
+        "type":{
+          "@id":10,
+          "name":"GROUP",
+          "ordinal":13
+        },
+        "score":0.0,
+        "data":"#group1",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1436984046979,
+        "sourceNodeID":1436983918570,
+        "targetNodeID":1436983923048,
+        "label":null,
+        "type":{
+          "name":"SOLID",
+          "ordinal":1
+        },
+        "evidenceNodes":null
+      }
+    ]
   },
   "groups":{
     "@type":"java.util.ArrayList",
@@ -32,10 +213,7 @@
           "isUserData":true,
           "x":1274.9625994514504,
           "y":129.89999999999998,
-          "type":{
-            "name":"GROUP",
-            "ordinal":13
-          },
+          "type":{"@ref":10},
           "score":0.0,
           "data":"#group1",
           "label":null,
@@ -61,11 +239,7 @@
               "isUserData":true,
               "x":1049.9691995482533,
               "y":259.79999999999995,
-              "type":{
-                "@id":1,
-                "name":"PROTEIN",
-                "ordinal":17
-              },
+              "type":{"@ref":2},
               "score":0.0,
               "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_852478",
@@ -88,7 +262,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":1},
+              "type":{"@ref":2},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -111,7 +285,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":1},
+              "type":{"@ref":2},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
@@ -130,9 +304,24 @@
           ]
         },
         "type":{
+          "@id":9,
           "name":"PILE",
           "ordinal":0
         },
+        "note":"#group1"
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.Group",
+        "id":1436984038103,
+        "groupNode":{"@ref":11},
+        "dataNodes":{
+          "@type":"java.util.ArrayList",
+          "@items":[
+            {"@ref":8},
+            {"@ref":8}
+          ]
+        },
+        "type":{"@ref":9},
         "note":"#group1"
       }
     ]
