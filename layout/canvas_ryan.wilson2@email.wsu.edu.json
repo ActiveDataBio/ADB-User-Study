@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1436980267555,
+  "lastModifiedDate":1436983897062,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -55,7 +55,6 @@
           "@type":"java.util.ArrayList",
           "@items":[
             {
-              "@id":9,
               "@type":"gov.pnnl.activedata.data.DataNode",
               "id":1436542883717,
               "groupId":1436828161657,
@@ -83,7 +82,6 @@
               }
             },
             {
-              "@id":8,
               "@type":"gov.pnnl.activedata.data.DataNode",
               "id":1436542682187,
               "groupId":1436828161657,
@@ -107,7 +105,6 @@
               }
             },
             {
-              "@id":7,
               "@type":"gov.pnnl.activedata.data.DataNode",
               "id":1436545764224,
               "groupId":1436828161657,
