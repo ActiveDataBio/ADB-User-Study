@@ -18,13 +18,13 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":15,
+        "@id":14,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436983918570,
         "groupId":-1,
         "isUserData":true,
         "x":1049.9691995482533,
-        "y":0.0,
+        "y":259.79999999999995,
         "type":{
           "@id":6,
           "name":"PATHWAY",
@@ -46,13 +46,13 @@
         }
       },
       {
-        "@id":8,
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436983920364,
         "groupId":1436984038089,
         "isUserData":true,
-        "x":299.9911998709295,
-        "y":519.5999999999999,
+        "x":-74.99779996773238,
+        "y":649.4999999999999,
         "type":{
           "@id":2,
           "name":"PROTEIN",
@@ -74,13 +74,13 @@
         }
       },
       {
-        "@id":14,
+        "@id":13,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436983920949,
         "groupId":-1,
         "isUserData":true,
         "x":674.9801997095914,
-        "y":909.2999999999998,
+        "y":649.4999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":";NP_055615;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -99,13 +99,13 @@
         }
       },
       {
-        "@id":13,
+        "@id":12,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436983923048,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
-        "y":259.79999999999995,
+        "x":449.9867998063943,
+        "y":0.0,
         "type":{
           "@id":3,
           "name":"PROTEIN_GROUP",
@@ -129,13 +129,13 @@
         }
       },
       {
-        "@id":12,
+        "@id":11,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436983973290,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":1274.9625994514504,
+        "y":649.4999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":"undefined;NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -146,7 +146,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap",
+          "@type":"java.util.LinkedHashMap",
           "LITERATURE:26171165":"(2015) A synergistic interaction of 17-?-estradiol with specific cannabinoid receptor type 2 antagonist/inverse agonist on proliferation activity in primary human osteoblasts.",
           "PROTEIN:NP_563578":"receptor-type tyrosine-protein phosphatase C isoform 2 precursor [Homo sapiens]"
         },
@@ -155,15 +155,15 @@
         }
       },
       {
-        "@id":11,
+        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436984038089,
         "groupId":-1,
         "isUserData":true,
-        "x":-74.99779996773238,
-        "y":-129.89999999999998,
+        "x":224.99339990319714,
+        "y":389.69999999999993,
         "type":{
-          "@id":10,
+          "@id":9,
           "name":"GROUP",
           "ordinal":13
         },
@@ -176,7 +176,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -213,7 +213,7 @@
           "isUserData":true,
           "x":1274.9625994514504,
           "y":129.89999999999998,
-          "type":{"@ref":10},
+          "type":{"@ref":9},
           "score":0.0,
           "data":"#group1",
           "label":null,
@@ -304,7 +304,7 @@
           ]
         },
         "type":{
-          "@id":9,
+          "@id":8,
           "name":"PILE",
           "ordinal":0
         },
@@ -313,15 +313,15 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1436984038103,
-        "groupNode":{"@ref":11},
+        "groupNode":{"@ref":10},
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
-            {"@ref":8},
-            {"@ref":8}
+            {"@ref":7},
+            {"@ref":7}
           ]
         },
-        "type":{"@ref":9},
+        "type":{"@ref":8},
         "note":"#group1"
       }
     ]
