@@ -18,7 +18,6 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":2,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1437001855129,
         "groupId":-1,
@@ -26,7 +25,6 @@
         "x":960.0,
         "y":477.5,
         "type":{
-          "@id":1,
           "name":"PATHWAY",
           "ordinal":20
         },
