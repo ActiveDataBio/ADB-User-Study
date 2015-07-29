@@ -54,7 +54,7 @@
         "x":899.9735996127886,
         "y":779.3999999999999,
         "type":{
-          "@id":5,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -82,7 +82,7 @@
         "x":449.9867998063943,
         "y":259.79999999999995,
         "type":{
-          "@id":1,
+          "@id":4,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -110,7 +110,7 @@
         "x":1574.9537993223798,
         "y":649.4999999999999,
         "type":{
-          "@id":2,
+          "@id":5,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -176,7 +176,7 @@
               "isUserData":true,
               "x":1049.9691995482533,
               "y":259.79999999999995,
-              "type":{"@ref":5},
+              "type":{"@ref":2},
               "score":0.0,
               "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_852478",
@@ -199,7 +199,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":5},
+              "type":{"@ref":2},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -222,7 +222,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":5},
+              "type":{"@ref":2},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
@@ -283,7 +283,7 @@
               "isUserData":true,
               "x":-74.99779996773238,
               "y":649.4999999999999,
-              "type":{"@ref":5},
+              "type":{"@ref":2},
               "score":0.0,
               "data":";NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_563578",
