@@ -1,0 +1,20 @@
+{
+  "@type":"gov.pnnl.activedata.data.Canvas",
+  "id":1438299216954,
+  "name":"ADB-User-Study_joonyong.lee@pnnl.gov",
+  "creationDate":1438299216954,
+  "lastModifiedDate":1438299216954,
+  "users":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.ADUser",
+        "id":0,
+        "name":"ADB-User-Study_joonyong.lee@pnnl.gov"
+      }
+    ]
+  },
+  "userDataNodes":null,
+  "userEdges":null,
+  "groups":null
+}
