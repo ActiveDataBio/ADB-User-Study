@@ -41,8 +41,10 @@ sampleIds <- na.omit(sample)
 nodeName <- args[2]
 
 ## read the metadata files (_data: data, _config: configurations for each column)
-metadata <- read.csv("metadata.csv")
-metaconfig <- read.csv("metaconfig.csv")
+meta <- read.delim("metadata.tsv")
+
+metadata <- meta[-grep('#', meta$id),]
+metaconfig <- meta[grep('#', meta$id),]
 
 #' Run a statistical test whether two groups (with continous values) are significantly different or not.
 #' 
@@ -92,14 +94,14 @@ getTest<-function (group_in, group_out, in_num, out_num) {
 ################################################################
 ## find a column name for unique ids
 ################################################################
-unique_id <- ''
-for (i in 1:ncol(metadata)) {
-  eval(parse(text=paste0('config=metaconfig$',names(metadata[i]))))
-  if (sum(config == 'unique') == 1) {
-    unique_id <- names(metadata[i])
-    break;
-  }
-}
+unique_id <- 'id'
+# for (i in 1:ncol(metadata)) {
+#   eval(parse(text=paste0('config=metaconfig$',names(metadata[i]))))
+#   if (sum(config == 'unique') == 1) {
+#     unique_id <- names(metadata[i])
+#     break;
+#   }
+# }
 
 # null string
 null_string <- c("","[Not Applicable]","[Not Available]","[Pending]","[]")
