@@ -27,8 +27,8 @@ findLeaves <- function(node) {
     }
   } else {
     count <<- count + 1
-    sample[count] <<- unlist(strsplit(node$name, "[.]"))[1]
-    print (unlist(strsplit(node$name, "[.]"))[1])
+    sample[count] <<- node$name
+    print (node$name)
   }
 }
 
@@ -41,10 +41,9 @@ sampleIds <- na.omit(sample)
 nodeName <- args[2]
 
 ## read the metadata files (_data: data, _config: configurations for each column)
-meta <- read.delim("metadata.tsv")
-
-metadata <- meta[-grep('#', meta$id),]
-metaconfig <- meta[grep('#', meta$id),]
+metadata <- read.delim("metadata.tsv")
+metaconfig <- metadata[grep('#', metadata$id),]
+metadata <- metadata[-grep('#', metadata$id),]
 
 #' Run a statistical test whether two groups (with continous values) are significantly different or not.
 #' 
@@ -90,7 +89,11 @@ getTest<-function (group_in, group_out, in_num, out_num) {
   }
   return(test)
 }
-
+##############
+fixFactor <- function(x) {
+  if(is.factor(x)) factor(x) else x
+}
+##############
 ################################################################
 ## find a column name for unique ids
 ################################################################
@@ -129,7 +132,7 @@ gin <- c()
 gout <- c()
 labels <- c()
 
-for (i in 1:ncol(metadata)) {
+for (i in 2:ncol(metadata)) {
   testMethods[i] <- NA
   pvalues[i] <- NA
   types[i] <- NA
@@ -138,9 +141,13 @@ for (i in 1:ncol(metadata)) {
   gout[i] <- NA
   
   eval(parse(text=paste0('config=metaconfig$',names(metadata[i]))))
-  if (sum(config == 'no') == 1 || sum(config == 'unique') == 1) next
+  # if (sum(config == 'no') == 1 || sum(config == 'unique') == 1) next
+  if (sum(config == 'no') == 1) next
+  config <- fixFactor(config)
+  
   
   eval(parse(text=paste0('meta=metadata$',names(metadata[i]))))
+  meta <- fixFactor(meta)
   # multivariate categorical data
   if (sum(config == 'categorical') == 1) {
     # remove missing values
