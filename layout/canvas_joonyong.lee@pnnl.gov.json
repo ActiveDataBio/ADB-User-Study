@@ -18,6 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439225960683,
         "groupId":-1,
@@ -25,6 +26,7 @@
         "x":674.9801997095914,
         "y":649.4999999999999,
         "type":{
+          "@id":1,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -44,7 +46,7 @@
         }
       },
       {
-        "@id":2,
+        "@id":3,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439225982142,
         "groupId":-1,
@@ -52,7 +54,7 @@
         "x":1124.9669995159857,
         "y":649.4999999999999,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
