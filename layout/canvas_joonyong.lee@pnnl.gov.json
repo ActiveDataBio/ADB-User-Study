@@ -3,7 +3,7 @@
   "id":1438299216954,
   "name":"ADB-User-Study_joonyong.lee@pnnl.gov",
   "creationDate":1438299216954,
-  "lastModifiedDate":1438299216954,
+  "lastModifiedDate":1439225422673,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -14,7 +14,9 @@
       }
     ]
   },
-  "userDataNodes":null,
+  "userDataNodes":{
+    "@type":"java.util.ArrayList"
+  },
   "userEdges":null,
   "groups":null
 }
