@@ -3,7 +3,7 @@
   "id":1438299216954,
   "name":"ADB-User-Study_joonyong.lee@pnnl.gov",
   "creationDate":1438299216954,
-  "lastModifiedDate":1439225422673,
+  "lastModifiedDate":1439225982142,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,63 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1439225960683,
+        "groupId":-1,
+        "isUserData":true,
+        "x":674.9801997095914,
+        "y":649.4999999999999,
+        "type":{
+          "name":"PATIENT_GROUP",
+          "ordinal":18
+        },
+        "score":0.0,
+        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"C",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":2,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1439225982142,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1124.9669995159857,
+        "y":649.4999999999999,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"null;node1348;81;35;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"row",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":null,
   "groups":null
