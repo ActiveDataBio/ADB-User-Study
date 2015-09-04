@@ -51,8 +51,8 @@
         "id":1440174354962,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":449.9867998063943,
+        "y":519.5999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":";NP_777571;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -63,7 +63,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
