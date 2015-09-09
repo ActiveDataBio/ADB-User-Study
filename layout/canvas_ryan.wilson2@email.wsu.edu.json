@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1441812111759,
+  "lastModifiedDate":1441812164151,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,15 +18,15 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":14,
+        "@id":12,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323007677,
         "groupId":-1,
         "isUserData":true,
-        "x":1199.964799483718,
-        "y":519.5999999999999,
+        "x":1274.9625994514504,
+        "y":649.4999999999999,
         "type":{
-          "@id":5,
+          "@id":4,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":13,
+        "@id":11,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323008784,
         "groupId":-1,
@@ -54,7 +54,7 @@
         "x":449.9867998063943,
         "y":519.5999999999999,
         "type":{
-          "@id":4,
+          "@id":3,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -74,7 +74,7 @@
         }
       },
       {
-        "@id":12,
+        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323011455,
         "groupId":-1,
@@ -102,7 +102,7 @@
         }
       },
       {
-        "@id":11,
+        "@id":9,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323024895,
         "groupId":-1,
@@ -110,7 +110,7 @@
         "x":1049.9691995482533,
         "y":259.79999999999995,
         "type":{
-          "@id":2,
+          "@id":5,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -127,54 +127,6 @@
         },
         "buttons":{
           "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":10,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1439225960683,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":779.3999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"C",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.LinkedHashMap"
-        }
-      },
-      {
-        "@id":9,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1439225982142,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"null;node1348;81;35;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"row",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.LinkedHashMap"
         }
       }
     ]
@@ -224,7 +176,7 @@
               "isUserData":true,
               "x":1049.9691995482533,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_852478",
@@ -247,7 +199,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -270,7 +222,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
@@ -331,7 +283,7 @@
               "isUserData":true,
               "x":-74.99779996773238,
               "y":649.4999999999999,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_563578",
