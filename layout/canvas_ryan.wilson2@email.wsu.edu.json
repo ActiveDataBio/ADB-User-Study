@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1441811253049,
+  "lastModifiedDate":1441811379220,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":16,
+        "@id":15,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323007677,
         "groupId":-1,
@@ -26,7 +26,7 @@
         "x":1199.964799483718,
         "y":519.5999999999999,
         "type":{
-          "@id":6,
+          "@id":1,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":15,
+        "@id":14,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323008784,
         "groupId":-1,
@@ -74,7 +74,7 @@
         }
       },
       {
-        "@id":14,
+        "@id":13,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323011455,
         "groupId":-1,
@@ -102,7 +102,7 @@
         }
       },
       {
-        "@id":13,
+        "@id":12,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441323024895,
         "groupId":-1,
@@ -110,7 +110,7 @@
         "x":1049.9691995482533,
         "y":259.79999999999995,
         "type":{
-          "@id":1,
+          "@id":6,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -130,41 +130,17 @@
         }
       },
       {
-        "@id":12,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1440174354302,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1274.9625994514504,
-        "y":649.4999999999999,
-        "type":{"@ref":3},
-        "score":0.0,
-        "data":";NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_789846",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.LinkedHashMap"
-        }
-      },
-      {
         "@id":11,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1439225960683,
+        "id":1439225982142,
         "groupId":-1,
         "isUserData":true,
-        "x":749.9779996773237,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
+        "x":1124.9669995159857,
+        "y":649.4999999999999,
+        "type":{"@ref":7},
         "score":0.0,
-        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"C",
+        "data":"null;node1348;81;35;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"row",
         "badge":0,
         "sections":null,
         "listValues":null,
