@@ -3,7 +3,7 @@
   "id":1440174336926,
   "name":"ADB-User-Study_samuel.payne@pnnl.gov",
   "creationDate":1440174336926,
-  "lastModifiedDate":1441387500744,
+  "lastModifiedDate":1441899197474,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -49,12 +49,39 @@
         "id":1440174354962,
         "groupId":-1,
         "isUserData":true,
-        "x":449.9867998063943,
-        "y":519.5999999999999,
+        "x":224.99339990319714,
+        "y":909.2999999999998,
         "type":{"@ref":3},
         "score":0.0,
         "data":";NP_777571;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_777571",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:20062064":"(2010) Common variants at 2q37.3, 8q24.21, 15q21.3 and 16q24.1 influence chronic lymphocytic leukemia risk."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1441387500744,
+        "groupId":-1,
+        "isUserData":true,
+        "x":749.9779996773237,
+        "y":779.3999999999999,
+        "type":{
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa04610;node1662;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04610",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -70,26 +97,27 @@
       {
         "@id":2,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1441387500744,
+        "id":1441899197474,
         "groupId":-1,
         "isUserData":true,
-        "x":749.9779996773237,
+        "x":1349.9603994191827,
         "y":779.3999999999999,
         "type":{
           "@id":1,
-          "name":"PATHWAY",
-          "ordinal":20
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
         },
         "score":0.0,
-        "data":";hsa04610;node1662;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04610",
+        "data":"null;node1659;728;810;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"interesting group",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "notes":"this is my note"
         },
         "buttons":{
           "@type":"java.util.HashMap"
