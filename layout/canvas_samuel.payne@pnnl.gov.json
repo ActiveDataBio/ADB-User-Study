@@ -18,6 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
+        "@id":8,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1440174354302,
         "groupId":-1,
@@ -25,7 +26,7 @@
         "x":1199.964799483718,
         "y":519.5999999999999,
         "type":{
-          "@id":3,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -45,13 +46,14 @@
         }
       },
       {
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1440174354962,
         "groupId":-1,
         "isUserData":true,
         "x":224.99339990319714,
         "y":909.2999999999998,
-        "type":{"@ref":3},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_777571;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_777571",
@@ -69,6 +71,7 @@
         }
       },
       {
+        "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441387500744,
         "groupId":-1,
@@ -76,6 +79,7 @@
         "x":749.9779996773237,
         "y":779.3999999999999,
         "type":{
+          "@id":3,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -95,7 +99,6 @@
         }
       },
       {
-        "@id":2,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441899197474,
         "groupId":-1,
@@ -103,7 +106,6 @@
         "x":1349.9603994191827,
         "y":779.3999999999999,
         "type":{
-          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
