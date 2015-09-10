@@ -3,7 +3,7 @@
   "id":1440174336926,
   "name":"ADB-User-Study_samuel.payne@pnnl.gov",
   "creationDate":1440174336926,
-  "lastModifiedDate":1441920123168,
+  "lastModifiedDate":1441920366903,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -46,13 +46,13 @@
         }
       },
       {
-        "@id":7,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1440174354962,
-        "groupId":-1,
+        "groupId":1441920366903,
         "isUserData":true,
-        "x":224.99339990319714,
-        "y":909.2999999999998,
+        "x":-299.9911998709295,
+        "y":519.5999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":";NP_777571;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -71,29 +71,54 @@
         }
       },
       {
-        "@id":6,
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1441387500744,
-        "groupId":-1,
+        "id":1441920360822,
+        "groupId":1441920366903,
         "isUserData":true,
-        "x":749.9779996773237,
-        "y":779.3999999999999,
+        "x":299.9911998709295,
+        "y":519.5999999999999,
         "type":{
-          "@id":3,
-          "name":"PATHWAY",
-          "ordinal":20
+          "name":"TEXT",
+          "ordinal":0
         },
         "score":0.0,
-        "data":";hsa04610;node1662;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04610",
+        "data":"node",
+        "label":null,
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "dismissed:KEGG_Dissmisser":"Dismissed Pathway from KEGG"
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":6,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1441920366903,
+        "groupId":-1,
+        "isUserData":true,
+        "x":374.98899983866187,
+        "y":389.69999999999993,
+        "type":{
+          "name":"GROUP",
+          "ordinal":13
+        },
+        "score":0.0,
+        "data":"#GROUPmE",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -102,5 +127,26 @@
     ]
   },
   "userEdges":null,
-  "groups":null
+  "groups":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Group",
+        "id":1441920366918,
+        "groupNode":{"@ref":6},
+        "dataNodes":{
+          "@type":"java.util.ArrayList",
+          "@items":[
+            {"@ref":7},
+            {"@ref":5}
+          ]
+        },
+        "type":{
+          "name":"PILE",
+          "ordinal":0
+        },
+        "note":"#GROUPmE"
+      }
+    ]
+  }
 }
