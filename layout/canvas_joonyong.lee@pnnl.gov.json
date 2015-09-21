@@ -3,7 +3,7 @@
   "id":1438299216954,
   "name":"ADB-User-Study_joonyong.lee@pnnl.gov",
   "creationDate":1438299216954,
-  "lastModifiedDate":1441919012190,
+  "lastModifiedDate":1442856865222,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":11,
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439225960683,
         "groupId":-1,
@@ -26,7 +26,7 @@
         "x":299.9911998709295,
         "y":779.3999999999999,
         "type":{
-          "@id":5,
+          "@id":1,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":10,
+        "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439225982142,
         "groupId":-1,
@@ -54,7 +54,7 @@
         "x":1499.9559993546475,
         "y":779.3999999999999,
         "type":{
-          "@id":6,
+          "@id":2,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -74,14 +74,14 @@
         }
       },
       {
-        "@id":9,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919005500,
         "groupId":-1,
         "isUserData":true,
         "x":1199.964799483718,
         "y":259.79999999999995,
-        "type":{"@ref":6},
+        "type":{"@ref":2},
         "score":0.0,
         "data":"null;node1628;111;231;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1628",
@@ -98,7 +98,7 @@
         }
       },
       {
-        "@id":8,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919010818,
         "groupId":-1,
@@ -106,7 +106,6 @@
         "x":374.98899983866187,
         "y":389.69999999999993,
         "type":{
-          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -120,30 +119,6 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":7,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1441919012190,
-        "groupId":-1,
-        "isUserData":true,
-        "x":960.0,
-        "y":500.0,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":";NP_116116;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_116116",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
