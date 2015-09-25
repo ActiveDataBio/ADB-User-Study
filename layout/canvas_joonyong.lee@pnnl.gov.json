@@ -18,13 +18,13 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":7,
+        "@id":8,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439225960683,
         "groupId":-1,
         "isUserData":true,
-        "x":299.9911998709295,
-        "y":779.3999999999999,
+        "x":824.9757996450561,
+        "y":649.4999999999999,
         "type":{
           "@id":1,
           "name":"PATIENT_GROUP",
@@ -46,12 +46,12 @@
         }
       },
       {
-        "@id":6,
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1439225982142,
         "groupId":-1,
         "isUserData":true,
-        "x":1499.9559993546475,
+        "x":1199.964799483718,
         "y":779.3999999999999,
         "type":{
           "@id":2,
@@ -74,13 +74,13 @@
         }
       },
       {
-        "@id":5,
+        "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919005500,
         "groupId":-1,
         "isUserData":true,
-        "x":1199.964799483718,
-        "y":259.79999999999995,
+        "x":599.982399741859,
+        "y":779.3999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":"null;node1628;111;231;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -98,7 +98,7 @@
         }
       },
       {
-        "@id":4,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919010818,
         "groupId":-1,
@@ -106,6 +106,7 @@
         "x":374.98899983866187,
         "y":389.69999999999993,
         "type":{
+          "@id":4,
           "name":"PROTEIN",
           "ordinal":17
         },
