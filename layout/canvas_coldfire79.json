@@ -3,7 +3,7 @@
   "id":1443631795461,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1443631795461,
-  "lastModifiedDate":1443637668358,
+  "lastModifiedDate":1443637782871,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":8,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443632388244,
         "groupId":-1,
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":7,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443635327448,
         "groupId":-1,
@@ -74,7 +74,7 @@
         }
       },
       {
-        "@id":6,
+        "@id":3,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443635452559,
         "groupId":-1,
@@ -95,34 +95,6 @@
         },
         "buttons":{
           "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":5,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443630560983,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1124.9669995159857,
-        "y":389.69999999999993,
-        "type":{
-          "@id":4,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"undefined;NP_000510;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"THBD",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.LinkedHashMap"
         }
       }
     ]
