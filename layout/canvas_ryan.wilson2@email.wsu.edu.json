@@ -18,6 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
+        "@id":15,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630545294,
         "groupId":-1,
@@ -25,6 +26,7 @@
         "x":599.982399741859,
         "y":259.79999999999995,
         "type":{
+          "@id":2,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -44,6 +46,7 @@
         }
       },
       {
+        "@id":14,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630547106,
         "groupId":-1,
@@ -51,6 +54,7 @@
         "x":1424.958199386915,
         "y":389.69999999999993,
         "type":{
+          "@id":3,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -70,6 +74,7 @@
         }
       },
       {
+        "@id":13,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630552847,
         "groupId":-1,
@@ -77,7 +82,7 @@
         "x":449.9867998063943,
         "y":779.3999999999999,
         "type":{
-          "@id":4,
+          "@id":5,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -97,13 +102,14 @@
         }
       },
       {
+        "@id":12,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630560983,
         "groupId":-1,
         "isUserData":true,
         "x":1049.9691995482533,
         "y":779.3999999999999,
-        "type":{"@ref":4},
+        "type":{"@ref":5},
         "score":0.0,
         "data":"undefined;NP_000510;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"THBD",
@@ -120,7 +126,7 @@
         }
       },
       {
-        "@id":6,
+        "@id":11,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630570186,
         "groupId":-1,
@@ -165,7 +171,7 @@
           "x":1274.9625994514504,
           "y":129.89999999999998,
           "type":{
-            "@id":5,
+            "@id":10,
             "name":"GROUP",
             "ordinal":13
           },
@@ -194,7 +200,7 @@
               "isUserData":true,
               "x":1049.9691995482533,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{"@ref":5},
               "score":0.0,
               "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_852478",
@@ -217,7 +223,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{"@ref":5},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -240,7 +246,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":4},
+              "type":{"@ref":5},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
@@ -259,7 +265,7 @@
           ]
         },
         "type":{
-          "@id":3,
+          "@id":9,
           "name":"PILE",
           "ordinal":0
         },
@@ -274,7 +280,7 @@
           "isUserData":true,
           "x":224.99339990319714,
           "y":389.69999999999993,
-          "type":{"@ref":5},
+          "type":{"@ref":10},
           "score":0.0,
           "data":"#group1",
           "label":null,
@@ -294,14 +300,14 @@
           "@type":"java.util.ArrayList",
           "@items":[
             {
-              "@id":2,
+              "@id":8,
               "@type":"gov.pnnl.activedata.data.DataNode",
               "id":1436983920364,
               "groupId":1436984038089,
               "isUserData":true,
               "x":-74.99779996773238,
               "y":649.4999999999999,
-              "type":{"@ref":4},
+              "type":{"@ref":5},
               "score":0.0,
               "data":";NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_563578",
@@ -317,10 +323,10 @@
                 "@type":"java.util.HashMap"
               }
             },
-            {"@ref":2}
+            {"@ref":8}
           ]
         },
-        "type":{"@ref":3},
+        "type":{"@ref":9},
         "note":"#group1"
       }
     ]
