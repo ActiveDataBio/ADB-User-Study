@@ -3,7 +3,7 @@
   "id":1443631795461,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1443631795461,
-  "lastModifiedDate":1443637782871,
+  "lastModifiedDate":1443638138668,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":5,
+        "@id":8,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443632388244,
         "groupId":-1,
@@ -26,7 +26,7 @@
         "x":1424.958199386915,
         "y":649.4999999999999,
         "type":{
-          "@id":2,
+          "@id":1,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":4,
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443635327448,
         "groupId":-1,
@@ -54,7 +54,7 @@
         "x":374.98899983866187,
         "y":649.4999999999999,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -74,14 +74,14 @@
         }
       },
       {
-        "@id":3,
+        "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443635452559,
         "groupId":-1,
         "isUserData":true,
         "x":899.9735996127886,
         "y":779.3999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":"null;node1659;2;810;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1659",
@@ -95,6 +95,34 @@
         },
         "buttons":{
           "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":5,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1443630552847,
+        "groupId":-1,
+        "isUserData":true,
+        "x":824.9757996450561,
+        "y":389.69999999999993,
+        "type":{
+          "@id":4,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":"undefined;NP_000124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"F9",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.LinkedHashMap"
         }
       }
     ]
