@@ -26,7 +26,7 @@
         "x":1124.9669995159857,
         "y":909.2999999999998,
         "type":{
-          "@id":1,
+          "@id":5,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -54,7 +54,7 @@
         "x":1424.958199386915,
         "y":389.69999999999993,
         "type":{
-          "@id":2,
+          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -82,7 +82,7 @@
         "x":449.9867998063943,
         "y":779.3999999999999,
         "type":{
-          "@id":4,
+          "@id":3,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -112,7 +112,7 @@
         "x":299.9911998709295,
         "y":519.5999999999999,
         "type":{
-          "@id":5,
+          "@id":4,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -178,7 +178,7 @@
               "isUserData":true,
               "x":1049.9691995482533,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_852478",
@@ -201,7 +201,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -224,7 +224,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
@@ -285,7 +285,7 @@
               "isUserData":true,
               "x":-74.99779996773238,
               "y":649.4999999999999,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_563578",
