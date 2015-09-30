@@ -3,7 +3,7 @@
   "id":1443631795461,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1443631795461,
-  "lastModifiedDate":1443636731972,
+  "lastModifiedDate":1443636750186,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -104,6 +104,30 @@
         "score":0.0,
         "data":"null;node1659;2;810;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1659",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":2,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1443636750186,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1028.0,
+        "y":659.0,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node1658;495;731;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"xxx",
         "badge":0,
         "sections":null,
         "listValues":null,
