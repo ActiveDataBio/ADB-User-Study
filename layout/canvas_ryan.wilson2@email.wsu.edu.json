@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1443741221883,
+  "lastModifiedDate":1443741514166,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,341 +15,10 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@id":15,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443630545294,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1499.9559993546475,
-        "y":779.3999999999999,
-        "type":{
-          "@id":2,
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";hsa04610;node1658;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04610",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":14,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443630547106,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1424.958199386915,
-        "y":389.69999999999993,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"null;node1658;495;731;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1658",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":13,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443630552847,
-        "groupId":-1,
-        "isUserData":true,
-        "x":449.9867998063943,
-        "y":779.3999999999999,
-        "type":{
-          "@id":4,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"undefined;NP_000124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"F9",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26023895":"(2015) Expression and Characterization of Gly-317 Variants of Factor IX Causing Variable Bleeding in Hemophilia B Patients.",
-          "LITERATURE:25157807":"(2014) Structural insights into the interaction of blood coagulation co-factor VIIIa with factor IXa: a computational protein-protein docking and molecular dynamics refinement study."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443630570186,
-        "groupId":-1,
-        "isUserData":true,
-        "x":299.9911998709295,
-        "y":519.5999999999999,
-        "type":{
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
-        "score":0.0,
-        "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node169",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "notes":"this is a note\n"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443652786301,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":259.79999999999995,
-        "type":{
-          "@id":12,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"apple;apple;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"apple",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443712378497,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1124.9669995159857,
-        "y":389.69999999999993,
-        "type":{"@ref":12},
-        "score":0.0,
-        "data":"apples;apples;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"apples",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":11,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443739271159,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":779.3999999999999,
-        "type":{"@ref":4},
-        "score":0.0,
-        "data":"undefined;NP_001092;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"ACTB",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":10,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1441919012190,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1574.9537993223798,
-        "y":1169.1,
-        "type":{"@ref":4},
-        "score":0.0,
-        "data":";NP_116116;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_116116",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.LinkedHashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443741197879,
-        "groupId":-1,
-        "isUserData":true,
-        "x":524.9845997741267,
-        "y":389.69999999999993,
-        "type":{"@ref":12},
-        "score":0.0,
-        "data":"text node",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1000032,
-        "groupId":-1,
-        "isUserData":true,
-        "x":299.9911998709295,
-        "y":259.79999999999995,
-        "type":{"@ref":4},
-        "score":1.0,
-        "data":"Protein @ NCBI\r\ncoagulation factor IX isoform 1 preproprotein [Homo sapiens]",
-        "label":"Protein @ NCBI",
-        "badge":0,
-        "sections":{
-          "@type":"java.util.ArrayList",
-          "@items":[
-            {
-              "@type":"gov.pnnl.activedata.data.Section",
-              "label":"",
-              "nameValues":{
-                "@type":"java.util.ArrayList",
-                "@items":[
-                  {
-                    "@type":"gov.pnnl.activedata.data.NameValue",
-                    "name":"",
-                    "value":"coagulation factor IX isoform 1 preproprotein [Homo sapiens]"
-                  }
-                ]
-              }
-            },
-            {
-              "@type":"gov.pnnl.activedata.data.Section",
-              "label":"",
-              "nameValues":{
-                "@type":"java.util.ArrayList",
-                "@items":[
-                  {
-                    "@type":"gov.pnnl.activedata.data.NameValue",
-                    "name":"",
-                    "value":""
-                  }
-                ]
-              }
-            },
-            {
-              "@type":"gov.pnnl.activedata.data.Section",
-              "label":"",
-              "nameValues":{
-                "@type":"java.util.ArrayList",
-                "@items":[
-                  {
-                    "@type":"gov.pnnl.activedata.data.NameValue",
-                    "name":"PROTEIN:NP_000124",
-                    "value":"coagulation factor IX isoform 1 preproprotein [Homo sapiens]"
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        "listValues":null,
-        "explainers":{
-          "@type":"java.util.ArrayList",
-          "@items":[
-            "<ul class='back-list'>",
-            "<li class='back-list-item'>Description: coagulation factor IX isoform 1 preproprotein [Homo sapiens]</li>",
-            "<li class='back-list-item'>Accession: NP_000124</li>",
-            "<li class='back-list-item'>Parent organism: Homo sapiens</li>",
-            "</ul>"
-          ]
-        },
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "dismisser":"NCBI_Dismisser"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap",
-          "fasta":"window.open(\"http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&id=NP_000124&rettype=fasta&retmode=txt\")",
-          "ncbi":"window.open(\"http://www.ncbi.nlm.nih.gov/protein/NP_000124?report=genpept\")"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.Edge",
-        "id":1443741172401,
-        "sourceNodeID":1443652786301,
-        "targetNodeID":1443630570186,
-        "label":null,
-        "type":{
-          "name":"SOLID",
-          "ordinal":1
-        },
-        "evidenceNodes":null
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "groups":{
     "@type":"java.util.ArrayList",
@@ -364,7 +33,7 @@
           "x":1274.9625994514504,
           "y":129.89999999999998,
           "type":{
-            "@id":9,
+            "@id":4,
             "name":"GROUP",
             "ordinal":13
           },
@@ -393,7 +62,11 @@
               "isUserData":true,
               "x":1049.9691995482533,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{
+                "@id":3,
+                "name":"PROTEIN",
+                "ordinal":17
+              },
               "score":0.0,
               "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_852478",
@@ -416,7 +89,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -439,7 +112,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
@@ -458,7 +131,7 @@
           ]
         },
         "type":{
-          "@id":8,
+          "@id":2,
           "name":"PILE",
           "ordinal":0
         },
@@ -473,7 +146,7 @@
           "isUserData":true,
           "x":224.99339990319714,
           "y":389.69999999999993,
-          "type":{"@ref":9},
+          "type":{"@ref":4},
           "score":0.0,
           "data":"#group1",
           "label":null,
@@ -493,14 +166,14 @@
           "@type":"java.util.ArrayList",
           "@items":[
             {
-              "@id":7,
+              "@id":1,
               "@type":"gov.pnnl.activedata.data.DataNode",
               "id":1436983920364,
               "groupId":1436984038089,
               "isUserData":true,
               "x":-74.99779996773238,
               "y":649.4999999999999,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_563578",
@@ -516,10 +189,10 @@
                 "@type":"java.util.HashMap"
               }
             },
-            {"@ref":7}
+            {"@ref":1}
           ]
         },
-        "type":{"@ref":8},
+        "type":{"@ref":2},
         "note":"#group1"
       }
     ]
