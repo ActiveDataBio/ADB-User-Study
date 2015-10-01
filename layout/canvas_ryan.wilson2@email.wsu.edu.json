@@ -23,8 +23,8 @@
         "id":1443741701002,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":497.5,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
         "type":{
           "@id":2,
           "name":"PROTEIN",
@@ -39,7 +39,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "dismissed:NCBI_Dismisser":"Dismissed Protein @ NCBI"
         },
         "buttons":{
           "@type":"java.util.HashMap"
