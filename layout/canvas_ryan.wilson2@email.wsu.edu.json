@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":16,
+        "@id":15,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630545294,
         "groupId":-1,
@@ -26,7 +26,7 @@
         "x":1499.9559993546475,
         "y":779.3999999999999,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":15,
+        "@id":14,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630547106,
         "groupId":-1,
@@ -54,7 +54,7 @@
         "x":1424.958199386915,
         "y":389.69999999999993,
         "type":{
-          "@id":4,
+          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -74,7 +74,7 @@
         }
       },
       {
-        "@id":14,
+        "@id":13,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443630552847,
         "groupId":-1,
@@ -82,7 +82,7 @@
         "x":449.9867998063943,
         "y":779.3999999999999,
         "type":{
-          "@id":3,
+          "@id":4,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -138,7 +138,7 @@
         "x":1049.9691995482533,
         "y":259.79999999999995,
         "type":{
-          "@id":13,
+          "@id":12,
           "name":"TEXT",
           "ordinal":0
         },
@@ -164,7 +164,7 @@
         "isUserData":true,
         "x":1124.9669995159857,
         "y":389.69999999999993,
-        "type":{"@ref":13},
+        "type":{"@ref":12},
         "score":0.0,
         "data":"apples;apples;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"apples",
@@ -181,14 +181,14 @@
         }
       },
       {
-        "@id":12,
+        "@id":11,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443739271159,
         "groupId":-1,
         "isUserData":true,
         "x":1049.9691995482533,
         "y":779.3999999999999,
-        "type":{"@ref":3},
+        "type":{"@ref":4},
         "score":0.0,
         "data":"undefined;NP_001092;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"ACTB",
@@ -205,14 +205,14 @@
         }
       },
       {
-        "@id":11,
+        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919012190,
         "groupId":-1,
         "isUserData":true,
         "x":1574.9537993223798,
         "y":1169.1,
-        "type":{"@ref":3},
+        "type":{"@ref":4},
         "score":0.0,
         "data":";NP_116116;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_116116",
@@ -235,7 +235,7 @@
         "isUserData":true,
         "x":524.9845997741267,
         "y":389.69999999999993,
-        "type":{"@ref":13},
+        "type":{"@ref":12},
         "score":0.0,
         "data":"text node",
         "label":null,
@@ -245,21 +245,20 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
         }
       },
       {
-        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1000032,
         "groupId":-1,
         "isUserData":true,
         "x":299.9911998709295,
         "y":259.79999999999995,
-        "type":{"@ref":3},
+        "type":{"@ref":4},
         "score":1.0,
         "data":"Protein @ NCBI\r\ncoagulation factor IX isoform 1 preproprotein [Homo sapiens]",
         "label":"Protein @ NCBI",
@@ -394,7 +393,7 @@
               "isUserData":true,
               "x":1049.9691995482533,
               "y":259.79999999999995,
-              "type":{"@ref":3},
+              "type":{"@ref":4},
               "score":0.0,
               "data":";NP_852478;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_852478",
@@ -417,7 +416,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":3},
+              "type":{"@ref":4},
               "score":0.0,
               "data":";NP_891988;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_891988",
@@ -440,7 +439,7 @@
               "isUserData":true,
               "x":960.0,
               "y":500.0,
-              "type":{"@ref":3},
+              "type":{"@ref":4},
               "score":0.0,
               "data":"undefined;NP_003124;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_003124",
@@ -501,7 +500,7 @@
               "isUserData":true,
               "x":-74.99779996773238,
               "y":649.4999999999999,
-              "type":{"@ref":3},
+              "type":{"@ref":4},
               "score":0.0,
               "data":";NP_563578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_563578",
