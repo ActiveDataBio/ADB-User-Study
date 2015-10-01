@@ -3,7 +3,7 @@
   "id":1440174336926,
   "name":"ADB-User-Study_samuel.payne@pnnl.gov",
   "creationDate":1440174336926,
-  "lastModifiedDate":1441920366903,
+  "lastModifiedDate":1443740105566,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -20,19 +20,19 @@
       {
         "@id":8,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1440174354302,
+        "id":1443630438370,
         "groupId":-1,
         "isUserData":true,
-        "x":1199.964799483718,
-        "y":519.5999999999999,
+        "x":74.99779996773238,
+        "y":389.69999999999993,
         "type":{
-          "@id":2,
+          "@id":3,
           "name":"PROTEIN",
           "ordinal":17
         },
         "score":0.0,
-        "data":";NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_789846",
+        "data":";NP_852667;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_852667",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -46,52 +46,24 @@
         }
       },
       {
-        "@id":5,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1440174354962,
-        "groupId":1441920366903,
-        "isUserData":true,
-        "x":-299.9911998709295,
-        "y":519.5999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":";NP_777571;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_777571",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:20062064":"(2010) Common variants at 2q37.3, 8q24.21, 15q21.3 and 16q24.1 influence chronic lymphocytic leukemia risk."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
         "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1441920360822,
-        "groupId":1441920366903,
+        "id":1443630964420,
+        "groupId":-1,
         "isUserData":true,
-        "x":299.9911998709295,
+        "x":899.9735996127886,
         "y":519.5999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
+        "type":{"@ref":3},
         "score":0.0,
-        "data":"node",
-        "label":null,
+        "data":";NP_997403;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_997403",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -100,25 +72,26 @@
       {
         "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1441920366903,
+        "id":1443740105566,
         "groupId":-1,
         "isUserData":true,
-        "x":374.98899983866187,
+        "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "name":"GROUP",
-          "ordinal":13
+          "@id":1,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
         },
         "score":0.0,
-        "data":"#GROUPmE",
-        "label":null,
+        "data":"null;node1653;233;345;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node1653",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -133,12 +106,84 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1441920366918,
-        "groupNode":{"@ref":6},
+        "groupNode":{
+          "id":1441920366903,
+          "groupId":-1,
+          "isUserData":true,
+          "x":374.98899983866187,
+          "y":389.69999999999993,
+          "type":{
+            "name":"GROUP",
+            "ordinal":13
+          },
+          "score":0.0,
+          "data":"#GROUPmE",
+          "label":null,
+          "badge":0,
+          "sections":null,
+          "listValues":null,
+          "explainers":null,
+          "views":null,
+          "attributes":{
+            "@type":"java.util.HashMap"
+          },
+          "buttons":{
+            "@type":"java.util.HashMap"
+          }
+        },
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
-            {"@ref":7},
-            {"@ref":5}
+            {
+              "@type":"gov.pnnl.activedata.data.DataNode",
+              "id":1441920360822,
+              "groupId":1441920366903,
+              "isUserData":true,
+              "x":299.9911998709295,
+              "y":519.5999999999999,
+              "type":{
+                "name":"TEXT",
+                "ordinal":0
+              },
+              "score":0.0,
+              "data":"node",
+              "label":null,
+              "badge":0,
+              "sections":null,
+              "listValues":null,
+              "explainers":null,
+              "views":null,
+              "attributes":{
+                "@type":"java.util.HashMap"
+              },
+              "buttons":{
+                "@type":"java.util.HashMap"
+              }
+            },
+            {
+              "@type":"gov.pnnl.activedata.data.DataNode",
+              "id":1440174354962,
+              "groupId":1441920366903,
+              "isUserData":true,
+              "x":-299.9911998709295,
+              "y":519.5999999999999,
+              "type":{"@ref":3},
+              "score":0.0,
+              "data":";NP_777571;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+              "label":"NP_777571",
+              "badge":0,
+              "sections":null,
+              "listValues":null,
+              "explainers":null,
+              "views":null,
+              "attributes":{
+                "@type":"java.util.LinkedHashMap",
+                "LITERATURE:20062064":"(2010) Common variants at 2q37.3, 8q24.21, 15q21.3 and 16q24.1 influence chronic lymphocytic leukemia risk."
+              },
+              "buttons":{
+                "@type":"java.util.HashMap"
+              }
+            }
           ]
         },
         "type":{
