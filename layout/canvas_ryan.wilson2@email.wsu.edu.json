@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1444085701867,
+  "lastModifiedDate":1444086870022,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":9,
+        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919010818,
         "groupId":-1,
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":8,
+        "@id":9,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1440174354302,
         "groupId":-1,
@@ -57,6 +57,30 @@
         "score":0.0,
         "data":";NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_789846",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.LinkedHashMap"
+        }
+      },
+      {
+        "@id":8,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1441919012190,
+        "groupId":-1,
+        "isUserData":true,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":";NP_116116;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_116116",
         "badge":0,
         "sections":null,
         "listValues":null,
