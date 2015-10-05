@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1444084588718,
+  "lastModifiedDate":1444085701867,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":6,
+        "@id":9,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919010818,
         "groupId":-1,
@@ -33,6 +33,30 @@
         "score":0.0,
         "data":";NP_542196;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_542196",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.LinkedHashMap"
+        }
+      },
+      {
+        "@id":8,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1440174354302,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1199.964799483718,
+        "y":519.5999999999999,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":";NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_789846",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -63,7 +87,7 @@
           "x":1274.9625994514504,
           "y":129.89999999999998,
           "type":{
-            "@id":5,
+            "@id":7,
             "name":"GROUP",
             "ordinal":13
           },
@@ -157,7 +181,7 @@
           ]
         },
         "type":{
-          "@id":4,
+          "@id":6,
           "name":"PILE",
           "ordinal":0
         },
@@ -172,7 +196,7 @@
           "isUserData":true,
           "x":224.99339990319714,
           "y":389.69999999999993,
-          "type":{"@ref":5},
+          "type":{"@ref":7},
           "score":0.0,
           "data":"#group1",
           "label":null,
@@ -192,7 +216,7 @@
           "@type":"java.util.ArrayList",
           "@items":[
             {
-              "@id":3,
+              "@id":5,
               "@type":"gov.pnnl.activedata.data.DataNode",
               "id":1436983920364,
               "groupId":1436984038089,
@@ -215,10 +239,10 @@
                 "@type":"java.util.HashMap"
               }
             },
-            {"@ref":3}
+            {"@ref":5}
           ]
         },
-        "type":{"@ref":4},
+        "type":{"@ref":6},
         "note":"#group1"
       }
     ]
