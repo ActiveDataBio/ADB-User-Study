@@ -3,7 +3,7 @@
   "id":1436485973019,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1436485973019,
-  "lastModifiedDate":1444146170088,
+  "lastModifiedDate":1444147241681,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":11,
+        "@id":12,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919005500,
         "groupId":-1,
@@ -26,7 +26,7 @@
         "x":1199.964799483718,
         "y":259.79999999999995,
         "type":{
-          "@id":5,
+          "@id":3,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -46,13 +46,13 @@
         }
       },
       {
-        "@id":10,
+        "@id":11,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919012190,
         "groupId":-1,
         "isUserData":true,
-        "x":974.9713995805209,
-        "y":389.69999999999993,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
         "type":{
           "@id":2,
           "name":"PROTEIN",
@@ -74,7 +74,7 @@
         }
       },
       {
-        "@id":9,
+        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1441919010818,
         "groupId":-1,
@@ -85,6 +85,30 @@
         "score":0.0,
         "data":";NP_542196;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_542196",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.LinkedHashMap"
+        }
+      },
+      {
+        "@id":9,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1439225982142,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1499.9559993546475,
+        "y":779.3999999999999,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":"null;node1348;81;35;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"row",
         "badge":0,
         "sections":null,
         "listValues":null,
