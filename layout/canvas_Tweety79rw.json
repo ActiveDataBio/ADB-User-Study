@@ -3,7 +3,7 @@
   "id":1444320088730,
   "name":"ADB-User-Study_ryan.wilson2@email.wsu.edu",
   "creationDate":1444320088730,
-  "lastModifiedDate":1444320088730,
+  "lastModifiedDate":1444320137319,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -14,7 +14,115 @@
       }
     ]
   },
-  "userDataNodes":null,
+  "userDataNodes":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444320126506,
+        "groupId":-1,
+        "isUserData":true,
+        "x":749.9779996773237,
+        "y":259.79999999999995,
+        "type":{
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"null;node1348;81;211;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node1348",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444320127647,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1349.9603994191827,
+        "y":259.79999999999995,
+        "type":{
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa04510;node1348;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04510",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444320132688,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1349.9603994191827,
+        "y":779.3999999999999,
+        "type":{
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_612464;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_612464",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444320137319,
+        "groupId":-1,
+        "isUserData":true,
+        "x":299.9911998709295,
+        "y":519.5999999999999,
+        "type":{
+          "name":"PATIENT_GROUP",
+          "ordinal":18
+        },
+        "score":0.0,
+        "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node169",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
+  },
   "userEdges":null,
   "groups":null
 }
