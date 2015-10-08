@@ -1,16 +1,16 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1444320592891,
-  "name":"ADB-User-Study_tweety79rw",
-  "creationDate":1444320592891,
-  "lastModifiedDate":1444320592891,
+  "id":1444321012155,
+  "name":"ADB-User-Study_Tweety79rw",
+  "creationDate":1444321012155,
+  "lastModifiedDate":1444321012155,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.ADUser",
         "id":0,
-        "name":"ADB-User-Study_tweety79rw"
+        "name":"ADB-User-Study_Tweety79rw"
       }
     ]
   },
