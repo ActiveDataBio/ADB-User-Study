@@ -74,8 +74,8 @@
         "id":1444321223645,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":497.5,
+        "x":674.9801997095914,
+        "y":649.4999999999999,
         "type":{
           "name":"PROTEIN",
           "ordinal":17
@@ -89,7 +89,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:24818585":"(2014) Associations between cerebral small-vessel disease and Alzheimer disease pathology as measured by cerebrospinal fluid biomarkers."
         },
         "buttons":{
           "@type":"java.util.HashMap"
