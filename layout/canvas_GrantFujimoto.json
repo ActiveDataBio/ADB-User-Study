@@ -3,7 +3,7 @@
   "id":1444170855307,
   "name":"ADB-User-Study_GrantFujimoto",
   "creationDate":1444170855307,
-  "lastModifiedDate":1444686045825,
+  "lastModifiedDate":1444686084653,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,7 +22,7 @@
         "id":1444170860074,
         "groupId":-1,
         "isUserData":true,
-        "x":974.9713995805209,
+        "x":374.98899983866187,
         "y":389.69999999999993,
         "type":{
           "name":"PROTEIN_GROUP",
@@ -48,10 +48,10 @@
         "id":1444686043441,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":477.5,
+        "x":974.9713995805209,
+        "y":389.69999999999993,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -77,7 +77,7 @@
         "isUserData":true,
         "x":960.0,
         "y":477.5,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_870986",
@@ -98,9 +98,9 @@
         "id":1444686045161,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":477.5,
-        "type":{"@ref":1},
+        "x":1499.9559993546475,
+        "y":259.79999999999995,
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_861970;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_861970",
@@ -121,9 +121,9 @@
         "id":1444686045825,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":477.5,
-        "type":{"@ref":1},
+        "x":374.98899983866187,
+        "y":649.4999999999999,
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_839943;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_839943",
@@ -141,6 +141,32 @@
       }
     ]
   },
-  "userEdges":null,
+  "userEdges":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1444686082578,
+        "sourceNodeID":1444170860074,
+        "targetNodeID":1444686044145,
+        "label":null,
+        "type":{
+          "@id":1,
+          "name":"SOLID",
+          "ordinal":1
+        },
+        "evidenceNodes":null
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1444686084653,
+        "sourceNodeID":1444686044145,
+        "targetNodeID":1444686045161,
+        "label":null,
+        "type":{"@ref":1},
+        "evidenceNodes":null
+      }
+    ]
+  },
   "groups":null
 }
