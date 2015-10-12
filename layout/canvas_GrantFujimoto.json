@@ -75,8 +75,8 @@
         "id":1444686044145,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":477.5,
+        "x":1049.9691995482533,
+        "y":779.3999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":";NP_870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -87,7 +87,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:23082140":"(2013) Pyruvate kinase deficiency in sub-Saharan Africa identification of a highly frequent missense mutation (G829AGlu277Lys) and association with malaria",
+          "LITERATURE:24375447":"(2014) Novel type of red blood cell pyruvate kinase hyperactivity predicts a remote regulatory locus involved in PKLR gene expression"
         },
         "buttons":{
           "@type":"java.util.HashMap"
