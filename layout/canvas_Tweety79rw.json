@@ -239,7 +239,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:21190562":"(2011) PC3 prostate tumor-initiating cells with molecular profile FAM65BhighMFI2lowLEF1low increase tumor angiogenesis",
+          "PUBMEDS:melanotransferrin isoform 1 precursor [Homo sapiens]":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
