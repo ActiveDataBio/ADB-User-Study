@@ -49,8 +49,8 @@
         "id":1444683992153,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
-        "y":779.3999999999999,
+        "x":374.98899983866187,
+        "y":389.69999999999993,
         "type":{"@ref":1},
         "score":0.0,
         "data":";NP_653174;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -63,7 +63,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap",
           "LITERATURE:24349201":"(2014) NEXN is a novel susceptibility gene for coronary artery disease in Han Chinese",
-          "LITERATURE:15823560":"(2005) NELIN a new F-actin associated protein stimulates HeLa cell migration and adhesion"
+          "LITERATURE:15823560":"(2005) NELIN a new F-actin associated protein stimulates HeLa cell migration and adhesion",
+          "LITERATURE:19881492":"(2009) Nexilin mutations destabilize cardiac Z-disks and lead to dilated cardiomyopathy"
         },
         "buttons":{
           "@type":"java.util.HashMap"
