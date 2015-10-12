@@ -3,7 +3,7 @@
   "id":1444170855307,
   "name":"ADB-User-Study_GrantFujimoto",
   "creationDate":1444170855307,
-  "lastModifiedDate":1444170984931,
+  "lastModifiedDate":1444686045825,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,10 +22,9 @@
         "id":1444170860074,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":477.5,
+        "x":974.9713995805209,
+        "y":389.69999999999993,
         "type":{
-          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -46,15 +45,19 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1441919005500,
+        "id":1444686043441,
         "groupId":-1,
         "isUserData":true,
-        "x":-74.99779996773238,
-        "y":649.4999999999999,
-        "type":{"@ref":1},
+        "x":960.0,
+        "y":477.5,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
         "score":0.0,
-        "data":"null;node1628;111;231;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1628",
+        "data":";NP_945146;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_945146",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -64,30 +67,73 @@
           "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.HashMap"
         }
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444170984931,
+        "id":1444686044145,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
-        "y":649.4999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
+        "x":960.0,
+        "y":477.5,
+        "type":{"@ref":1},
         "score":0.0,
-        "data":"turn down for what",
-        "label":null,
+        "data":";NP_870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_870986",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
           "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444686045161,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":477.5,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_861970;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_861970",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444686045825,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":477.5,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_839943;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_839943",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
