@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1444321393055,
+  "lastModifiedDate":1444667197006,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -74,9 +74,10 @@
         "id":1444321223645,
         "groupId":-1,
         "isUserData":true,
-        "x":899.9735996127886,
-        "y":779.3999999999999,
+        "x":824.9757996450561,
+        "y":909.2999999999998,
         "type":{
+          "@id":1,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -92,7 +93,9 @@
           "@type":"java.util.LinkedHashMap",
           "LITERATURE:24818585":"(2014) Associations between cerebral small-vessel disease and Alzheimer disease pathology as measured by cerebrospinal fluid biomarkers.",
           "LITERATURE:24929931":"(2014) Hirano bodies differentially modulate cell death induced by tau and the amyloid precursor protein intracellular domain.",
-          "LITERATURE:24948815":"(2014) Gene-environment interactions lifetime cognitive activity APOE genotype and -amyloid burden"
+          "LITERATURE:24948815":"(2014) Gene-environment interactions lifetime cognitive activity APOE genotype and -amyloid burden",
+          "LITERATURE:1302033":"(1993) A pathogenic mutation for probable Alzheimers disease in the APP gene at the N-terminus of beta-amyloid",
+          "PUBMEDS:amyloid beta A4 protein isoform b precursor [Homo sapiens]":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -145,6 +148,98 @@
         "views":null,
         "attributes":{
           "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444667195236,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1649.9515992901122,
+        "y":779.3999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_570602;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_570602",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444667196239,
+        "groupId":-1,
+        "isUserData":true,
+        "x":149.99559993546475,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_443122;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_443122",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444667196466,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1349.9603994191827,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_006206;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_006206",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444667197006,
+        "groupId":-1,
+        "isUserData":true,
+        "x":899.9735996127886,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_005920;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_005920",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
