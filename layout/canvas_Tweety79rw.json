@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1444667197006,
+  "lastModifiedDate":1444757413917,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,7 +22,7 @@
         "id":1444321219246,
         "groupId":-1,
         "isUserData":true,
-        "x":1574.9537993223798,
+        "x":1274.9625994514504,
         "y":389.69999999999993,
         "type":{
           "name":"PROTEIN_GROUP",
@@ -71,119 +71,15 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444321223645,
-        "groupId":-1,
-        "isUserData":true,
-        "x":824.9757996450561,
-        "y":909.2999999999998,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_958816;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_958816",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24818585":"(2014) Associations between cerebral small-vessel disease and Alzheimer disease pathology as measured by cerebrospinal fluid biomarkers.",
-          "LITERATURE:24929931":"(2014) Hirano bodies differentially modulate cell death induced by tau and the amyloid precursor protein intracellular domain.",
-          "LITERATURE:24948815":"(2014) Gene-environment interactions lifetime cognitive activity APOE genotype and -amyloid burden",
-          "LITERATURE:1302033":"(1993) A pathogenic mutation for probable Alzheimers disease in the APP gene at the N-terminus of beta-amyloid",
-          "PUBMEDS:amyloid beta A4 protein isoform b precursor [Homo sapiens]":"Pubmed Titles List"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444321233474,
-        "groupId":-1,
-        "isUserData":true,
-        "x":374.98899983866187,
-        "y":649.4999999999999,
-        "type":{
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
-        "score":0.0,
-        "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node169",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444321393055,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1199.964799483718,
-        "y":519.5999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"Tweety79rw is the login name",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444667195236,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1649.9515992901122,
-        "y":779.3999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_570602;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_570602",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1444667196239,
         "groupId":-1,
         "isUserData":true,
-        "x":149.99559993546475,
-        "y":259.79999999999995,
-        "type":{"@ref":1},
+        "x":974.9713995805209,
+        "y":909.2999999999998,
+        "type":{
+          "name":"PROTEIN",
+          "ordinal":17
+        },
         "score":0.0,
         "data":";NP_443122;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_443122",
@@ -193,55 +89,34 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444667196466,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":259.79999999999995,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_006206;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_006206",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444667197006,
-        "groupId":-1,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":259.79999999999995,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_005920;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_005920",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "LITERATURE:21190562":"(2011) PC3 prostate tumor-initiating cells with molecular profile FAM65BhighMFI2lowLEF1low increase tumor angiogenesis",
-          "PUBMEDS:melanotransferrin isoform 1 precursor [Homo sapiens]":"Pubmed Titles List"
+          "PROTEIN:NP_443122":"N-acetylmuramoyl-L-alanine amidase precursor Homo sapiens"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1444757310398,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1066.5,
+        "y":528.5,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"26453703;26453703;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -249,6 +124,47 @@
       }
     ]
   },
-  "userEdges":null,
-  "groups":null
+  "userEdges":{
+    "@type":"java.util.ArrayList"
+  },
+  "groups":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Group",
+        "id":1444757369723,
+        "groupNode":{
+          "id":1444757369707,
+          "groupId":-1,
+          "isUserData":true,
+          "x":224.99339990319714,
+          "y":909.2999999999998,
+          "type":{
+            "name":"GROUP",
+            "ordinal":13
+          },
+          "score":0.0,
+          "data":"#group 1",
+          "label":null,
+          "badge":0,
+          "sections":null,
+          "listValues":null,
+          "explainers":null,
+          "views":null,
+          "attributes":{
+            "@type":"java.util.HashMap"
+          },
+          "buttons":{
+            "@type":"java.util.HashMap"
+          }
+        },
+        "dataNodes":null,
+        "type":{
+          "name":"PILE",
+          "ordinal":0
+        },
+        "note":"#group 1"
+      }
+    ]
+  }
 }
