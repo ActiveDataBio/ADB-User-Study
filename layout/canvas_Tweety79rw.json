@@ -90,7 +90,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "PROTEIN:NP_443122":"N-acetylmuramoyl-L-alanine amidase precursor Homo sapiens"
+          "PROTEIN:NP_443122":"N-acetylmuramoyl-L-alanine amidase precursor Homo sapiens",
+          "dismissed:PUBMED_Dismisser":"Dismissed PubMed Titles"
         },
         "buttons":{
           "@type":"java.util.HashMap"
