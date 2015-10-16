@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1445010473091,
+  "lastModifiedDate":1445011273588,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -48,9 +48,10 @@
         "id":1444667196239,
         "groupId":-1,
         "isUserData":true,
-        "x":974.9713995805209,
-        "y":909.2999999999998,
+        "x":1574.9537993223798,
+        "y":649.4999999999999,
         "type":{
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -76,14 +77,61 @@
         "id":1445010459550,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":497.5,
+        "x":749.9779996773237,
+        "y":519.5999999999999,
         "type":{
+          "@id":1,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
         "data":"apples;apples;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445011163915,
+        "groupId":-1,
+        "isUserData":true,
+        "x":374.98899983866187,
+        "y":389.69999999999993,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":"AAB35328.1;AAB35328.1;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"AAB35328.1",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445011273588,
+        "groupId":-1,
+        "isUserData":true,
+        "x":299.9911998709295,
+        "y":779.3999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"26456261;26456261;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"pubmed",
         "badge":0,
         "sections":null,
