@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1445010172677,
+  "lastModifiedDate":1445010473091,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -31,32 +31,6 @@
         "score":0.0,
         "data":"null;node1653;233;345;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1653",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444321220882,
-        "groupId":-1,
-        "isUserData":true,
-        "x":524.9845997741267,
-        "y":389.69999999999993,
-        "type":{
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";hsa04510;node1653;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04510",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -99,17 +73,17 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444757310398,
+        "id":1445010459550,
         "groupId":-1,
         "isUserData":true,
-        "x":224.99339990319714,
-        "y":649.4999999999999,
+        "x":960.0,
+        "y":497.5,
         "type":{
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
-        "data":"26453703;26453703;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "data":"apples;apples;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"pubmed",
         "badge":0,
         "sections":null,
