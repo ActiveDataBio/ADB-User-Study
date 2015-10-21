@@ -3,7 +3,7 @@
   "id":1445379796105,
   "name":"ADB-User-Study_samuelpayne",
   "creationDate":1445379796105,
-  "lastModifiedDate":1445443210011,
+  "lastModifiedDate":1445443387557,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -49,12 +49,62 @@
         "id":1445443180227,
         "groupId":-1,
         "isUserData":true,
-        "x":1199.964799483718,
-        "y":779.3999999999999,
-        "type":{"@ref":1},
+        "x":1124.9669995159857,
+        "y":1169.1,
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_005547;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_005547",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445443268775,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1349.9603994191827,
+        "y":259.79999999999995,
+        "type":{
+          "@id":1,
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa04510;node1653;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04510",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445443282963,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1499.9559993546475,
+        "y":1039.1999999999998,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";hsa04810;node1653;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04810",
         "badge":0,
         "sections":null,
         "listValues":null,
