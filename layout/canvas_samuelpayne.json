@@ -3,7 +3,7 @@
   "id":1445379796105,
   "name":"ADB-User-Study_samuelpayne",
   "creationDate":1445379796105,
-  "lastModifiedDate":1445449926784,
+  "lastModifiedDate":1445450351287,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -48,10 +48,9 @@
         "id":1445449185476,
         "groupId":-1,
         "isUserData":true,
-        "x":224.99339990319714,
-        "y":649.4999999999999,
+        "x":0.0,
+        "y":259.79999999999995,
         "type":{
-          "@id":3,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -66,55 +65,6 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap",
           "PROTEIN:NP_899050":"ras-related protein Rab-23 Homo sapiens"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445449480140,
-        "groupId":-1,
-        "isUserData":true,
-        "x":974.9713995805209,
-        "y":649.4999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"26482043;26482043;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445449907939,
-        "groupId":-1,
-        "isUserData":true,
-        "x":-299.9911998709295,
-        "y":259.79999999999995,
-        "type":{"@ref":3},
-        "score":0.0,
-        "data":";NP_006261;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_006261",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -220,6 +170,35 @@
         "dataNodes":null,
         "type":{"@ref":1},
         "note":"#interestingproteins"
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.Group",
+        "id":1445450345897,
+        "groupNode":{
+          "id":1445450345895,
+          "groupId":-1,
+          "isUserData":true,
+          "x":-74.99779996773238,
+          "y":129.89999999999998,
+          "type":{"@ref":2},
+          "score":0.0,
+          "data":"#In",
+          "label":null,
+          "badge":0,
+          "sections":null,
+          "listValues":null,
+          "explainers":null,
+          "views":null,
+          "attributes":{
+            "@type":"java.util.HashMap"
+          },
+          "buttons":{
+            "@type":"java.util.HashMap"
+          }
+        },
+        "dataNodes":null,
+        "type":{"@ref":1},
+        "note":"#In"
       }
     ]
   }
