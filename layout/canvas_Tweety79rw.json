@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1445446124779,
+  "lastModifiedDate":1445530612266,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,7 +22,7 @@
         "id":1445445481279,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
+        "x":674.9801997095914,
         "y":649.4999999999999,
         "type":{
           "name":"PROTEIN",
@@ -38,7 +38,36 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "PROTEIN:NP_443198":"protein Niban Homo sapiens"
+          "PROTEIN:NP_443198":"protein Niban Homo sapiens",
+          "PUBMEDS:protein Niban [Homo sapiens]":"Pubmed Titles List"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":3,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445530612266,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "@id":2,
+          "name":"GROUP",
+          "ordinal":13
+        },
+        "score":0.0,
+        "data":"#group",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -61,10 +90,7 @@
           "isUserData":true,
           "x":224.99339990319714,
           "y":909.2999999999998,
-          "type":{
-            "name":"GROUP",
-            "ordinal":13
-          },
+          "type":{"@ref":2},
           "score":0.0,
           "data":"#group 1",
           "label":null,
@@ -82,10 +108,19 @@
         },
         "dataNodes":null,
         "type":{
+          "@id":1,
           "name":"PILE",
           "ordinal":0
         },
         "note":"#group 1"
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.Group",
+        "id":1445530612278,
+        "groupNode":{"@ref":3},
+        "dataNodes":null,
+        "type":{"@ref":1},
+        "note":"#group"
       }
     ]
   }
