@@ -66,7 +66,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "PUBMEDS:mth938 domain-containing protein [Homo sapiens]":"Pubmed Titles List",
+          "PROTEIN:NP_078960":"mth938 domain-containing protein Homo sapiens"
         },
         "buttons":{
           "@type":"java.util.HashMap"
