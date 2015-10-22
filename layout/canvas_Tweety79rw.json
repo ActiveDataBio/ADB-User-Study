@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":4,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1445530612266,
         "groupId":-1,
@@ -46,9 +46,10 @@
         }
       },
       {
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1445530845361,
-        "groupId":-1,
+        "groupId":1445530612266,
         "isUserData":true,
         "x":899.9735996127886,
         "y":519.5999999999999,
@@ -139,8 +140,13 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1445530612278,
-        "groupNode":{"@ref":4},
-        "dataNodes":null,
+        "groupNode":{"@ref":5},
+        "dataNodes":{
+          "@type":"java.util.ArrayList",
+          "@items":[
+            {"@ref":4}
+          ]
+        },
         "type":{"@ref":1},
         "note":"#group"
       },
