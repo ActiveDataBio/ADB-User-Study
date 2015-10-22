@@ -37,7 +37,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "PROTEIN:NP_443198":"protein Niban Homo sapiens"
         },
         "buttons":{
           "@type":"java.util.HashMap"
