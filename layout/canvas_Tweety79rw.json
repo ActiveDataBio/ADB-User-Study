@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1445546272701,
+  "lastModifiedDate":1445554638165,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,242 +18,47 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":13,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445530612266,
-        "groupId":-1,
-        "isUserData":true,
-        "x":524.9845997741267,
-        "y":389.69999999999993,
-        "type":{
-          "@id":3,
-          "name":"GROUP",
-          "ordinal":13
-        },
-        "score":0.0,
-        "data":"#group",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
         "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445530845361,
-        "groupId":1445532496552,
+        "id":1445445481279,
+        "groupId":1445554638165,
         "isUserData":true,
-        "x":1199.964799483718,
-        "y":519.5999999999999,
+        "x":524.9845997741267,
+        "y":649.4999999999999,
         "type":{
-          "@id":1,
           "name":"PROTEIN",
           "ordinal":17
         },
         "score":0.0,
-        "data":";NP_078960;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_078960",
+        "data":";NP_443198;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_443198",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "PUBMEDS:mth938 domain-containing protein [Homo sapiens]":"Pubmed Titles List",
-          "PROTEIN:NP_078960":"mth938 domain-containing protein Homo sapiens"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
         }
       },
       {
-        "@id":12,
+        "@id":3,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445532496552,
+        "id":1445554638165,
         "groupId":-1,
         "isUserData":true,
-        "x":1199.964799483718,
-        "y":259.79999999999995,
-        "type":{"@ref":3},
-        "score":0.0,
-        "data":"#group2",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
+        "x":974.9713995805209,
+        "y":389.69999999999993,
+        "type":{
+          "@id":2,
+          "name":"GROUP",
+          "ordinal":13
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":11,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445546144730,
-        "groupId":1445546272701,
-        "isUserData":true,
-        "x":74.99779996773238,
-        "y":649.4999999999999,
-        "type":{"@ref":1},
         "score":0.0,
-        "data":";NP_945146;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_945146",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":10,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445546144818,
-        "groupId":1445530612266,
-        "isUserData":true,
-        "x":299.9911998709295,
-        "y":259.79999999999995,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_839943;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_839943",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":9,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445546172240,
-        "groupId":1445530612266,
-        "isUserData":true,
-        "x":960.0,
-        "y":500.0,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_870986",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":8,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445546174100,
-        "groupId":1445532496552,
-        "isUserData":true,
-        "x":960.0,
-        "y":500.0,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_808592;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_808592",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":7,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445546203971,
-        "groupId":1445532496552,
-        "isUserData":true,
-        "x":1499.9559993546475,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_981961;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_981961",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":6,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445546224409,
-        "groupId":1445546272701,
-        "isUserData":true,
-        "x":374.98899983866187,
-        "y":649.4999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_976319;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_976319",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":5,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445546272701,
-        "groupId":-1,
-        "isUserData":true,
-        "x":224.99339990319714,
-        "y":909.2999999999998,
-        "type":{"@ref":3},
-        "score":0.0,
-        "data":"#group3",
+        "data":"#group0",
         "label":null,
         "badge":0,
         "sections":null,
@@ -270,21 +75,7 @@
     ]
   },
   "userEdges":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.Edge",
-        "id":1445546253196,
-        "sourceNodeID":1445530845361,
-        "targetNodeID":1445546203971,
-        "label":null,
-        "type":{
-          "name":"SOLID",
-          "ordinal":1
-        },
-        "evidenceNodes":null
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "groups":{
     "@type":"java.util.ArrayList",
@@ -298,7 +89,7 @@
           "isUserData":true,
           "x":224.99339990319714,
           "y":909.2999999999998,
-          "type":{"@ref":3},
+          "type":{"@ref":2},
           "score":0.0,
           "data":"#group 1",
           "label":null,
@@ -316,7 +107,7 @@
         },
         "dataNodes":null,
         "type":{
-          "@id":2,
+          "@id":1,
           "name":"PILE",
           "ordinal":0
         },
@@ -324,47 +115,16 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.Group",
-        "id":1445530612278,
-        "groupNode":{"@ref":13},
+        "id":1445554638167,
+        "groupNode":{"@ref":3},
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
-            {"@ref":4},
-            {"@ref":10},
-            {"@ref":9}
+            {"@ref":4}
           ]
         },
-        "type":{"@ref":2},
-        "note":"#group"
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1445532496559,
-        "groupNode":{"@ref":12},
-        "dataNodes":{
-          "@type":"java.util.ArrayList",
-          "@items":[
-            {"@ref":4},
-            {"@ref":7},
-            {"@ref":8}
-          ]
-        },
-        "type":{"@ref":2},
-        "note":"#group2"
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1445546272705,
-        "groupNode":{"@ref":5},
-        "dataNodes":{
-          "@type":"java.util.ArrayList",
-          "@items":[
-            {"@ref":11},
-            {"@ref":6}
-          ]
-        },
-        "type":{"@ref":2},
-        "note":"#group3"
+        "type":{"@ref":1},
+        "note":"#group0"
       }
     ]
   }
