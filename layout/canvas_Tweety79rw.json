@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1445530845361,
+  "lastModifiedDate":1445532496552,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":674.9801997095914,
         "y":649.4999999999999,
         "type":{
-          "@id":4,
+          "@id":5,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -47,7 +47,7 @@
         }
       },
       {
-        "@id":3,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1445530612266,
         "groupId":-1,
@@ -81,7 +81,7 @@
         "isUserData":true,
         "x":960.0,
         "y":497.5,
-        "type":{"@ref":4},
+        "type":{"@ref":5},
         "score":0.0,
         "data":";NP_078960;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_078960",
@@ -92,6 +92,30 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":3,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1445532496552,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1199.964799483718,
+        "y":259.79999999999995,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":"#group2",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -141,10 +165,18 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1445530612278,
-        "groupNode":{"@ref":3},
+        "groupNode":{"@ref":4},
         "dataNodes":null,
         "type":{"@ref":1},
         "note":"#group"
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.Group",
+        "id":1445532496559,
+        "groupNode":{"@ref":3},
+        "dataNodes":null,
+        "type":{"@ref":1},
+        "note":"#group2"
       }
     ]
   }
