@@ -50,8 +50,8 @@
         "id":1445554638165,
         "groupId":-1,
         "isUserData":true,
-        "x":974.9713995805209,
-        "y":389.69999999999993,
+        "x":674.9801997095914,
+        "y":129.89999999999998,
         "type":{
           "@id":2,
           "name":"GROUP",
@@ -66,7 +66,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
