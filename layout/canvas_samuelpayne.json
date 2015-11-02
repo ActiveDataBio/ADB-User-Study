@@ -1,9 +1,9 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1445379796105,
+  "id":1446141628736,
   "name":"ADB-User-Study_samuelpayne",
-  "creationDate":1445379796105,
-  "lastModifiedDate":1445450485826,
+  "creationDate":1446141628736,
+  "lastModifiedDate":1446493438297,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,45 +19,19 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445448235250,
+        "id":1446141645939,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
-        "y":259.79999999999995,
+        "x":824.9757996450561,
+        "y":389.69999999999993,
         "type":{
-          "@id":3,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"null;node1653;233;345;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"up in poor survival",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1445449185476,
-        "groupId":-1,
-        "isUserData":true,
-        "x":149.99559993546475,
-        "y":259.79999999999995,
-        "type":{
+          "@id":1,
           "name":"PROTEIN",
           "ordinal":17
         },
         "score":0.0,
-        "data":";NP_899050;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_899050",
+        "data":"undefined;NP_000578;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"C7",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -65,7 +39,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "PROTEIN:NP_899050":"ras-related protein Rab-23 Homo sapiens"
+          "PROTEIN:NP_000578":"complement component C7 precursor Homo sapiens",
+          "notes":"I really like co-ag seven"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -73,15 +48,15 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443635452559,
+        "id":1446493436766,
         "groupId":-1,
         "isUserData":true,
-        "x":899.9735996127886,
-        "y":779.3999999999999,
-        "type":{"@ref":3},
+        "x":1649.9515992901122,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
         "score":0.0,
-        "data":"null;node1659;2;810;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1659",
+        "data":";NP_997639;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_997639",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -91,139 +66,57 @@
           "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1446493437109,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1649.9515992901122,
+        "y":779.3999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_997403;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_997403",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
           "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1446493438297,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1199.964799483718,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_997192;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_997192",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
         }
       }
     ]
   },
   "userEdges":null,
-  "groups":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1445448815341,
-        "groupNode":{
-          "id":1445448815338,
-          "groupId":-1,
-          "isUserData":true,
-          "x":74.99779996773238,
-          "y":129.89999999999998,
-          "type":{
-            "@id":2,
-            "name":"GROUP",
-            "ordinal":13
-          },
-          "score":0.0,
-          "data":"#papers on poor survival",
-          "label":null,
-          "badge":0,
-          "sections":null,
-          "listValues":null,
-          "explainers":null,
-          "views":null,
-          "attributes":{
-            "@type":"java.util.HashMap"
-          },
-          "buttons":{
-            "@type":"java.util.HashMap"
-          }
-        },
-        "dataNodes":null,
-        "type":{
-          "@id":1,
-          "name":"PILE",
-          "ordinal":0
-        },
-        "note":"#papers on poor survival"
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1445448887728,
-        "groupNode":{
-          "id":1445448887726,
-          "groupId":-1,
-          "isUserData":true,
-          "x":-74.99779996773238,
-          "y":129.89999999999998,
-          "type":{"@ref":2},
-          "score":0.0,
-          "data":"#interestingGenes",
-          "label":null,
-          "badge":0,
-          "sections":null,
-          "listValues":null,
-          "explainers":null,
-          "views":null,
-          "attributes":{
-            "@type":"java.util.HashMap"
-          },
-          "buttons":{
-            "@type":"java.util.HashMap"
-          }
-        },
-        "dataNodes":null,
-        "type":{"@ref":1},
-        "note":"#interestingGenes"
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1445449522226,
-        "groupNode":{
-          "id":1445449522224,
-          "groupId":-1,
-          "isUserData":true,
-          "x":-374.98899983866187,
-          "y":129.89999999999998,
-          "type":{"@ref":2},
-          "score":0.0,
-          "data":"#interestingproteins",
-          "label":null,
-          "badge":0,
-          "sections":null,
-          "listValues":null,
-          "explainers":null,
-          "views":null,
-          "attributes":{
-            "@type":"java.util.HashMap"
-          },
-          "buttons":{
-            "@type":"java.util.HashMap"
-          }
-        },
-        "dataNodes":null,
-        "type":{"@ref":1},
-        "note":"#interestingproteins"
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1445450345897,
-        "groupNode":{
-          "id":1445450345895,
-          "groupId":-1,
-          "isUserData":true,
-          "x":-74.99779996773238,
-          "y":129.89999999999998,
-          "type":{"@ref":2},
-          "score":0.0,
-          "data":"#In",
-          "label":null,
-          "badge":0,
-          "sections":null,
-          "listValues":null,
-          "explainers":null,
-          "views":null,
-          "attributes":{
-            "@type":"java.util.HashMap"
-          },
-          "buttons":{
-            "@type":"java.util.HashMap"
-          }
-        },
-        "dataNodes":null,
-        "type":{"@ref":1},
-        "note":"#In"
-      }
-    ]
-  }
+  "groups":null
 }
