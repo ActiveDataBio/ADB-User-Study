@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1445875269452,
+  "lastModifiedDate":1446679414345,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":4,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1445445481279,
         "groupId":1445554638165,
@@ -26,6 +26,7 @@
         "x":524.9845997741267,
         "y":649.4999999999999,
         "type":{
+          "@id":3,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -45,7 +46,7 @@
         }
       },
       {
-        "@id":3,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1445554638165,
         "groupId":-1,
@@ -77,8 +78,8 @@
         "id":1445875269452,
         "groupId":-1,
         "isUserData":true,
-        "x":1349.9603994191827,
-        "y":519.5999999999999,
+        "x":1574.9537993223798,
+        "y":649.4999999999999,
         "type":{
           "name":"PROTEIN_GROUP",
           "ordinal":16
@@ -86,6 +87,101 @@
         "score":0.0,
         "data":"null;node1348;81;211;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1348",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1446679175195,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1274.9625994514504,
+        "y":389.69999999999993,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":";NP_899050;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_899050",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1446679211132,
+        "groupId":-1,
+        "isUserData":true,
+        "x":299.9911998709295,
+        "y":259.79999999999995,
+        "type":{
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa04670;node1322;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04670",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1446679223693,
+        "groupId":-1,
+        "isUserData":true,
+        "x":824.9757996450561,
+        "y":389.69999999999993,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":"undefined;NP_002863;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"RAC2",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1446679414345,
+        "groupId":-1,
+        "isUserData":true,
+        "x":899.9735996127886,
+        "y":779.3999999999999,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":"undefined;NP_001120963;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"ITGB2",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -142,11 +238,11 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1445554638167,
-        "groupNode":{"@ref":3},
+        "groupNode":{"@ref":4},
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
-            {"@ref":4}
+            {"@ref":5}
           ]
         },
         "type":{"@ref":1},
