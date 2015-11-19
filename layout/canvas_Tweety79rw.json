@@ -188,7 +188,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "PROTEIN:NP_001120963":"integrin beta-2 isoform 1 precursor Homo sapiens",
+          "PUBMEDS:integrin beta-2 isoform 1 precursor [Homo sapiens]":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
