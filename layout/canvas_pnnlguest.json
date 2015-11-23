@@ -1,9 +1,9 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1444683977835,
+  "id":1445612680188,
   "name":"ADB-User-Study_pnnlguest",
-  "creationDate":1444683977835,
-  "lastModifiedDate":1444683993419,
+  "creationDate":1445612680188,
+  "lastModifiedDate":1445612746670,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,68 +19,18 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444683991110,
+        "id":1445612746670,
         "groupId":-1,
         "isUserData":true,
         "x":824.9757996450561,
-        "y":649.4999999999999,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_998839;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_998839",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444683992153,
-        "groupId":-1,
-        "isUserData":true,
-        "x":374.98899983866187,
         "y":389.69999999999993,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_653174;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_653174",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24349201":"(2014) NEXN is a novel susceptibility gene for coronary artery disease in Han Chinese",
-          "LITERATURE:15823560":"(2005) NELIN a new F-actin associated protein stimulates HeLa cell migration and adhesion",
-          "LITERATURE:19881492":"(2009) Nexilin mutations destabilize cardiac Z-disks and lead to dilated cardiomyopathy"
+        "type":{
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1444683993420,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":259.79999999999995,
-        "type":{"@ref":1},
         "score":0.0,
-        "data":";NP_149131;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_149131",
+        "data":"null;node1644;101;276;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node1644",
         "badge":0,
         "sections":null,
         "listValues":null,
