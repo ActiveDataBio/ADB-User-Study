@@ -1,2 +1,1 @@
-# cohort-sample
-a sample dataset for cohorts (artificially created)
+The Active Data Biology User Study Dataset is a subset of a publicly available ovarian cancer proteomics experiment. This dataset contains a proteomic survey of 174 tumors and provides quantitative abundance measurement for 3589 proteins. Proteins are cross-annotated by KEGG and can be view in the Pathway viewer. The tumors are annotated with a variety of clinical information including treatment and outcome. The patients are anonymized and shown only as a randomized identifier.
