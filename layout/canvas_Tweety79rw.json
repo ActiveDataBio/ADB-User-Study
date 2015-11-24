@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1448400088987,
+  "lastModifiedDate":1448400132549,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,59 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448400100034,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":500.0,
+        "type":{
+          "@id":3,
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"26590880;26590880;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"26590880",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448400132549,
+        "groupId":-1,
+        "isUserData":true,
+        "x":840.0,
+        "y":482.5,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":"e+coli;e+coli;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"e+coli",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
