@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1448404074304,
+  "lastModifiedDate":1448404338173,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,66 +22,16 @@
         "id":1448404049768,
         "groupId":-1,
         "isUserData":true,
-        "x":840.0,
-        "y":469.0,
+        "x":599.982399741859,
+        "y":519.5999999999999,
         "type":{
-          "@id":4,
+          "@id":3,
           "name":"PROTEIN",
           "ordinal":17
         },
         "score":0.0,
         "data":"AAX36149.1;AAX36149.1;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"AAX36149.1",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448404061968,
-        "groupId":-1,
-        "isUserData":true,
-        "x":840.0,
-        "y":469.0,
-        "type":{
-          "@id":3,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"e+coli;e+coli;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"e+coli",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448404074304,
-        "groupId":-1,
-        "isUserData":true,
-        "x":840.0,
-        "y":469.0,
-        "type":{"@ref":3},
-        "score":0.0,
-        "data":"26590880;26590880;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"26590880",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -174,7 +124,7 @@
               "isUserData":true,
               "x":524.9845997741267,
               "y":649.4999999999999,
-              "type":{"@ref":4},
+              "type":{"@ref":3},
               "score":0.0,
               "data":";NP_443198;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_443198",
