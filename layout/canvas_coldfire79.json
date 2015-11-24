@@ -3,7 +3,7 @@
   "id":1443631795461,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1443631795461,
-  "lastModifiedDate":1448338086539,
+  "lastModifiedDate":1448399900799,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":3,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443632388244,
         "groupId":1448338086539,
@@ -52,7 +52,7 @@
         "x":299.9911998709295,
         "y":259.79999999999995,
         "type":{
-          "@id":2,
+          "@id":3,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -78,7 +78,7 @@
         "isUserData":true,
         "x":599.982399741859,
         "y":259.79999999999995,
-        "type":{"@ref":2},
+        "type":{"@ref":3},
         "score":0.0,
         "data":"null;node1659;2;810;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1659",
@@ -95,7 +95,7 @@
         }
       },
       {
-        "@id":1,
+        "@id":2,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1448338086539,
         "groupId":-1,
@@ -120,6 +120,56 @@
         "buttons":{
           "@type":"java.util.HashMap"
         }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448399833202,
+        "groupId":-1,
+        "isUserData":true,
+        "x":824.9757996450561,
+        "y":649.4999999999999,
+        "type":{
+          "@id":1,
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"ovarian+cancer+proteomics;ovarian+cancer+proteomics;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"ovarian+cancer+proteomics",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448399900799,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1199.964799483718,
+        "y":519.5999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"26543083;26543083;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"26543083",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
       }
     ]
   },
@@ -130,11 +180,11 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1448338086557,
-        "groupNode":{"@ref":1},
+        "groupNode":{"@ref":2},
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
-            {"@ref":3}
+            {"@ref":4}
           ]
         },
         "type":{
