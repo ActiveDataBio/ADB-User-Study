@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1448400174619,
+  "lastModifiedDate":1448401336872,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,61 +19,11 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448400100034,
-        "groupId":-1,
-        "isUserData":true,
-        "x":449.9867998063943,
-        "y":519.5999999999999,
-        "type":{
-          "@id":4,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"26590880;26590880;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"26590880",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448400132549,
-        "groupId":-1,
-        "isUserData":true,
-        "x":840.0,
-        "y":482.5,
-        "type":{"@ref":4},
-        "score":0.0,
-        "data":"e+coli;e+coli;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"e+coli",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448400174619,
+        "id":1448401260310,
         "groupId":-1,
         "isUserData":true,
         "x":749.9779996773237,
-        "y":259.79999999999995,
+        "y":519.5999999999999,
         "type":{
           "@id":3,
           "name":"PROTEIN",
@@ -81,7 +31,7 @@
         },
         "score":0.0,
         "data":"AAX36149.1;AAX36149.1;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"AAX36149.1",
+        "label":"pubmed",
         "badge":0,
         "sections":null,
         "listValues":null,
