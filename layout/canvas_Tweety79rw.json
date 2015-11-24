@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1448406001821,
+  "lastModifiedDate":1448405837616,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -46,15 +46,88 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448406001821,
+        "id":1448404617902,
         "groupId":-1,
         "isUserData":true,
-        "x":974.9713995805209,
+        "x":840.0,
+        "y":469.0,
+        "type":{
+          "@id":4,
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"e+coli;e+coli;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448404627815,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1274.9625994514504,
+        "y":649.4999999999999,
+        "type":{"@ref":4},
+        "score":0.0,
+        "data":"26590880;26590880;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448405797418,
+        "groupId":-1,
+        "isUserData":true,
+        "x":374.98899983866187,
         "y":389.69999999999993,
         "type":{"@ref":3},
         "score":0.0,
-        "data":";NP_839943;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_839943",
+        "data":";NP_997192;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_997192",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448405837616,
+        "groupId":-1,
+        "isUserData":true,
+        "x":749.9779996773237,
+        "y":779.3999999999999,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":";NP_861970;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_861970",
         "badge":0,
         "sections":null,
         "listValues":null,
