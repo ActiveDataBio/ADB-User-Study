@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1449263091441,
+  "lastModifiedDate":1449274742448,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -57,6 +57,32 @@
         "score":0.0,
         "data":";NP_758957;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_758957",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1449274742448,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1274.9625994514504,
+        "y":649.4999999999999,
+        "type":{
+          "name":"PATIENT_GROUP",
+          "ordinal":18
+        },
+        "score":0.0,
+        "data":"null;node166;11;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node166",
         "badge":0,
         "sections":null,
         "listValues":null,
