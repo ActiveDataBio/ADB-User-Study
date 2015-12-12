@@ -3,7 +3,7 @@
   "id":1443631795461,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1443631795461,
-  "lastModifiedDate":1448403954329,
+  "lastModifiedDate":1449873692396,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,91 +18,15 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":3,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443632388244,
-        "groupId":1448338086539,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":259.79999999999995,
-        "type":{
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
-        "score":0.0,
-        "data":"null;node165;26;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"changeRRR",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443635327448,
-        "groupId":-1,
-        "isUserData":true,
-        "x":299.9911998709295,
-        "y":259.79999999999995,
-        "type":{
-          "@id":2,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"null;node1662;1663;1063;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1662",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443635452559,
-        "groupId":-1,
-        "isUserData":true,
-        "x":599.982399741859,
-        "y":259.79999999999995,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"null;node1659;2;810;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1659",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":1,
+        "@id":10,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1448338086539,
         "groupId":-1,
         "isUserData":true,
-        "x":1199.964799483718,
-        "y":259.79999999999995,
+        "x":2099.9383990965066,
+        "y":0.0,
         "type":{
+          "@id":3,
           "name":"GROUP",
           "ordinal":13
         },
@@ -115,7 +39,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -123,18 +47,19 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448403954329,
+        "id":1448404874509,
         "groupId":-1,
         "isUserData":true,
-        "x":899.9735996127886,
-        "y":519.5999999999999,
+        "x":974.9713995805209,
+        "y":909.2999999999998,
         "type":{
+          "@id":9,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
         "data":"26543083;26543083;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"26543083",
+        "label":"pubmed",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -146,28 +71,326 @@
         "buttons":{
           "@type":"java.util.HashMap"
         }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448404902543,
+        "groupId":-1,
+        "isUserData":true,
+        "x":299.9911998709295,
+        "y":779.3999999999999,
+        "type":{"@ref":9},
+        "score":0.0,
+        "data":"ovarian+cancer+proteomics;ovarian+cancer+proteomics;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448412590812,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1424.958199386915,
+        "y":129.89999999999998,
+        "type":{
+          "@id":8,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":"undefined;NP_000312;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"BDKRB1",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448413153091,
+        "groupId":-1,
+        "isUserData":true,
+        "x":674.9801997095914,
+        "y":129.89999999999998,
+        "type":{"@ref":8},
+        "score":0.0,
+        "data":"NP_000701.2;NP_000701.2;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_000701.2",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":7,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448413597126,
+        "groupId":1448338086539,
+        "isUserData":true,
+        "x":1949.9427991610419,
+        "y":0.0,
+        "type":{
+          "@id":2,
+          "name":"PATIENT_GROUP",
+          "ordinal":18
+        },
+        "score":0.0,
+        "data":"null;GoodPrognosis;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"GoodPrognosis",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":6,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448413711985,
+        "groupId":1448413765684,
+        "isUserData":true,
+        "x":2099.9383990965066,
+        "y":519.5999999999999,
+        "type":{
+          "@id":4,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"null;node1644;154;276;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"Coagulation",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":5,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448413765684,
+        "groupId":-1,
+        "isUserData":true,
+        "x":2249.9339990319713,
+        "y":519.5999999999999,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":"#interest",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448414035723,
+        "groupId":-1,
+        "isUserData":true,
+        "x":731.5,
+        "y":411.5,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"GoodPrognosis",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1448414330980,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1724.9493992578446,
+        "y":389.69999999999993,
+        "type":{"@ref":9},
+        "score":0.0,
+        "data":"time course study for ovarian cancer",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1443635327448,
+        "groupId":-1,
+        "isUserData":true,
+        "x":449.9867998063943,
+        "y":519.5999999999999,
+        "type":{"@ref":4},
+        "score":0.0,
+        "data":"null;node1662;1663;1063;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node1662",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.LinkedHashMap"
+        }
       }
     ]
   },
-  "userEdges":null,
+  "userEdges":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1448413766758,
+        "sourceNodeID":1448413711985,
+        "targetNodeID":1448413765684,
+        "label":null,
+        "type":{
+          "name":"SOLID",
+          "ordinal":1
+        },
+        "evidenceNodes":null
+      }
+    ]
+  },
   "groups":{
     "@type":"java.util.ArrayList",
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1448338086557,
-        "groupNode":{"@ref":1},
+        "groupNode":{"@ref":10},
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
-            {"@ref":3}
+            {
+              "@type":"gov.pnnl.activedata.data.DataNode",
+              "id":1443632388244,
+              "groupId":1448338086539,
+              "isUserData":true,
+              "x":899.9735996127886,
+              "y":259.79999999999995,
+              "type":{"@ref":2},
+              "score":0.0,
+              "data":"null;node165;26;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+              "label":"changeRRR",
+              "badge":0,
+              "sections":null,
+              "listValues":null,
+              "explainers":null,
+              "views":null,
+              "attributes":{
+                "@type":"java.util.LinkedHashMap"
+              },
+              "buttons":{
+                "@type":"java.util.HashMap"
+              }
+            },
+            {
+              "@type":"gov.pnnl.activedata.data.DataNode",
+              "id":1448413525652,
+              "groupId":1448338086539,
+              "isUserData":true,
+              "x":1949.9427991610419,
+              "y":0.0,
+              "type":{"@ref":2},
+              "score":0.0,
+              "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+              "label":"node169",
+              "badge":0,
+              "sections":null,
+              "listValues":null,
+              "explainers":null,
+              "views":null,
+              "attributes":{
+                "@type":"java.util.LinkedHashMap"
+              },
+              "buttons":{
+                "@type":"java.util.HashMap"
+              }
+            },
+            {"@ref":7}
           ]
         },
         "type":{
+          "@id":1,
           "name":"PILE",
           "ordinal":0
         },
         "note":"#good"
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.Group",
+        "id":1448413765688,
+        "groupNode":{"@ref":5},
+        "dataNodes":{
+          "@type":"java.util.ArrayList",
+          "@items":[
+            {"@ref":6}
+          ]
+        },
+        "type":{"@ref":1},
+        "note":"#interest"
       }
     ]
   }
