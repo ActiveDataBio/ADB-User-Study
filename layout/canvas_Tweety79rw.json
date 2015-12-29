@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1451415811870,
+  "lastModifiedDate":1451345497467,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -64,32 +64,6 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1451415811870,
-        "groupId":-1,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":519.5999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"new",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
