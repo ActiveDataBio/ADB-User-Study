@@ -3,7 +3,7 @@
   "id":1444170855307,
   "name":"ADB-User-Study_GrantFujimoto",
   "creationDate":1444170855307,
-  "lastModifiedDate":1445550337679,
+  "lastModifiedDate":1445550219818,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -44,7 +44,7 @@
         }
       },
       {
-        "@id":3,
+        "@id":6,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1444686043441,
         "groupId":1445550094123,
@@ -52,7 +52,7 @@
         "x":1949.9427991610419,
         "y":0.0,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -78,7 +78,7 @@
         "isUserData":true,
         "x":1049.9691995482533,
         "y":779.3999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_870986",
@@ -97,14 +97,13 @@
         }
       },
       {
-        "@id":2,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1444686045825,
-        "groupId":1445550094123,
+        "groupId":-1,
         "isUserData":true,
-        "x":1574.9537993223798,
-        "y":-129.89999999999998,
-        "type":{"@ref":1},
+        "x":1349.9603994191827,
+        "y":259.79999999999995,
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_839943;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_839943",
@@ -128,7 +127,7 @@
         "isUserData":true,
         "x":749.9779996773237,
         "y":0.0,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_981961;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_981961",
@@ -145,7 +144,7 @@
         }
       },
       {
-        "@id":8,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1445550061254,
         "groupId":-1,
@@ -153,7 +152,7 @@
         "x":1274.9625994514504,
         "y":129.89999999999998,
         "type":{
-          "@id":5,
+          "@id":3,
           "name":"GROUP",
           "ordinal":13
         },
@@ -173,14 +172,14 @@
         }
       },
       {
-        "@id":7,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1445550094123,
         "groupId":-1,
         "isUserData":true,
         "x":1424.958199386915,
         "y":-129.89999999999998,
-        "type":{"@ref":5},
+        "type":{"@ref":3},
         "score":0.0,
         "data":"#nope",
         "label":null,
@@ -208,28 +207,9 @@
         "targetNodeID":1444686044145,
         "label":null,
         "type":{
-          "@id":6,
           "name":"SOLID",
           "ordinal":1
         },
-        "evidenceNodes":null
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Edge",
-        "id":1445550335592,
-        "sourceNodeID":1445550061254,
-        "targetNodeID":1445550094123,
-        "label":null,
-        "type":{"@ref":6},
-        "evidenceNodes":null
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Edge",
-        "id":1445550337679,
-        "sourceNodeID":1444686045825,
-        "targetNodeID":1445550061254,
-        "label":null,
-        "type":{"@ref":6},
         "evidenceNodes":null
       }
     ]
@@ -240,7 +220,7 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1445550061260,
-        "groupNode":{"@ref":8},
+        "groupNode":{"@ref":5},
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
@@ -251,7 +231,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{"@ref":1},
+              "type":{"@ref":2},
               "score":0.0,
               "data":";NP_861970;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_861970",
@@ -271,7 +251,7 @@
           ]
         },
         "type":{
-          "@id":4,
+          "@id":1,
           "name":"PILE",
           "ordinal":0
         },
@@ -280,18 +260,14 @@
       {
         "@type":"gov.pnnl.activedata.data.Group",
         "id":1445550094129,
-        "groupNode":{"@ref":7},
+        "groupNode":{"@ref":4},
         "dataNodes":{
           "@type":"java.util.ArrayList",
           "@items":[
-            {"@ref":3},
-            {"@ref":2},
-            {"@ref":2},
-            {"@ref":2},
-            {"@ref":3}
+            {"@ref":6}
           ]
         },
-        "type":{"@ref":4},
+        "type":{"@ref":1},
         "note":"#nope"
       }
     ]
