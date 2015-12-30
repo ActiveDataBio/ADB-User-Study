@@ -3,7 +3,7 @@
   "id":1443631795461,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1443631795461,
-  "lastModifiedDate":1450311906201,
+  "lastModifiedDate":1449873692396,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -26,7 +26,7 @@
         "x":2099.9383990965066,
         "y":0.0,
         "type":{
-          "@id":2,
+          "@id":3,
           "name":"GROUP",
           "ordinal":13
         },
@@ -154,7 +154,7 @@
         "x":1949.9427991610419,
         "y":0.0,
         "type":{
-          "@id":3,
+          "@id":2,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -209,7 +209,7 @@
         "isUserData":true,
         "x":2249.9339990319713,
         "y":519.5999999999999,
-        "type":{"@ref":2},
+        "type":{"@ref":3},
         "score":0.0,
         "data":"#interest",
         "label":null,
@@ -232,7 +232,7 @@
         "isUserData":true,
         "x":731.5,
         "y":411.5,
-        "type":{"@ref":3},
+        "type":{"@ref":2},
         "score":0.0,
         "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"GoodPrognosis",
@@ -330,7 +330,7 @@
               "isUserData":true,
               "x":899.9735996127886,
               "y":259.79999999999995,
-              "type":{"@ref":3},
+              "type":{"@ref":2},
               "score":0.0,
               "data":"null;node165;26;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"changeRRR",
@@ -353,7 +353,7 @@
               "isUserData":true,
               "x":1949.9427991610419,
               "y":0.0,
-              "type":{"@ref":3},
+              "type":{"@ref":2},
               "score":0.0,
               "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"node169",
@@ -391,35 +391,6 @@
         },
         "type":{"@ref":1},
         "note":"#interest"
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1450311797291,
-        "groupNode":{
-          "id":1450311797283,
-          "groupId":-1,
-          "isUserData":true,
-          "x":1199.964799483718,
-          "y":519.5999999999999,
-          "type":{"@ref":2},
-          "score":0.0,
-          "data":"#new",
-          "label":null,
-          "badge":0,
-          "sections":null,
-          "listValues":null,
-          "explainers":null,
-          "views":null,
-          "attributes":{
-            "@type":"java.util.LinkedHashMap"
-          },
-          "buttons":{
-            "@type":"java.util.HashMap"
-          }
-        },
-        "dataNodes":null,
-        "type":{"@ref":1},
-        "note":"#new"
       }
     ]
   }
