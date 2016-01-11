@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1452542595641,
+  "lastModifiedDate":1452549583564,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":299.9911998709295,
         "y":519.5999999999999,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,7 +51,7 @@
         "isUserData":true,
         "x":1424.958199386915,
         "y":649.4999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_997403;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_997403",
@@ -114,6 +114,56 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1452548617162,
+        "groupId":-1,
+        "isUserData":true,
+        "x":749.9779996773237,
+        "y":519.5999999999999,
+        "type":{
+          "@id":1,
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"horse;horse",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1452548637756,
+        "groupId":-1,
+        "isUserData":true,
+        "x":974.9713995805209,
+        "y":649.4999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"apple;apple",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
