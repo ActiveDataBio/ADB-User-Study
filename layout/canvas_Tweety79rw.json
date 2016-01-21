@@ -176,7 +176,7 @@
         "id":1453404769029,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
+        "x":749.9779996773237,
         "y":519.5999999999999,
         "type":{"@ref":2},
         "score":0.0,
@@ -188,7 +188,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap",
+          "dismissed:null":"Dismissed Uniprot Titles"
         },
         "buttons":{
           "@type":"java.util.HashMap"
