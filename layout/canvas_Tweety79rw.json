@@ -38,7 +38,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "dismissed:null":"Dismissed Uniprot Titles"
         },
         "buttons":{
           "@type":"java.util.HashMap"
