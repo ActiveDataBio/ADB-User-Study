@@ -3,7 +3,7 @@
   "id":1444321012155,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1444321012155,
-  "lastModifiedDate":1453137424773,
+  "lastModifiedDate":1453336067544,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -58,6 +58,29 @@
         "score":0.0,
         "data":";hsa04610;node1662;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04610",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453336067544,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":497.5,
+        "type":{"@ref":3},
+        "score":0.0,
+        "data":";NP_981961;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_981961",
         "badge":0,
         "sections":null,
         "listValues":null,
