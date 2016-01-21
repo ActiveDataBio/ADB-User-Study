@@ -39,7 +39,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "dismissed:null":"Dismissed Uniprot Titles"
+          "dismissed:null":"Dismissed Uniprot Titles",
+          "dismissed:PUBMED_Dismisser":"Dismissed PubMed Titles"
         },
         "buttons":{
           "@type":"java.util.HashMap"
