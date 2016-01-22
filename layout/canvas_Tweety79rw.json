@@ -109,7 +109,7 @@
         "y":779.3999999999999,
         "type":{"@ref":1},
         "score":0.0,
-        "data":"NP_000085;NP_000085",
+        "data":"NP000085NP000085",
         "label":"pubmed",
         "badge":0,
         "sections":null,
@@ -119,7 +119,7 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap",
           "dismissed:null":"Dismissed Uniprot Titles",
-          "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot",
+          "dismissed:Uniprot_Dismisser":"Dismissed Protein  Uniprot",
           "PROTEIN:NP_000085":"collagen alpha-1(VII) chain precursor Homo sapiens",
           "LITERATURE:24317394":"(2014) Patient-specific naturally gene-reverted induced pluripotent stem cells in recessive dystrophic epidermolysis bullosa"
         },
