@@ -190,7 +190,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "dismissed:null":"Dismissed Uniprot Titles"
+          "dismissed:null":"Dismissed Uniprot Titles",
+          "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot"
         },
         "buttons":{
           "@type":"java.util.HashMap"
