@@ -22,8 +22,8 @@
         "id":1449524444890,
         "groupId":-1,
         "isUserData":true,
-        "x":374.98899983866187,
-        "y":389.69999999999993,
+        "x":449.9867998063943,
+        "y":519.5999999999999,
         "type":{
           "@id":2,
           "name":"PROTEIN",
@@ -41,7 +41,8 @@
           "@type":"java.util.LinkedHashMap",
           "dismissed:null":"Dismissed Uniprot Titles",
           "dismissed:PUBMED_Dismisser":"Dismissed PubMed Titles",
-          "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot"
+          "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot",
+          "PROTEIN:NP_000084":"collagen alpha-1(V) chain isoform 1 preproprotein Homo sapiens"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -177,8 +178,8 @@
         "id":1453404769029,
         "groupId":-1,
         "isUserData":true,
-        "x":749.9779996773237,
-        "y":519.5999999999999,
+        "x":524.9845997741267,
+        "y":649.4999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":"NP_000085;NP_000085",
@@ -191,7 +192,9 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap",
           "dismissed:null":"Dismissed Uniprot Titles",
-          "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot"
+          "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot",
+          "PROTEIN:NP_000085":"collagen alpha-1(VII) chain precursor Homo sapiens",
+          "LITERATURE:24317394":"(2014) Patient-specific naturally gene-reverted induced pluripotent stem cells in recessive dystrophic epidermolysis bullosa"
         },
         "buttons":{
           "@type":"java.util.HashMap"
