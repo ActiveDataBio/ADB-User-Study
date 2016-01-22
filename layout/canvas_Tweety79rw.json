@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453497683226,
+  "lastModifiedDate":1453498180516,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,39 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453498180516,
+        "groupId":-1,
+        "isUserData":true,
+        "x":824.9757996450561,
+        "y":389.69999999999993,
+        "type":{
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_870986",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "PROTEIN:NP_870986":"pyruvate kinase PKLR isoform 2 Homo sapiens",
+          "LITERATURE:23773021":"(2014) Herpes simplex virus type 1 virion-derived US11 inhibits type 1 interferon-induced protein kinase R phosphorylation",
+          "LITERATURE:24375447":"(2014) Novel type of red blood cell pyruvate kinase hyperactivity predicts a remote regulatory locus involved in PKLR gene expression",
+          "notes":"nnnnnn"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
