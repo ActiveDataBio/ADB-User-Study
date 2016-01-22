@@ -41,7 +41,8 @@
           "PROTEIN:NP_870986":"pyruvate kinase PKLR isoform 2 Homo sapiens",
           "LITERATURE:23773021":"(2013) Herpes simplex virus type 1 virion-derived US11 inhibits type 1 interferon-induced protein kinase R phosphorylation",
           "LITERATURE:24375447":"(2014) Novel type of red blood cell pyruvate kinase hyperactivity predicts a remote regulatory locus involved in PKLR gene expression",
-          "notes":"nnnnnn"
+          "notes":"nnnnnn",
+          "PUBMEDS:pyruvate kinase PKLR isoform 2 [Homo sapiens]":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
