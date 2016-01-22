@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453498721550,
+  "lastModifiedDate":1453505142171,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,56 +19,25 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453498180516,
+        "id":1453505122138,
         "groupId":-1,
         "isUserData":true,
-        "x":824.9757996450561,
-        "y":389.69999999999993,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_870986",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "PROTEIN:NP_870986":"pyruvate kinase PKLR isoform 2 Homo sapiens",
-          "LITERATURE:23773021":"(2013) Herpes simplex virus type 1 virion-derived US11 inhibits type 1 interferon-induced protein kinase R phosphorylation",
-          "LITERATURE:24375447":"(2014) Novel type of red blood cell pyruvate kinase hyperactivity predicts a remote regulatory locus involved in PKLR gene expression",
-          "notes":"nnnnnn",
-          "PUBMEDS:pyruvate kinase PKLR isoform 2 [Homo sapiens]":"Pubmed Titles List"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453498714452,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1424.958199386915,
-        "y":389.69999999999993,
+        "x":960.0,
+        "y":500.0,
         "type":{
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
         "score":0.0,
-        "data":"null;node1648;250;593;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1648",
+        "data":"null;node1644;154;276;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node1644",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -76,53 +45,25 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453498715151,
+        "id":1453505126248,
         "groupId":-1,
         "isUserData":true,
-        "x":224.99339990319714,
-        "y":649.4999999999999,
-        "type":{
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";hsa04612;node1648;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04612",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "KEGG:hsa04612":"Kegg pathway map image"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453498721550,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":779.3999999999999,
+        "x":960.0,
+        "y":500.0,
         "type":{
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
         "score":0.0,
-        "data":"null;node169;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node169",
+        "data":"null;node171;83;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node171",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "GROUPSUMMARY:node169_Summary":"Summary for node169"
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
