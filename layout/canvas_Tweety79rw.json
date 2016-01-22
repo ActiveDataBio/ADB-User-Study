@@ -37,7 +37,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.HashMap",
+          "LITERATURE24375447":"(2014) Novel type of red blood cell pyruvate kinase hyperactivity predicts a remote regulatory locus involved in PKLR gene expression",
+          "PROTEINNP870986":"pyruvate kinase PKLR isoform 2 Homo sapiens"
         },
         "buttons":{
           "@type":"java.util.HashMap"
