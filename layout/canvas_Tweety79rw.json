@@ -65,7 +65,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:23146900":"(2013) Expression of nogo-a is decreased with increasing gestational age in the human fetal brain"
         },
         "buttons":{
           "@type":"java.util.HashMap"
