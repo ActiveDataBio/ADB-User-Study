@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453404769029,
+  "lastModifiedDate":1453484281654,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,8 +22,8 @@
         "id":1449524444890,
         "groupId":-1,
         "isUserData":true,
-        "x":449.9867998063943,
-        "y":519.5999999999999,
+        "x":149.99559993546475,
+        "y":259.79999999999995,
         "type":{
           "@id":2,
           "name":"PROTEIN",
@@ -202,6 +202,22 @@
       }
     ]
   },
-  "userEdges":null,
+  "userEdges":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1453484281654,
+        "sourceNodeID":1450214004725,
+        "targetNodeID":1453404769029,
+        "label":null,
+        "type":{
+          "name":"SOLID",
+          "ordinal":1
+        },
+        "evidenceNodes":null
+      }
+    ]
+  },
   "groups":null
 }
