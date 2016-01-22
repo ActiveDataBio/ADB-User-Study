@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453486443594,
+  "lastModifiedDate":1453495735500,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -43,31 +43,6 @@
           "dismissed:PUBMED_Dismisser":"Dismissed PubMed Titles",
           "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot",
           "PROTEIN:NP_000084":"collagen alpha-1(V) chain isoform 1 preproprotein Homo sapiens"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1450213979610,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1799.9471992255772,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"NP997403ADB-User-StudyPNNL-Comp-Mass-Specmaster",
-        "label":"NP_997403",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:23146900":"(2013) Expression of nogo-a is decreased with increasing gestational age in the human fetal brain",
-          "LITERATURE24129566":"(2014) TROY interacts with Rho guanine nucleotide dissociation inhibitor  (RhoGDI) to mediate Nogo-induced inhibition of neurite outgrowth"
         },
         "buttons":{
           "@type":"java.util.HashMap"
