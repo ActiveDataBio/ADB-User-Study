@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453495735500,
+  "lastModifiedDate":1453495981815,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,136 +15,10 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1449524444890,
-        "groupId":-1,
-        "isUserData":true,
-        "x":224.99339990319714,
-        "y":1428.8999999999996,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_000084;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_000084",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "dismissed:null":"Dismissed Uniprot Titles",
-          "dismissed:PUBMED_Dismisser":"Dismissed PubMed Titles",
-          "dismissed:Uniprot_Dismisser":"Dismissed Protein @ Uniprot",
-          "PROTEIN:NP_000084":"collagen alpha-1(V) chain isoform 1 preproprotein Homo sapiens"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1450213981030,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":259.79999999999995,
-        "type":{
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";hsa04530;node903;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04530",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1450214004725,
-        "groupId":-1,
-        "isUserData":true,
-        "x":824.9757996450561,
-        "y":909.2999999999998,
-        "type":{
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
-        "score":0.0,
-        "data":"null;node166;11;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node166",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453404769029,
-        "groupId":-1,
-        "isUserData":true,
-        "x":599.982399741859,
-        "y":779.3999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"NP000085NP000085",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "dismissed:null":"Dismissed Uniprot Titles",
-          "dismissed:Uniprot_Dismisser":"Dismissed Protein  Uniprot",
-          "PROTEIN:NP_000085":"collagen alpha-1(VII) chain precursor Homo sapiens",
-          "LITERATURE:24317394":"(2014) Patient-specific naturally gene-reverted induced pluripotent stem cells in recessive dystrophic epidermolysis bullosa"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.Edge",
-        "id":1453484281654,
-        "sourceNodeID":1450214004725,
-        "targetNodeID":1453404769029,
-        "label":null,
-        "type":{
-          "name":"SOLID",
-          "ordinal":1
-        },
-        "evidenceNodes":null
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "groups":null
 }
