@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453497060561,
+  "lastModifiedDate":1453497683226,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,37 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453497060561,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":779.3999999999999,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP870986;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_870986",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE24375447":"(2014) Novel type of red blood cell pyruvate kinase hyperactivity predicts a remote regulatory locus involved in PKLR gene expression",
-          "PROTEINNP870986":"pyruvate kinase PKLR isoform 2 Homo sapiens"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
