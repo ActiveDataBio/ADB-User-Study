@@ -3,7 +3,7 @@
   "id":1448995857818,
   "name":"ADB-User-Study_losertonMcTesty",
   "creationDate":1448995857817,
-  "lastModifiedDate":1448995885840,
+  "lastModifiedDate":1453509337956,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -37,7 +37,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "KEGG:hsa04530":"Kegg pathway map image"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -48,8 +49,8 @@
         "id":1448995880174,
         "groupId":-1,
         "isUserData":true,
-        "x":374.98899983866187,
-        "y":389.69999999999993,
+        "x":1199.964799483718,
+        "y":259.79999999999995,
         "type":{
           "name":"PROTEIN",
           "ordinal":17
@@ -74,8 +75,8 @@
         "id":1448995885840,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":497.5,
+        "x":374.98899983866187,
+        "y":649.4999999999999,
         "type":{
           "name":"PATIENT_GROUP",
           "ordinal":18
@@ -89,7 +90,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node166_Summary":"Summary for node166"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -97,6 +99,22 @@
       }
     ]
   },
-  "userEdges":null,
+  "userEdges":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1453509337956,
+        "sourceNodeID":1448995880174,
+        "targetNodeID":1448995885840,
+        "label":null,
+        "type":{
+          "name":"SOLID",
+          "ordinal":1
+        },
+        "evidenceNodes":null
+      }
+    ]
+  },
   "groups":null
 }
