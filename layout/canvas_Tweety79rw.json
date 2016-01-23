@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453505142171,
+  "lastModifiedDate":1453505734356,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,9 +22,10 @@
         "id":1453505122138,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":1349.9603994191827,
+        "y":519.5999999999999,
         "type":{
+          "@id":2,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -37,7 +38,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node1644_Summary":"Summary for node1644"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -48,9 +50,10 @@
         "id":1453505126248,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":674.9801997095914,
+        "y":649.4999999999999,
         "type":{
+          "@id":1,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -63,7 +66,87 @@
         "explainers":null,
         "views":null,
         "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node171_Summary":"Summary for node171"
+        },
+        "buttons":{
           "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453505514103,
+        "groupId":-1,
+        "isUserData":true,
+        "x":449.9867998063943,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node166;11;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node166",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node166_Summary":"Summary for node166"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453505519116,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1199.964799483718,
+        "y":259.79999999999995,
+        "type":{"@ref":2},
+        "score":0.0,
+        "data":"null;node193;2;7;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node193",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node193_Summary":"Summary for node193",
+          "GROUPNODE:node193":"Node id node193"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453505734356,
+        "groupId":-1,
+        "isUserData":true,
+        "x":974.9713995805209,
+        "y":649.4999999999999,
+        "type":{
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_003269;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_003269",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "PUBMEDS:tetranectin isoform 1precursor [Homo sapiens]":"Pubmed Titles List",
+          "LITERATURE:25846370":"(2015) Tetranectin positive expression in tumour tissue leads to longer survival in Danish women with ovarian cancer. Results from the 'Malova' ovarian cancer study.",
+          "PROTEIN:NP_003269":"tetranectin isoform 1precursor [Homo sapiens]",
+          "notes":"n"
         },
         "buttons":{
           "@type":"java.util.HashMap"
