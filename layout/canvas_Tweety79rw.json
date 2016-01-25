@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453763006880,
+  "lastModifiedDate":1453763441422,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,6 +25,7 @@
         "x":749.9779996773237,
         "y":519.5999999999999,
         "type":{
+          "@id":1,
           "name":"TEXT",
           "ordinal":0
         },
@@ -37,7 +38,32 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453763441422,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1349.9603994191827,
+        "y":519.5999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"apple;apple;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:26801352":"(2016) Overexpression of MdbHLH104 gene enhances thetolerance to iron deficiency in apple."
         },
         "buttons":{
           "@type":"java.util.HashMap"
