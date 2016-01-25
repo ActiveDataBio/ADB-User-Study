@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453757689534,
+  "lastModifiedDate":1453757724209,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,8 +22,8 @@
         "id":1453757689534,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":1199.964799483718,
+        "y":519.5999999999999,
         "type":{
           "name":"PROTEIN",
           "ordinal":17
@@ -37,7 +37,33 @@
         "explainers":null,
         "views":null,
         "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
           "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453757724209,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"horse;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
