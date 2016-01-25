@@ -39,7 +39,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles."
+          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles.",
+          "PUBMEDS:horse":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -125,8 +126,8 @@
         "id":1453764119192,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
-        "y":649.4999999999999,
+        "x":749.9779996773237,
+        "y":779.3999999999999,
         "type":{"@ref":1},
         "score":0.0,
         "data":";NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -138,7 +139,10 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24782625":"(2015) MT1M and MT1G promoter methylation as biomarkers for hepatocellular carcinoma."
+          "LITERATURE:24782625":"(2015) MT1M and MT1G promoter methylation as biomarkers for hepatocellular carcinoma.",
+          "LITERATURE:12539042":"(2003) HIV-1 Tat reprograms immature dendritic cells to express chemoattractants for activated T cells and macrophages.",
+          "PROTEIN:NP_789846":"metallothionein-1M [Homo sapiens]",
+          "PUBMEDS:metallothionein-1M [Homo sapiens]":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
