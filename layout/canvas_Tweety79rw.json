@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453762143210,
+  "lastModifiedDate":1453762317789,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -40,6 +40,33 @@
           "@type":"java.util.LinkedHashMap",
           "LITERATURE:25641592":"(2015) Osteogenesis and mineralization in a rabbit mandibular distraction osteogenesis model is promoted by the human LMP-1 gene.",
           "LITERATURE:25124035":"(2015) Systematic analysis of bacterial effector-postsynaptic density 95/disc large/zonula occludens-1 (PDZ) domain interactions demonstrates Shigella OspE protein promotes protein kinase C activation via PDLIM proteins."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453762317789,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"horse;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles."
         },
         "buttons":{
           "@type":"java.util.HashMap"
