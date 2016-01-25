@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453757980513,
+  "lastModifiedDate":1453758018894,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -39,6 +39,32 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap",
           "LITERATURE:25641592":"(2015) Osteogenesis and mineralization in a rabbit mandibular distraction osteogenesis model is promoted by the human LMP-1 gene."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453758018894,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"horse;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
