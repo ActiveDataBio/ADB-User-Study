@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453745184423,
+  "lastModifiedDate":1453745328287,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -39,6 +39,32 @@
         "attributes":{
           "@type":"java.util.HashMap",
           "PROTEIN:NP_945146":"pyrin and HIN domain-containing protein 1 isoform alpha 2 [Homo sapiens]"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453745328287,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"apple;apple;undefined;undefined;undefined",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
