@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453764425827,
+  "lastModifiedDate":1453764475941,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -130,8 +130,8 @@
         "id":1453764425827,
         "groupId":-1,
         "isUserData":true,
-        "x":899.9735996127886,
-        "y":519.5999999999999,
+        "x":1049.9691995482533,
+        "y":779.3999999999999,
         "type":{"@ref":1},
         "score":0.0,
         "data":"NP_789846;NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -142,7 +142,32 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:12539042":"(2003) HIV-1 Tat reprograms immature dendritic cells to express chemoattractants for activated T cells and macrophages."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453764475941,
+        "groupId":-1,
+        "isUserData":true,
+        "x":974.9713995805209,
+        "y":389.69999999999993,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"NP_789848;NP_789848;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_789848",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "PROTEIN:NP_789848":"NADH dehydrogenase subunit 1 (mitochondrion) [Muntiacus crinifrons]"
         },
         "buttons":{
           "@type":"java.util.HashMap"
