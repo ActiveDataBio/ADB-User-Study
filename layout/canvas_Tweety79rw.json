@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453764119192,
+  "lastModifiedDate":1453764425827,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -96,39 +96,16 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453764072329,
-        "groupId":-1,
-        "isUserData":true,
-        "x":0.0,
-        "y":519.5999999999999,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"NP_00025;NP_00025;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1453764119192,
         "groupId":-1,
         "isUserData":true,
         "x":749.9779996773237,
         "y":779.3999999999999,
-        "type":{"@ref":1},
+        "type":{
+          "@id":1,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
         "score":0.0,
         "data":";NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_789846",
@@ -143,6 +120,29 @@
           "LITERATURE:12539042":"(2003) HIV-1 Tat reprograms immature dendritic cells to express chemoattractants for activated T cells and macrophages.",
           "PROTEIN:NP_789846":"metallothionein-1M [Homo sapiens]",
           "PUBMEDS:metallothionein-1M [Homo sapiens]":"Pubmed Titles List"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453764425827,
+        "groupId":-1,
+        "isUserData":true,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"NP_789846;NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_789846",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
