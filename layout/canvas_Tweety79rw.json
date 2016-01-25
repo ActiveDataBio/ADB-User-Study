@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453742086007,
+  "lastModifiedDate":1453743628904,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -147,32 +147,6 @@
           "PUBMEDS:collagen alpha-1(VII) chain precursor [Homo sapiens]":"Pubmed Titles List",
           "PROTEIN:NP_000085":"collagen alpha-1(VII) chain precursor [Homo sapiens]",
           "notes":"nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453742086007,
-        "groupId":-1,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":519.5999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"applew;applew",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
