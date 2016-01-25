@@ -66,7 +66,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles."
+          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles.",
+          "LITERATURE:26801589":"(2016) Chagas disease in a Texan horse with neurologic deficits."
         },
         "buttons":{
           "@type":"java.util.HashMap"
