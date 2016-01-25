@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453505734356,
+  "lastModifiedDate":1453741781802,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,27 +19,77 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453505122138,
+        "id":1449524444890,
+        "groupId":-1,
+        "isUserData":true,
+        "x":74.99779996773238,
+        "y":129.89999999999998,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_000084;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_000084",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "dismissed:null":"Dismissed Uniprot Titles",
+          "dismissed:PUBMED_Dismisser":"Dismissed PubMed Titles"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1450213979610,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1799.9471992255772,
+        "y":519.5999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_997403;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_997403",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1450213981030,
         "groupId":-1,
         "isUserData":true,
         "x":1349.9603994191827,
-        "y":519.5999999999999,
+        "y":259.79999999999995,
         "type":{
-          "@id":2,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
+          "name":"PATHWAY",
+          "ordinal":20
         },
         "score":0.0,
-        "data":"null;node1644;154;276;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1644",
+        "data":";hsa04530;node903;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04530",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "GROUPSUMMARY:node1644_Summary":"Summary for node1644"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -47,40 +97,15 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453505126248,
+        "id":1450214004725,
         "groupId":-1,
         "isUserData":true,
-        "x":674.9801997095914,
-        "y":649.4999999999999,
+        "x":824.9757996450561,
+        "y":909.2999999999998,
         "type":{
-          "@id":1,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
-        "score":0.0,
-        "data":"null;node171;83;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node171",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "GROUPSUMMARY:node171_Summary":"Summary for node171"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453505514103,
-        "groupId":-1,
-        "isUserData":true,
-        "x":449.9867998063943,
-        "y":259.79999999999995,
-        "type":{"@ref":1},
         "score":0.0,
         "data":"null;node166;11;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node166",
@@ -90,8 +115,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "GROUPSUMMARY:node166_Summary":"Summary for node166"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -99,43 +123,41 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453505519116,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1199.964799483718,
-        "y":259.79999999999995,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"null;node193;2;7;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node193",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "GROUPSUMMARY:node193_Summary":"Summary for node193",
-          "GROUPNODE:node193":"Node id node193"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453505734356,
+        "id":1452548637756,
         "groupId":-1,
         "isUserData":true,
         "x":974.9713995805209,
         "y":649.4999999999999,
         "type":{
-          "name":"PROTEIN",
-          "ordinal":17
+          "name":"TEXT",
+          "ordinal":0
         },
         "score":0.0,
-        "data":";NP_003269;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_003269",
+        "data":"apple;apple",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453404769029,
+        "groupId":-1,
+        "isUserData":true,
+        "x":599.982399741859,
+        "y":519.5999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"NP_000085;NP_000085",
+        "label":"pubmed",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -143,10 +165,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "PUBMEDS:tetranectin isoform 1precursor [Homo sapiens]":"Pubmed Titles List",
-          "LITERATURE:25846370":"(2015) Tetranectin positive expression in tumour tissue leads to longer survival in Danish women with ovarian cancer. Results from the 'Malova' ovarian cancer study.",
-          "PROTEIN:NP_003269":"tetranectin isoform 1precursor [Homo sapiens]",
-          "notes":"n"
+          "dismissed:null":"Dismissed Uniprot Titles",
+          "LITERATURE:25566895":"(2015) Epidermolysis bullosa pruriginosa a case with a novel mutation and co-existent lichen amyloidosus"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -154,8 +174,6 @@
       }
     ]
   },
-  "userEdges":{
-    "@type":"java.util.ArrayList"
-  },
+  "userEdges":null,
   "groups":null
 }
