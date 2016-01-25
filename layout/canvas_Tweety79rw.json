@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453743628904,
+  "lastModifiedDate":1453744063258,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,144 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1449524444890,
-        "groupId":-1,
-        "isUserData":true,
-        "x":374.98899983866187,
-        "y":389.69999999999993,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_000084;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_000084",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "dismissed:null":"Dismissed Uniprot Titles",
-          "dismissed:PUBMED_Dismisser":"Dismissed PubMed Titles"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1450213979610,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1799.9471992255772,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":";NP_997403;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_997403",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "PUBMEDS:reticulon-4 isoform D [Homo sapiens]":"Pubmed Titles List"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1450213981030,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":259.79999999999995,
-        "type":{
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";hsa04530;node903;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04530",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "KEGG:hsa04530":"Kegg pathway map image"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1450214004725,
-        "groupId":-1,
-        "isUserData":true,
-        "x":824.9757996450561,
-        "y":909.2999999999998,
-        "type":{
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
-        "score":0.0,
-        "data":"null;node166;11;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node166",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "GROUPSUMMARY:node166_Summary":"Summary for node166"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453404769029,
-        "groupId":-1,
-        "isUserData":true,
-        "x":599.982399741859,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"NP_000085;NP_000085",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "dismissed:null":"Dismissed Uniprot Titles",
-          "LITERATURE:25566895":"(2015) Epidermolysis bullosa pruriginosa a case with a novel mutation and co-existent lichen amyloidosus",
-          "PUBMEDS:collagen alpha-1(VII) chain precursor [Homo sapiens]":"Pubmed Titles List",
-          "PROTEIN:NP_000085":"collagen alpha-1(VII) chain precursor [Homo sapiens]",
-          "notes":"nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":null,
   "groups":null
