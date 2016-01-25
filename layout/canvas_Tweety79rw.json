@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453762317789,
+  "lastModifiedDate":1453762859831,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,65 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453757689534,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1199.964799483718,
-        "y":519.5999999999999,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_976227;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_976227",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:25641592":"(2015) Osteogenesis and mineralization in a rabbit mandibular distraction osteogenesis model is promoted by the human LMP-1 gene.",
-          "LITERATURE:25124035":"(2015) Systematic analysis of bacterial effector-postsynaptic density 95/disc large/zonula occludens-1 (PDZ) domain interactions demonstrates Shigella OspE protein promotes protein kinase C activation via PDLIM proteins."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453762317789,
-        "groupId":-1,
-        "isUserData":true,
-        "x":524.9845997741267,
-        "y":389.69999999999993,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"horse;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles.",
-          "LITERATURE:26801589":"(2016) Chagas disease in a Texan horse with neurologic deficits."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":null,
   "groups":null
