@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453749578507,
+  "lastModifiedDate":1453750671133,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,91 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453744393169,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1124.9669995159857,
-        "y":649.4999999999999,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_945146;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_945146",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "PROTEIN:NP_945146":"pyrin and HIN domain-containing protein 1 isoform alpha 2 [Homo sapiens]",
-          "LITERATURE:16479015":"(2006) Interferon-inducible protein IFIXalpha1 functions as a negative regulator of HDM2.",
-          "LITERATURE:21804549":"(2011) Meta-analysis of genome-wide association studies of asthma in ethnically diverse North American populations."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453749509560,
-        "groupId":-1,
-        "isUserData":true,
-        "x":224.99339990319714,
-        "y":389.69999999999993,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"horse;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453749578507,
-        "groupId":-1,
-        "isUserData":true,
-        "x":449.9867998063943,
-        "y":779.3999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"NP_945146;NP_945146;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:21804549":"(2011) Meta-analysis of genome-wide association studies of asthma in ethnically diverse North American populations.",
-          "LITERATURE:18247378":"(2008) Interferon-inducible protein IFIXalpha inhibits cell invasion by upregulating the metastasis suppressor maspin.",
-          "PROTEIN:NP_945146":"pyrin and HIN domain-containing protein 1 isoform alpha 2 [Homo sapiens]"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":null,
   "groups":null
