@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453742051366,
+  "lastModifiedDate":1453742086007,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,8 +22,8 @@
         "id":1449524444890,
         "groupId":-1,
         "isUserData":true,
-        "x":74.99779996773238,
-        "y":129.89999999999998,
+        "x":374.98899983866187,
+        "y":389.69999999999993,
         "type":{
           "@id":1,
           "name":"PROTEIN",
@@ -90,7 +90,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "KEGG:hsa04530":"Kegg pathway map image"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -116,7 +117,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node166_Summary":"Summary for node166"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -145,6 +147,32 @@
           "PUBMEDS:collagen alpha-1(VII) chain precursor [Homo sapiens]":"Pubmed Titles List",
           "PROTEIN:NP_000085":"collagen alpha-1(VII) chain precursor [Homo sapiens]",
           "notes":"nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453742086007,
+        "groupId":-1,
+        "isUserData":true,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"applew;applew",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
