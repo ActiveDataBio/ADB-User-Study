@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453745720766,
+  "lastModifiedDate":1453746464199,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -38,7 +38,34 @@
         "views":null,
         "attributes":{
           "@type":"java.util.HashMap",
-          "PROTEIN:NP_945146":"pyrin and HIN domain-containing protein 1 isoform alpha 2 [Homo sapiens]"
+          "PROTEIN:NP_945146":"pyrin and HIN domain-containing protein 1 isoform alpha 2 [Homo sapiens]",
+          "LITERATURE:16479015":"(2006) Interferon-inducible protein IFIXalpha1 functions as a negative regulator of HDM2."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453746464199,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"apple;apple;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"pubmed",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
