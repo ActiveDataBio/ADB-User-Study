@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453768451963,
+  "lastModifiedDate":1453768972719,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -178,6 +178,98 @@
         "type":{"@ref":1},
         "score":0.0,
         "data":"Molecular Biology.png<br>image/png",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453768743067,
+        "groupId":-1,
+        "isUserData":true,
+        "x":-435.01540022587335,
+        "y":151.9999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"data_icon_512.png<br>image/png",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453768763720,
+        "groupId":-1,
+        "isUserData":true,
+        "x":-660.0088001290706,
+        "y":281.89999999999986,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"data_icon_512.png<br>image/png",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453768966057,
+        "groupId":-1,
+        "isUserData":true,
+        "x":-510.0132001936057,
+        "y":281.89999999999986,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"data_icon_512.png<br>image/png",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453768972719,
+        "groupId":-1,
+        "isUserData":true,
+        "x":-435.01540022587335,
+        "y":411.79999999999984,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"unknown.png<br>image/png",
         "label":null,
         "badge":0,
         "sections":null,
