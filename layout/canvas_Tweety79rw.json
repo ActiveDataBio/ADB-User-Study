@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453767897854,
+  "lastModifiedDate":1453768451963,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":824.9757996450561,
         "y":389.69999999999993,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -52,7 +52,7 @@
         "isUserData":true,
         "x":1424.958199386915,
         "y":389.69999999999993,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_000704;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_000704",
@@ -76,7 +76,7 @@
         "isUserData":true,
         "x":1274.9625994514504,
         "y":649.4999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_004130;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_004130",
@@ -87,7 +87,8 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24312369":"(2014) LPS-binding protein and IL-6 mark paradoxical tuberculosis immune reconstitution inflammatory syndrome in HIV patients."
+          "LITERATURE:24312369":"(2014) LPS-binding protein and IL-6 mark paradoxical tuberculosis immune reconstitution inflammatory syndrome in HIV patients.",
+          "PUBMEDS:lipopolysaccharide-binding protein precursor [Homo sapiens]":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -98,9 +99,9 @@
         "id":1453767897854,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
-        "y":649.4999999999999,
-        "type":{"@ref":1},
+        "x":374.98899983866187,
+        "y":389.69999999999993,
+        "type":{"@ref":2},
         "score":0.0,
         "data":";NP_000558;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_000558",
@@ -110,7 +111,81 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:24611307":"(2014) [Diagnostic and predictive capabilities of the quantification of C-reactive protein in patients with community-acquired pneumonia]."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453768429265,
+        "groupId":-1,
+        "isUserData":true,
+        "x":-309.01540022587335,
+        "y":148.9999999999999,
+        "type":{
+          "@id":1,
+          "name":"IMAGE",
+          "ordinal":2
+        },
+        "score":0.0,
+        "data":"kronos-logo.png<br>image/png",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453768437364,
+        "groupId":-1,
+        "isUserData":true,
+        "x":65.97359961278858,
+        "y":19.09999999999991,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"kronos-logo.png<br>image/png",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453768451963,
+        "groupId":-1,
+        "isUserData":true,
+        "x":-384.0132001936057,
+        "y":278.89999999999986,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"Molecular Biology.png<br>image/png",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
