@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453767641638,
+  "lastModifiedDate":1453767897854,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,218 +19,16 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453763006880,
+        "id":1453767641105,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
-        "y":649.4999999999999,
-        "type":{
-          "@id":2,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"horse;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26801765":"(2016) Beyond the passive interactions at the nano-bio interface: evidence of Cu metalloprotein-driven oxidative dissolution of silver nanoparticles.",
-          "PUBMEDS:horse":"Pubmed Titles List"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453763441422,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":519.5999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"apple;apple;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26801352":"(2016) Overexpression of MdbHLH104 gene enhances thetolerance to iron deficiency in apple."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453764011126,
-        "groupId":-1,
-        "isUserData":true,
-        "x":374.98899983866187,
+        "x":824.9757996450561,
         "y":389.69999999999993,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"cat;cat;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26803786":"(2016) Shared effects of organic microcontaminants and environmental stressors on biofilms and invertebrates in impaired rivers."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453764119192,
-        "groupId":-1,
-        "isUserData":true,
-        "x":749.9779996773237,
-        "y":779.3999999999999,
         "type":{
           "@id":1,
           "name":"PROTEIN",
           "ordinal":17
         },
-        "score":0.0,
-        "data":";NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_789846",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24782625":"(2015) MT1M and MT1G promoter methylation as biomarkers for hepatocellular carcinoma.",
-          "LITERATURE:12539042":"(2003) HIV-1 Tat reprograms immature dendritic cells to express chemoattractants for activated T cells and macrophages.",
-          "PROTEIN:NP_789846":"metallothionein-1M [Homo sapiens]",
-          "PUBMEDS:metallothionein-1M [Homo sapiens]":"Pubmed Titles List"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453764425827,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":779.3999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"NP_789846;NP_789846;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_789846",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:12539042":"(2003) HIV-1 Tat reprograms immature dendritic cells to express chemoattractants for activated T cells and macrophages."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453764475941,
-        "groupId":-1,
-        "isUserData":true,
-        "x":674.9801997095914,
-        "y":389.69999999999993,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"NP_789848;NP_789848;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_789848",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "PROTEIN:NP_789848":"NADH dehydrogenase subunit 1 (mitochondrion) [Muntiacus crinifrons]"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453766023808,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":259.79999999999995,
-        "type":{
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"null;node1643;91;202;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1643",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453766177107,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1424.958199386915,
-        "y":649.4999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"water;water;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"pubmed",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26803804":"(2016) Active packaging with antifungal activities."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453767641105,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":779.3999999999999,
-        "type":{"@ref":1},
         "score":0.0,
         "data":";NP_003117;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_003117",
@@ -240,7 +38,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:25830635":"(2015) II-spectrin regulates invadosome stability and extracellular matrix degradation."
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -248,15 +47,15 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453767641638,
+        "id":1453767831283,
         "groupId":-1,
         "isUserData":true,
-        "x":299.9911998709295,
-        "y":519.5999999999999,
+        "x":1424.958199386915,
+        "y":389.69999999999993,
         "type":{"@ref":1},
         "score":0.0,
-        "data":";NP_000028;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_000028",
+        "data":";NP_000704;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_000704",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -264,7 +63,54 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24647736":"(2014) Multiple nonglycemic genomic loci are newly associated with blood level of glycated hemoglobin in East Asians."
+          "LITERATURE:19056867":"(2009) Large-scale proteomics and phosphoproteomics of urinary exosomes."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453767897486,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1274.9625994514504,
+        "y":649.4999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_004130;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_004130",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:24312369":"(2014) LPS-binding protein and IL-6 mark paradoxical tuberculosis immune reconstitution inflammatory syndrome in HIV patients."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453767897854,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":649.4999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":";NP_000558;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_000558",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
