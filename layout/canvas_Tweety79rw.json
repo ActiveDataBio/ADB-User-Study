@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453830796206,
+  "lastModifiedDate":1453840773812,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,19 +19,19 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453830202065,
+        "id":1453828973946,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
-        "y":129.89999999999998,
+        "x":449.9867998063943,
+        "y":259.79999999999995,
         "type":{
           "@id":1,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
-        "data":"pubmed;cytochrome;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"cytochrome",
+        "data":"pubmed;happy;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"happy",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -39,8 +39,7 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap",
-          "LITERATURE:26809022":"(2016) Hybrid Therapy as First-Line Regimen for Helicobacter pylori Eradication in Populations with High Antibiotic Resistance Rates.",
-          "PUBMEDS:cytochrome":"Pubmed Titles List"
+          "LITERATURE:26808541":"(2016) Development and Two-Year Follow-Up Evaluation of a Training Workshop for the Large Preventive Positive Psychology Happy Family Kitchen Project in Hong Kong."
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -48,24 +47,22 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453830239048,
+        "id":1453840766347,
         "groupId":-1,
         "isUserData":true,
-        "x":749.9779996773237,
-        "y":779.3999999999999,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
         "type":{"@ref":1},
         "score":0.0,
-        "data":"pubmed;bacterium;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"bacterium",
+        "data":"pubmed;mitochondrial;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"mitochondrial",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "PUBMEDS:bacterium":"Pubmed Titles List",
-          "LITERATURE:26808871":"(2016) Complete Genome Sequence of the Aneurinibacillus soli CB4(T) from soil of mountain."
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
@@ -73,64 +70,15 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453830715463,
+        "id":1453840773812,
         "groupId":-1,
         "isUserData":true,
-        "x":1049.9691995482533,
+        "x":299.9911998709295,
         "y":519.5999999999999,
         "type":{"@ref":1},
         "score":0.0,
-        "data":"pubmed;NP_065796;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_065796",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453830776253,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1574.9537993223798,
-        "y":389.69999999999993,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"pubmed;NP_065796;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_065796",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453830796206,
-        "groupId":-1,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":259.79999999999995,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"pubmed;NP_065796;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_065796",
+        "data":"pubmed;NP_065796.1;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_065796.1",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -146,21 +94,7 @@
     ]
   },
   "userEdges":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.Edge",
-        "id":1453830354576,
-        "sourceNodeID":1453830239048,
-        "targetNodeID":1453830202065,
-        "label":null,
-        "type":{
-          "name":"SOLID",
-          "ordinal":1
-        },
-        "evidenceNodes":null
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "groups":null
 }
