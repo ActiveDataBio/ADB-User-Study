@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453840773812,
+  "lastModifiedDate":1453841204724,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -56,29 +56,6 @@
         "score":0.0,
         "data":"pubmed;mitochondrial;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"mitochondrial",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453840773812,
-        "groupId":-1,
-        "isUserData":true,
-        "x":299.9911998709295,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"pubmed;NP_065796.1;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_065796.1",
         "badge":0,
         "sections":null,
         "listValues":null,
