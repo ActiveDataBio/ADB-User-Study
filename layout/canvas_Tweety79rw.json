@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453828942769,
+  "lastModifiedDate":1453830261546,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,85 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453830202065,
+        "groupId":-1,
+        "isUserData":true,
+        "x":974.9713995805209,
+        "y":389.69999999999993,
+        "type":{
+          "@id":1,
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"pubmed;cytochrome;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"cytochrome",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453830239048,
+        "groupId":-1,
+        "isUserData":true,
+        "x":599.982399741859,
+        "y":519.5999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"pubmed;bacterium;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"bacterium",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453830261546,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1124.9669995159857,
+        "y":649.4999999999999,
+        "type":{
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":"pubmed;NP_007635;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_007635",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
