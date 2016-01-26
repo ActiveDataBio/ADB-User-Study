@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453841204724,
+  "lastModifiedDate":1453841260197,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -50,7 +50,7 @@
         "id":1453840766347,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
+        "x":1124.9669995159857,
         "y":389.69999999999993,
         "type":{"@ref":1},
         "score":0.0,
@@ -62,7 +62,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
