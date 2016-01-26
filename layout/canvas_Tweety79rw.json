@@ -38,7 +38,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.HashMap",
+          "PUBMEDS:alanine--tRNA ligase, mitochondrial [Homo sapiens]":"Pubmed Titles List",
+          "PROTEIN:NP_065796":"alanine--tRNA ligase, mitochondrial [Homo sapiens]"
         },
         "buttons":{
           "@type":"java.util.HashMap"
