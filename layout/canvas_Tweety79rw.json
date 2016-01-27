@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453915535503,
+  "lastModifiedDate":1453916148973,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,59 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453914257098,
-        "groupId":-1,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":519.5999999999999,
-        "type":{
-          "@id":1,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"pubmed;Samuel Payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Samuel Payne",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453915535503,
-        "groupId":-1,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":519.5999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"pubmed;fix lookup;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"fix lookup",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
