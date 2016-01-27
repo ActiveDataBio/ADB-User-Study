@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453855194409,
+  "lastModifiedDate":1453913752244,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,90 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453851117748,
-        "groupId":-1,
-        "isUserData":true,
-        "x":674.9801997095914,
-        "y":389.69999999999993,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"pubmed;NP_065796.1;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_065796.1",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap",
-          "PROTEIN:NP_065796":"alanine--tRNA ligase, mitochondrial [Homo sapiens]",
-          "PUBMEDS:alanine--tRNA ligase, mitochondrial [Homo sapiens]":"Pubmed Titles List"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453851140246,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1274.9625994514504,
-        "y":649.4999999999999,
-        "type":{
-          "@id":1,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"pubmed;mitochondrial;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"mitochondrial",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453855101600,
-        "groupId":-1,
-        "isUserData":true,
-        "x":374.98899983866187,
-        "y":649.4999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"pubmed;Grant Fujimoto;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Grant Fujimoto",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24320210":"(2014) Accounting for population variation in targeted proteomics.",
-          "LITERATURE:26306205":"(2015) The Pacific Northwest National Laboratory library of bacterial and archaeal proteomic biodiversity.",
-          "LITERATURE:25350482":"(2015) Comprehensive quantitative analysis of ovarian and breast cancer tumor peptidomes."
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
