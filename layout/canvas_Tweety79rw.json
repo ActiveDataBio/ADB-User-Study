@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453913763765,
+  "lastModifiedDate":1453914159143,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,12 +25,36 @@
         "x":0.0,
         "y":0.0,
         "type":{
+          "@id":1,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
         "data":"pubmed;Ryan Wilson;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"Ryan Wilson",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453914159143,
+        "groupId":-1,
+        "isUserData":true,
+        "x":0.0,
+        "y":0.0,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"pubmed;Samuel Payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"Samuel Payne",
         "badge":0,
         "sections":null,
         "listValues":null,
