@@ -3,7 +3,7 @@
   "id":1444170855307,
   "name":"ADB-User-Study_GrantFujimoto",
   "creationDate":1444170855307,
-  "lastModifiedDate":1453930849413,
+  "lastModifiedDate":1453930878814,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,36 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1453930878814,
+        "groupId":-1,
+        "isUserData":true,
+        "x":599.982399741859,
+        "y":519.5999999999999,
+        "type":{
+          "@id":2,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":"pubmed;NP_065796.1;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_065796.1",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
@@ -62,11 +91,7 @@
               "isUserData":true,
               "x":1499.9559993546475,
               "y":259.79999999999995,
-              "type":{
-                "@id":2,
-                "name":"PROTEIN",
-                "ordinal":17
-              },
+              "type":{"@ref":2},
               "score":0.0,
               "data":";NP_861970;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
               "label":"NP_861970",
