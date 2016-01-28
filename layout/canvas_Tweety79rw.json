@@ -3,7 +3,7 @@
   "id":1454005523646,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1454005523646,
-  "lastModifiedDate":1454007572886,
+  "lastModifiedDate":1454007637727,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -127,6 +127,32 @@
         "type":{"@ref":1},
         "score":0.0,
         "data":"red_lb_m3.jpg;image/jpeg",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454007637727,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1499.9559993546475,
+        "y":519.5999999999999,
+        "type":{
+          "name":"TEXTFILE",
+          "ordinal":22
+        },
+        "score":0.0,
+        "data":null,
         "label":null,
         "badge":0,
         "sections":null,
