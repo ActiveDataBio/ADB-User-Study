@@ -22,8 +22,8 @@
         "id":1454024362558,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":1424.958199386915,
+        "y":389.69999999999993,
         "type":{
           "@id":1,
           "name":"PATIENT_GROUP",
@@ -38,7 +38,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.ArrayList"
@@ -49,8 +49,8 @@
         "id":1454024426229,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":899.9735996127886,
+        "y":259.79999999999995,
         "type":{"@ref":1},
         "score":0.0,
         "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
@@ -61,7 +61,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.ArrayList"
@@ -95,8 +95,8 @@
         "id":1454024468962,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
-        "y":519.5999999999999,
+        "x":374.98899983866187,
+        "y":649.4999999999999,
         "type":{"@ref":1},
         "score":0.0,
         "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
