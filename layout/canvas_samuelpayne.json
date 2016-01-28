@@ -1,9 +1,9 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1446141628736,
+  "id":1454024262515,
   "name":"ADB-User-Study_samuelpayne",
-  "creationDate":1446141628736,
-  "lastModifiedDate":1453405125359,
+  "creationDate":1454024262515,
+  "lastModifiedDate":1454024480595,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,44 +19,65 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1446493437109,
+        "id":1454024362558,
         "groupId":-1,
         "isUserData":true,
-        "x":1649.9515992901122,
-        "y":779.3999999999999,
+        "x":960.0,
+        "y":500.0,
         "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_997403;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_997403",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1443632388244,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":779.3999999999999,
-        "type":{
+          "@id":1,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
         "score":0.0,
-        "data":"null;node165;26;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"changeRRR",
+        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node168",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454024426229,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":500.0,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node168",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "buttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454024457885,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1199.964799483718,
+        "y":779.3999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"dork dork",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -66,13 +87,80 @@
           "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454024468962,
+        "groupId":-1,
+        "isUserData":true,
+        "x":599.982399741859,
+        "y":519.5999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"farma",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
           "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454024474866,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1124.9669995159857,
+        "y":389.69999999999993,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"manahanams",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454024480595,
+        "groupId":-1,
+        "isUserData":true,
+        "x":674.9801997095914,
+        "y":389.69999999999993,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node168;54;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"deroinvas",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.ArrayList"
         }
       }
     ]
   },
-  "userEdges":{
-    "@type":"java.util.ArrayList"
-  },
+  "userEdges":null,
   "groups":null
 }
