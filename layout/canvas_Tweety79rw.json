@@ -1,9 +1,9 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1449262168622,
+  "id":1454005523646,
   "name":"ADB-User-Study_Tweety79rw",
-  "creationDate":1449262168622,
-  "lastModifiedDate":1454001522914,
+  "creationDate":1454005523646,
+  "lastModifiedDate":1454005523646,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -14,39 +14,7 @@
       }
     ]
   },
-  "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453921804069,
-        "groupId":-1,
-        "isUserData":true,
-        "x":449.9867998063943,
-        "y":519.5999999999999,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_851996;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_851996",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
-  },
-  "userEdges":{
-    "@type":"java.util.ArrayList"
-  },
+  "userDataNodes":null,
+  "userEdges":null,
   "groups":null
 }
