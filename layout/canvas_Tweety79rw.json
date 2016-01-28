@@ -3,7 +3,7 @@
   "id":1454005523646,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1454005523646,
-  "lastModifiedDate":1454007123510,
+  "lastModifiedDate":1454007572886,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":449.9867998063943,
         "y":519.5999999999999,
         "type":{
-          "@id":1,
+          "@id":2,
           "name":"TEXT",
           "ordinal":0
         },
@@ -51,7 +51,7 @@
         "isUserData":true,
         "x":899.9735996127886,
         "y":519.5999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":"pubmed;Willie Nelson;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"Willie Nelson",
@@ -74,7 +74,7 @@
         "isUserData":true,
         "x":1199.964799483718,
         "y":519.5999999999999,
-        "type":{"@ref":1},
+        "type":{"@ref":2},
         "score":0.0,
         "data":"pubmed;Samuel Payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"Samuel Payne",
@@ -98,6 +98,7 @@
         "x":749.9779996773237,
         "y":779.3999999999999,
         "type":{
+          "@id":1,
           "name":"IMAGE",
           "ordinal":2
         },
@@ -111,6 +112,29 @@
         "views":null,
         "attributes":{
           "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454007572886,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1349.9603994191827,
+        "y":779.3999999999999,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"red_lb_m3.jpg;image/jpeg",
+        "label":null,
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "buttons":{
           "@type":"java.util.ArrayList"
