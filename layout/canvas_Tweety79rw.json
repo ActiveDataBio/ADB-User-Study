@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1453913763765,
+  "lastModifiedDate":1453916148973,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,35 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1453913763765,
-        "groupId":-1,
-        "isUserData":true,
-        "x":0.0,
-        "y":0.0,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"pubmed;Ryan Wilson;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Ryan Wilson",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
