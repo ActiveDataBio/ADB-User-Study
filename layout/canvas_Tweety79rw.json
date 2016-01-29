@@ -1,9 +1,9 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1454005523646,
+  "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
-  "creationDate":1454005523646,
-  "lastModifiedDate":1454010149028,
+  "creationDate":1449262168622,
+  "lastModifiedDate":1453913752244,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,133 +15,10 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1454006729571,
-        "groupId":-1,
-        "isUserData":true,
-        "x":449.9867998063943,
-        "y":519.5999999999999,
-        "type":{
-          "@id":2,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"pubmed;Taylor Swift;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Taylor Swift",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1454006758466,
-        "groupId":-1,
-        "isUserData":true,
-        "x":599.982399741859,
-        "y":779.3999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"pubmed;Willie Nelson;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Willie Nelson",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1454007087985,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1199.964799483718,
-        "y":519.5999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":"pubmed;Samuel Payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Samuel Payne",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1454007123510,
-        "groupId":-1,
-        "isUserData":true,
-        "x":749.9779996773237,
-        "y":779.3999999999999,
-        "type":{
-          "@id":1,
-          "name":"IMAGE",
-          "ordinal":2
-        },
-        "score":0.0,
-        "data":"index.jpg;image/jpeg",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1454007572886,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":779.3999999999999,
-        "type":{"@ref":1},
-        "score":0.0,
-        "data":"red_lb_m3.jpg;image/jpeg",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "buttons":{
-          "@type":"java.util.ArrayList"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
-  "userEdges":null,
+  "userEdges":{
+    "@type":"java.util.ArrayList"
+  },
   "groups":null
 }
