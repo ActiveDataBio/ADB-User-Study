@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1454100766763,
+  "lastModifiedDate":1454106309284,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -37,7 +37,8 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "PUBMEDS:Ryan Wilson":"Pubmed Titles List"
         },
         "gbuttons":{
           "@type":"java.util.ArrayList"
@@ -48,8 +49,8 @@
         "id":1454100766763,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":1049.9691995482533,
+        "y":519.5999999999999,
         "type":{
           "name":"PROTEIN_GROUP",
           "ordinal":16
@@ -63,7 +64,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap",
+          "GROUPNODE:node1648":"Node id node1648",
+          "GROUPSUMMARY:node test_Summary":"Summary for node test"
         },
         "gbuttons":{
           "@type":"java.util.ArrayList"
@@ -72,7 +75,21 @@
     ]
   },
   "userEdges":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1454105243225,
+        "sourceNodeID":1453913763765,
+        "targetNodeID":1454100766763,
+        "label":null,
+        "type":{
+          "name":"SOLID",
+          "ordinal":1
+        },
+        "evidenceNodes":null
+      }
+    ]
   },
   "groups":null
 }
