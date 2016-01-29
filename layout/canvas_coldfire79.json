@@ -3,7 +3,7 @@
   "id":1443631795461,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1443631795461,
-  "lastModifiedDate":1448338086539,
+  "lastModifiedDate":1443638138668,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,13 +18,12 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":3,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1443632388244,
-        "groupId":1448338086539,
+        "groupId":-1,
         "isUserData":true,
-        "x":899.9735996127886,
-        "y":259.79999999999995,
+        "x":1424.958199386915,
+        "y":649.4999999999999,
         "type":{
           "name":"PATIENT_GROUP",
           "ordinal":18
@@ -49,10 +48,10 @@
         "id":1443635327448,
         "groupId":-1,
         "isUserData":true,
-        "x":299.9911998709295,
-        "y":259.79999999999995,
+        "x":374.98899983866187,
+        "y":649.4999999999999,
         "type":{
-          "@id":2,
+          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -76,12 +75,12 @@
         "id":1443635452559,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
-        "y":259.79999999999995,
-        "type":{"@ref":2},
+        "x":899.9735996127886,
+        "y":779.3999999999999,
+        "type":{"@ref":1},
         "score":0.0,
         "data":"null;node1659;2;810;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1659",
+        "label":"node1659(copied)",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -93,56 +92,9 @@
         "gbuttons":{
           "@type":"java.util.ArrayList"
         }
-      },
-      {
-        "@id":1,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1448338086539,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1199.964799483718,
-        "y":259.79999999999995,
-        "type":{
-          "name":"GROUP",
-          "ordinal":13
-        },
-        "score":0.0,
-        "data":"#good",
-        "label":null,
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
       }
     ]
   },
   "userEdges":null,
-  "groups":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.Group",
-        "id":1448338086557,
-        "groupNode":{"@ref":1},
-        "dataNodes":{
-          "@type":"java.util.ArrayList",
-          "@items":[
-            {"@ref":3}
-          ]
-        },
-        "type":{
-          "name":"PILE",
-          "ordinal":0
-        },
-        "note":"#good"
-      }
-    ]
-  }
+  "groups":null
 }
