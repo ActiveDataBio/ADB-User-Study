@@ -41,8 +41,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -68,8 +68,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -91,8 +91,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -118,8 +118,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -141,8 +141,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -169,8 +169,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -197,8 +197,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -221,8 +221,8 @@
         "attributes":{
           "@type":"java.util.HashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -244,8 +244,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -267,8 +267,8 @@
         "attributes":{
           "@type":"java.util.HashMap"
         },
-        "buttons":{
-          "@type":"java.util.HashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       },
       {
@@ -290,8 +290,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
-          "@type":"java.util.LinkedHashMap"
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
         }
       }
     ]
@@ -342,8 +342,8 @@
               "attributes":{
                 "@type":"java.util.LinkedHashMap"
               },
-              "buttons":{
-                "@type":"java.util.HashMap"
+              "gbuttons":{
+                "@type":"java.util.ArrayList"
               }
             },
             {
@@ -365,8 +365,8 @@
               "attributes":{
                 "@type":"java.util.LinkedHashMap"
               },
-              "buttons":{
-                "@type":"java.util.HashMap"
+              "gbuttons":{
+                "@type":"java.util.ArrayList"
               }
             },
             {"@ref":7}
