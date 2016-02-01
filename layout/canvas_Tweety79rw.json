@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1454106323684,
+  "lastModifiedDate":1454345731232,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,6 +25,7 @@
         "x":599.982399741859,
         "y":519.5999999999999,
         "type":{
+          "@id":1,
           "name":"TEXT",
           "ordinal":0
         },
@@ -67,6 +68,55 @@
           "@type":"java.util.LinkedHashMap",
           "GROUPNODE:node1648":"Node id node1648",
           "GROUPSUMMARY:node test_Summary":"Summary for node test"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454115873522,
+        "groupId":-1,
+        "isUserData":true,
+        "x":749.9779996773237,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"pubmed;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"horse",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454345731232,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":500.0,
+        "type":{
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_981961;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_981961",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "gbuttons":{
           "@type":"java.util.ArrayList"
