@@ -39,8 +39,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
+        "buttons":{
+          "@type":"java.util.HashMap"
         }
       },
       {
@@ -66,8 +66,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
+        "buttons":{
+          "@type":"java.util.HashMap"
         }
       },
       {
@@ -89,8 +89,8 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
+        "buttons":{
+          "@type":"java.util.HashMap"
         }
       }
     ]
