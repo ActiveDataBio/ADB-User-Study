@@ -25,7 +25,7 @@
         "x":824.9757996450561,
         "y":389.69999999999993,
         "type":{
-          "@id":9943,
+          "@id":9924,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -52,7 +52,7 @@
         "x":1274.9625994514504,
         "y":649.4999999999999,
         "type":{
-          "@id":1,
+          "@id":9914,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -76,10 +76,10 @@
         "id":1454432248644,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
-        "y":389.69999999999993,
+        "x":449.9867998063943,
+        "y":519.5999999999999,
         "type":{
-          "@id":9929,
+          "@id":9913,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -92,7 +92,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "GROUPSUMMARY:node1648_Summary":"Summary for node1648",
+          "GROUPNODE:node1648":"Node id node1648"
         },
         "gbuttons":{
           "@type":"java.util.ArrayList"
@@ -106,7 +108,7 @@
         "x":599.982399741859,
         "y":779.3999999999999,
         "type":{
-          "@id":9942,
+          "@id":9923,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
