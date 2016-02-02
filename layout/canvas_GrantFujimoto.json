@@ -39,7 +39,7 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
+        "gbuttons":{
           "@type":"java.util.ArrayList"
         }
       },
@@ -48,7 +48,7 @@
         "id":1453936614740,
         "groupId":-1,
         "isUserData":true,
-        "x":749.9779996773237,
+        "x":299.9911998709295,
         "y":259.79999999999995,
         "type":{
           "name":"PROTEIN_GROUP",
@@ -65,7 +65,7 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
+        "gbuttons":{
           "@type":"java.util.ArrayList"
         }
       },
@@ -91,7 +91,7 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
+        "gbuttons":{
           "@type":"java.util.ArrayList"
         }
       },
@@ -100,8 +100,8 @@
         "id":1453936621004,
         "groupId":-1,
         "isUserData":true,
-        "x":299.9911998709295,
-        "y":519.5999999999999,
+        "x":824.9757996450561,
+        "y":389.69999999999993,
         "type":{
           "name":"PATIENT_GROUP",
           "ordinal":18
@@ -117,7 +117,7 @@
         "attributes":{
           "@type":"java.util.LinkedHashMap"
         },
-        "buttons":{
+        "gbuttons":{
           "@type":"java.util.ArrayList"
         }
       }
