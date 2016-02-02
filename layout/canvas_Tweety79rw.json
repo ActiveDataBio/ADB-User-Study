@@ -1,10 +1,9 @@
 {
-  "@id":10040,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1454345731232,
+  "lastModifiedDate":1454373281415,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,15 +18,14 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":10064,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1453913763765,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
+        "x":299.9911998709295,
         "y":519.5999999999999,
         "type":{
-          "@id":10059,
+          "@id":1,
           "name":"TEXT",
           "ordinal":0
         },
@@ -52,10 +50,9 @@
         "id":1454100766763,
         "groupId":-1,
         "isUserData":true,
-        "x":1049.9691995482533,
-        "y":519.5999999999999,
+        "x":1124.9669995159857,
+        "y":649.4999999999999,
         "type":{
-          "@id":10046,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -77,14 +74,13 @@
         }
       },
       {
-        "@id":10063,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1454115873522,
         "groupId":-1,
         "isUserData":true,
         "x":749.9779996773237,
         "y":259.79999999999995,
-        "type":{"@ref":10059},
+        "type":{"@ref":1},
         "score":0.0,
         "data":"pubmed;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"horse",
@@ -108,7 +104,6 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":10045,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -130,7 +125,21 @@
     ]
   },
   "userEdges":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.Edge",
+        "id":1454373281415,
+        "sourceNodeID":1453913763765,
+        "targetNodeID":1454345731232,
+        "label":null,
+        "type":{
+          "name":"SOLID",
+          "ordinal":1
+        },
+        "evidenceNodes":null
+      }
+    ]
   },
   "groups":null
 }
