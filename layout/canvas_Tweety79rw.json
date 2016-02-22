@@ -1,10 +1,10 @@
 {
-  "@id":10232,
+  "@id":10248,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1455648066134,
+  "lastModifiedDate":1456170372201,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -26,7 +26,7 @@
         "x":1274.9625994514504,
         "y":649.4999999999999,
         "type":{
-          "@id":10234,
+          "@id":10250,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -53,7 +53,7 @@
         "x":224.99339990319714,
         "y":649.4999999999999,
         "type":{
-          "@id":10220,
+          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -82,7 +82,7 @@
         "x":599.982399741859,
         "y":779.3999999999999,
         "type":{
-          "@id":10233,
+          "@id":10249,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -102,7 +102,7 @@
         }
       },
       {
-        "@id":10245,
+        "@id":10263,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1454449252497,
         "groupId":-1,
@@ -116,6 +116,29 @@
         "score":0.0,
         "data":"pubmed;Ryan Wilson;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"Ryan Wilson",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1454025455646,
+        "groupId":-1,
+        "isUserData":true,
+        "x":749.9779996773237,
+        "y":259.79999999999995,
+        "type":{"@ref":1},
+        "score":0.0,
+        "data":"null;node1654;245;375;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"node1654",
         "badge":0,
         "sections":null,
         "listValues":null,
