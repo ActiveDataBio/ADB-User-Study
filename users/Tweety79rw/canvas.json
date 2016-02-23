@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1455831776070,
+  "lastModifiedDate":1456261861733,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,9 +22,10 @@
         "id":1454432247533,
         "groupId":-1,
         "isUserData":true,
-        "x":1274.9625994514504,
-        "y":649.4999999999999,
+        "x":1424.958199386915,
+        "y":389.69999999999993,
         "type":{
+          "@id":8777,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -45,27 +46,22 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1454432248644,
+        "id":1456181603950,
         "groupId":-1,
         "isUserData":true,
-        "x":224.99339990319714,
-        "y":649.4999999999999,
-        "type":{
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
+        "x":960.0,
+        "y":500.0,
+        "type":{"@ref":8777},
         "score":0.0,
-        "data":"null;node1648;250;593;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node1648",
+        "data":"undefined;NP_000087;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"CPB2",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "GROUPSUMMARY:node1648_Summary":"Summary for node1648",
-          "GROUPNODE:node1648":"Node id node1648"
+          "@type":"java.util.HashMap"
         },
         "gbuttons":{
           "@type":"java.util.ArrayList"
@@ -73,25 +69,45 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1454432252209,
+        "id":1456181625958,
         "groupId":-1,
         "isUserData":true,
-        "x":599.982399741859,
-        "y":779.3999999999999,
-        "type":{
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
+        "x":960.0,
+        "y":500.0,
+        "type":{"@ref":8777},
         "score":0.0,
-        "data":"null;node171;83;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node171",
+        "data":"undefined;NP_001054;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"TFPI",
         "badge":0,
         "sections":null,
         "listValues":null,
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.HashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1456181653099,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":500.0,
+        "type":{"@ref":8777},
+        "score":0.0,
+        "data":"undefined;NP_001728;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"C9",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
         },
         "gbuttons":{
           "@type":"java.util.ArrayList"
