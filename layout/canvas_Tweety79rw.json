@@ -1,5 +1,5 @@
 {
-  "@id":11325,
+  "@id":11354,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
@@ -26,7 +26,7 @@
         "x":1274.9625994514504,
         "y":649.4999999999999,
         "type":{
-          "@id":11340,
+          "@id":11375,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -53,7 +53,7 @@
         "x":224.99339990319714,
         "y":649.4999999999999,
         "type":{
-          "@id":11316,
+          "@id":11348,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -82,7 +82,7 @@
         "x":599.982399741859,
         "y":779.3999999999999,
         "type":{
-          "@id":11339,
+          "@id":11374,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -102,7 +102,7 @@
         }
       },
       {
-        "@id":11338,
+        "@id":11373,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1454449252497,
         "groupId":-1,
@@ -135,7 +135,7 @@
         "isUserData":true,
         "x":749.9779996773237,
         "y":259.79999999999995,
-        "type":{"@ref":11316},
+        "type":{"@ref":11348},
         "score":0.0,
         "data":"null;node1654;245;375;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1654(copied)",
