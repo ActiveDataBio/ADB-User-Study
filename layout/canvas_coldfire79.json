@@ -1,10 +1,10 @@
 {
-  "@id":9492,
+  "@id":9294,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1456353256699,
-  "lastModifiedDate":1457120777262,
+  "lastModifiedDate":1457129476956,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -26,7 +26,7 @@
         "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "@id":9511,
+          "@id":9312,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -53,7 +53,7 @@
         "x":1649.9515992901122,
         "y":519.5999999999999,
         "type":{
-          "@id":1,
+          "@id":9288,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -79,37 +79,10 @@
         "isUserData":true,
         "x":1499.9559993546475,
         "y":259.79999999999995,
-        "type":{"@ref":1},
+        "type":{"@ref":9288},
         "score":0.0,
         "data":"null;node1662;1663;1063;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1662",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@id":9510,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1457113563412,
-        "groupId":-1,
-        "isUserData":true,
-        "x":899.9735996127886,
-        "y":779.3999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"pubmed;Jon loan;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Jon loan",
         "badge":0,
         "sections":null,
         "listValues":null,
