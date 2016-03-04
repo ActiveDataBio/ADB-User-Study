@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1457113399566,
+  "lastModifiedDate":1457113435017,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,10 +22,10 @@
         "id":1456335455182,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
         "type":{
-          "@id":8677,
+          "@id":8682,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -38,7 +38,7 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "gbuttons":{
           "@type":"java.util.ArrayList"
@@ -52,7 +52,7 @@
         "x":374.98899983866187,
         "y":649.4999999999999,
         "type":{
-          "@id":8674,
+          "@id":8688,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -79,7 +79,7 @@
         "x":1274.9625994514504,
         "y":649.4999999999999,
         "type":{
-          "@id":8679,
+          "@id":8680,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -106,40 +106,13 @@
         "x":449.9867998063943,
         "y":259.79999999999995,
         "type":{
-          "@id":8673,
+          "@id":8683,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
         "score":0.0,
         "data":"null;node165;26;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node165",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1457113399566,
-        "groupId":-1,
-        "isUserData":true,
-        "x":674.9801997095914,
-        "y":389.69999999999993,
-        "type":{
-          "@id":8695,
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"pubmed;;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"",
         "badge":0,
         "sections":null,
         "listValues":null,
