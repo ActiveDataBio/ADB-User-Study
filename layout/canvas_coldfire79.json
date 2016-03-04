@@ -1,5 +1,5 @@
 {
-  "@id":9480,
+  "@id":9467,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
@@ -26,7 +26,7 @@
         "x":824.9757996450561,
         "y":389.69999999999993,
         "type":{
-          "@id":9500,
+          "@id":9507,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -53,7 +53,7 @@
         "x":1649.9515992901122,
         "y":519.5999999999999,
         "type":{
-          "@id":9484,
+          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -79,7 +79,7 @@
         "isUserData":true,
         "x":1499.9559993546475,
         "y":259.79999999999995,
-        "type":{"@ref":9484},
+        "type":{"@ref":1},
         "score":0.0,
         "data":"null;node1662;1663;1063;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1662",
@@ -96,7 +96,7 @@
         }
       },
       {
-        "@id":9499,
+        "@id":9506,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457129543054,
         "groupId":-1,
@@ -104,7 +104,7 @@
         "x":1124.9669995159857,
         "y":909.2999999999998,
         "type":{
-          "@id":9498,
+          "@id":9505,
           "name":"TEXT",
           "ordinal":0
         },
@@ -130,7 +130,7 @@
         "isUserData":true,
         "x":749.9779996773237,
         "y":779.3999999999999,
-        "type":{"@ref":9498},
+        "type":{"@ref":9505},
         "score":0.0,
         "data":"pubmed;Joon-Yong;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"Joon-Yong",
