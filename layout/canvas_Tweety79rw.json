@@ -1,9 +1,10 @@
 {
+  "@id":10637,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1457116146326,
+  "lastModifiedDate":1457127134345,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,10 +23,10 @@
         "id":1456417062063,
         "groupId":-1,
         "isUserData":true,
-        "x":374.98899983866187,
-        "y":649.4999999999999,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
         "type":{
-          "@id":10687,
+          "@id":10738,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -52,7 +53,7 @@
         "x":1274.9625994514504,
         "y":649.4999999999999,
         "type":{
-          "@id":10672,
+          "@id":10639,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -79,7 +80,7 @@
         "x":449.9867998063943,
         "y":259.79999999999995,
         "type":{
-          "@id":10686,
+          "@id":10737,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
