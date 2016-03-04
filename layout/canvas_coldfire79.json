@@ -1,5 +1,5 @@
 {
-  "@id":10681,
+  "@id":10687,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
@@ -53,7 +53,7 @@
         "x":1649.9515992901122,
         "y":519.5999999999999,
         "type":{
-          "@id":10675,
+          "@id":10682,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -79,7 +79,7 @@
         "isUserData":true,
         "x":1499.9559993546475,
         "y":259.79999999999995,
-        "type":{"@ref":10675},
+        "type":{"@ref":10682},
         "score":0.0,
         "data":"null;node1662;1663;1063;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1662",
