@@ -1,5 +1,5 @@
 {
-  "@id":9467,
+  "@id":9530,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
@@ -26,7 +26,7 @@
         "x":824.9757996450561,
         "y":389.69999999999993,
         "type":{
-          "@id":9507,
+          "@id":9549,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -96,7 +96,7 @@
         }
       },
       {
-        "@id":9506,
+        "@id":9548,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457129543054,
         "groupId":-1,
@@ -104,7 +104,7 @@
         "x":1124.9669995159857,
         "y":909.2999999999998,
         "type":{
-          "@id":9505,
+          "@id":9547,
           "name":"TEXT",
           "ordinal":0
         },
@@ -130,7 +130,7 @@
         "isUserData":true,
         "x":749.9779996773237,
         "y":779.3999999999999,
-        "type":{"@ref":9505},
+        "type":{"@ref":9547},
         "score":0.0,
         "data":"pubmed;Joon-Yong;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"Joon-Yong",
