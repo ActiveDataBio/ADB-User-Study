@@ -1,5 +1,5 @@
 {
-  "@id":9394,
+  "@id":9422,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
@@ -26,7 +26,7 @@
         "x":824.9757996450561,
         "y":389.69999999999993,
         "type":{
-          "@id":9434,
+          "@id":9462,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -103,7 +103,7 @@
         "x":1124.9669995159857,
         "y":649.4999999999999,
         "type":{
-          "@id":9433,
+          "@id":9461,
           "name":"TEXT",
           "ordinal":0
         },
@@ -123,14 +123,14 @@
         }
       },
       {
-        "@id":9432,
+        "@id":9460,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457129543054,
         "groupId":-1,
         "isUserData":true,
         "x":1199.964799483718,
         "y":519.5999999999999,
-        "type":{"@ref":9433},
+        "type":{"@ref":9461},
         "score":0.0,
         "data":"pubmed;sam payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"sam payne",
