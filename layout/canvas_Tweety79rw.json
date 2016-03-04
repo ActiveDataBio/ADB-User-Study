@@ -1,5 +1,5 @@
 {
-  "@id":9203,
+  "@id":727,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
@@ -26,7 +26,7 @@
         "x":899.9735996127886,
         "y":519.5999999999999,
         "type":{
-          "@id":9314,
+          "@id":755,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -53,7 +53,7 @@
         "x":374.98899983866187,
         "y":649.4999999999999,
         "type":{
-          "@id":9207,
+          "@id":756,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -73,6 +73,7 @@
         }
       },
       {
+        "@id":9173,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1456417062983,
         "groupId":-1,
@@ -80,7 +81,7 @@
         "x":1274.9625994514504,
         "y":649.4999999999999,
         "type":{
-          "@id":9204,
+          "@id":9172,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -100,6 +101,7 @@
         }
       },
       {
+        "@id":9601,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1456502102199,
         "groupId":-1,
@@ -107,7 +109,7 @@
         "x":449.9867998063943,
         "y":259.79999999999995,
         "type":{
-          "@id":9313,
+          "@id":9171,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -127,7 +129,7 @@
         }
       },
       {
-        "@id":9312,
+        "@id":9600,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457114833024,
         "groupId":-1,
@@ -135,7 +137,7 @@
         "x":749.9779996773237,
         "y":779.3999999999999,
         "type":{
-          "@id":9219,
+          "@id":759,
           "name":"TEXT",
           "ordinal":0
         },
@@ -155,14 +157,14 @@
         }
       },
       {
-        "@id":9311,
+        "@id":9599,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457115033629,
         "groupId":-1,
         "isUserData":true,
         "x":-74.99779996773238,
         "y":389.69999999999993,
-        "type":{"@ref":9219},
+        "type":{"@ref":759},
         "score":0.0,
         "data":"pubmed;horse;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"horse",
