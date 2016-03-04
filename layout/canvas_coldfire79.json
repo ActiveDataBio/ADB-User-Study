@@ -1,5 +1,5 @@
 {
-  "@id":773,
+  "@id":9619,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
@@ -26,7 +26,7 @@
         "x":824.9757996450561,
         "y":389.69999999999993,
         "type":{
-          "@id":9625,
+          "@id":9632,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -96,7 +96,7 @@
         }
       },
       {
-        "@id":9624,
+        "@id":9631,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457129543054,
         "groupId":-1,
