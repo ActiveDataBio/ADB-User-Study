@@ -1,10 +1,10 @@
 {
-  "@id":11796,
+  "@id":11918,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1456353256699,
-  "lastModifiedDate":1457112000538,
+  "lastModifiedDate":1457112443251,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -26,7 +26,7 @@
         "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "@id":11802,
+          "@id":11909,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -52,7 +52,7 @@
         "isUserData":true,
         "x":984.5,
         "y":353.5,
-        "type":{"@ref":11802},
+        "type":{"@ref":11909},
         "score":0.0,
         "data":";NP_997639;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_997639",
@@ -76,7 +76,7 @@
         "x":1649.9515992901122,
         "y":519.5999999999999,
         "type":{
-          "@id":11799,
+          "@id":11828,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -102,37 +102,10 @@
         "isUserData":true,
         "x":1499.9559993546475,
         "y":259.79999999999995,
-        "type":{"@ref":11799},
+        "type":{"@ref":11828},
         "score":0.0,
         "data":"null;node1662;1663;1063;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1662",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@id":11924,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1457112000538,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1124.9669995159857,
-        "y":649.4999999999999,
-        "type":{
-          "name":"TEXT",
-          "ordinal":0
-        },
-        "score":0.0,
-        "data":"pubmed;Joon-Yong Lee;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"Joon-Yong Lee",
         "badge":0,
         "sections":null,
         "listValues":null,
