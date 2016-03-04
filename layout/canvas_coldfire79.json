@@ -1,5 +1,5 @@
 {
-  "@id":9695,
+  "@id":9646,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
@@ -26,7 +26,7 @@
         "x":824.9757996450561,
         "y":389.69999999999993,
         "type":{
-          "@id":9709,
+          "@id":9686,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -53,7 +53,7 @@
         "x":1649.9515992901122,
         "y":519.5999999999999,
         "type":{
-          "@id":9699,
+          "@id":9649,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -79,7 +79,7 @@
         "isUserData":true,
         "x":1499.9559993546475,
         "y":259.79999999999995,
-        "type":{"@ref":9699},
+        "type":{"@ref":9649},
         "score":0.0,
         "data":"null;node1662;1663;1063;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node1662",
@@ -96,7 +96,7 @@
         }
       },
       {
-        "@id":9708,
+        "@id":9685,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457129543054,
         "groupId":-1,
