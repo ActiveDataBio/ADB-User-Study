@@ -1,5 +1,5 @@
 {
-  "@id":9520,
+  "@id":9538,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1456353256699,
   "name":"ADB-User-Study_coldfire79",
@@ -23,10 +23,10 @@
         "id":1457111908394,
         "groupId":-1,
         "isUserData":true,
-        "x":1124.9669995159857,
-        "y":389.69999999999993,
+        "x":899.9735996127886,
+        "y":259.79999999999995,
         "type":{
-          "@id":9539,
+          "@id":9551,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,7 +51,7 @@
         "groupId":-1,
         "isUserData":true,
         "x":1649.9515992901122,
-        "y":519.5999999999999,
+        "y":779.3999999999999,
         "type":{
           "@id":1,
           "name":"PROTEIN_GROUP",
@@ -77,7 +77,7 @@
         "id":1457111984151,
         "groupId":-1,
         "isUserData":true,
-        "x":1499.9559993546475,
+        "x":1649.9515992901122,
         "y":259.79999999999995,
         "type":{"@ref":1},
         "score":0.0,
@@ -96,7 +96,7 @@
         }
       },
       {
-        "@id":9538,
+        "@id":9550,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1457129543054,
         "groupId":-1,
