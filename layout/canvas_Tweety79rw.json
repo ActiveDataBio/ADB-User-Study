@@ -1,5 +1,5 @@
 {
-  "@id":694,
+  "@id":689,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
@@ -26,7 +26,7 @@
         "x":599.982399741859,
         "y":259.79999999999995,
         "type":{
-          "@id":8959,
+          "@id":8932,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -73,7 +73,7 @@
         }
       },
       {
-        "@id":8958,
+        "@id":8931,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1456502102199,
         "groupId":-1,
