@@ -25,6 +25,7 @@
         "x":374.98899983866187,
         "y":649.4999999999999,
         "type":{
+          "@id":5,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -51,7 +52,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":2,
+          "@id":1,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
