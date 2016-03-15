@@ -25,7 +25,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":9785,
+          "@id":9807,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -52,7 +52,7 @@
         "x":374.98899983866187,
         "y":649.4999999999999,
         "type":{
-          "@id":8931,
+          "@id":8954,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -79,7 +79,7 @@
         "x":1274.9625994514504,
         "y":649.4999999999999,
         "type":{
-          "@id":9786,
+          "@id":9722,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -105,7 +105,7 @@
         "isUserData":true,
         "x":840.0,
         "y":482.5,
-        "type":{"@ref":8931},
+        "type":{"@ref":8954},
         "score":0.0,
         "data":";NP_705694;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_705694",
