@@ -1,0 +1,27 @@
+{
+  "@type":"gov.pnnl.bioviz.utils.UserPreferenceData",
+  "tests":{
+    "col":null,
+    "row":{
+      "geneset":{
+        "name":"genesets.RData",
+        "sha":"5789a36488faab8c9526ac07864f63afa0685a34"
+      },
+      "script":{
+        "name":"GeneSetEnrich.R",
+        "sha":"75c9dd6446970f112ea0eb27f76a9468acac92aa"
+      }
+    }
+  },
+  "dendrograms":{
+    "col":{
+      "name":"dendro_col.json",
+      "sha":"770c71d0614fe43d934ddc11b102bd9b02f1db81"
+    },
+    "row":{
+      "name":"dendro_row.json",
+      "sha":"8957f82fa988cef4035e9f853fcb800ed15dafbf"
+    }
+  },
+  "recommenders":null
+}
