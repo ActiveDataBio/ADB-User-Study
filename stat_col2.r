@@ -111,7 +111,7 @@ for (i in 2:ncol(metadata)) {
   meta <- fixFactor(meta)
   # multivariate categorical data
   # if (sum(config == 'categorical') == 1) {
-    source(paste0('../',config,'.r'))
+    source(paste0('../rcode/',config,'.r'))
     test_result = test(meta, group, null_string)
     if (is.null(test_result)) next
     testMethods[i] = test_result['testMethods']
