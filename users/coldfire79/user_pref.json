@@ -8,8 +8,8 @@
         "sha":"5789a36488faab8c9526ac07864f63afa0685a34"
       },
       "script":{
-        "name":"GeneSetEnrich.R",
-        "sha":"75c9dd6446970f112ea0eb27f76a9468acac92aa"
+        "name":"GeneSetEnrich2.R",
+        "sha":"f002aebc420bb62137f5443cdb701f57e6532d7e"
       },
       "background":{
         "name":"background_proteins.csv",
