@@ -7,8 +7,8 @@
         "sha":"86b647f1245bc31f34f5b0cccab1b4545a3ab1d5"
       },
       "script":{
-        "name":"StatMetaTest.R",
-        "sha":"e09ae4bba68aa24129200d9b4429a52396394173"
+        "name":"stat_col2.r",
+        "sha":"594d9a51933a6d7d77112d051ef62bdb3bec20a9"
       },
       "custom":{
         "@type":"java.util.ArrayList",
