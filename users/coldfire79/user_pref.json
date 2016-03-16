@@ -12,13 +12,13 @@
       },
       "custom":{
         "@type":"java.util.ArrayList",
-        {
+        "@items":[{
           "colName": "PlatinumFreeInterval",
           "snippet": {
               "name":"continuous.r",
               "sha": "fake24244424346363463463"
           }
-        }
+        }]
       }
     },
     "row":{
