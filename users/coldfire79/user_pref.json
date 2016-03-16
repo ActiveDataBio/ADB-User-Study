@@ -9,7 +9,7 @@
       },
       "script":{
         "name":"GeneSetEnrich2.R",
-        "sha":"f002aebc420bb62137f5443cdb701f57e6532d7e"
+        "sha":"6740fb59438ed53e40b97aaa3c70c7ea4dce6d28"
       },
       "background":{
         "name":"background_proteins.csv",
