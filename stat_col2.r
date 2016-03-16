@@ -155,6 +155,6 @@ for (j in (1:dim(statTestResult)[1])) {
 }
 str = paste0(str, ']', ',"node":"', nodeName, '"}')
 
-fileConn<-file(paste0("stat_",nodeName,".json"))
+fileConn<-file(paste0(args[5]))
 writeLines(str, fileConn)
 close(fileConn)
