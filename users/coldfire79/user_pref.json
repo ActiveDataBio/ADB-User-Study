@@ -11,7 +11,14 @@
         "sha":"e09ae4bba68aa24129200d9b4429a52396394173"
       },
       "custom":{
-        "@type":"java.util.ArrayList"
+        "@type":"java.util.ArrayList",
+        {
+          "colName": "PlatinumFreeInterval",
+          "snippet": {
+              "name":"continuous.r",
+              "sha": "fake24244424346363463463"
+          }
+        }
       }
     },
     "row":{
@@ -20,8 +27,8 @@
         "sha":"5789a36488faab8c9526ac07864f63afa0685a34"
       },
       "script":{
-        "name":"GeneSetEnrich.R",
-        "sha":"75c9dd6446970f112ea0eb27f76a9468acac92aa"
+        "name":"GeneSetEnrich2.R",
+        "sha":"6740fb59438ed53e40b97aaa3c70c7ea4dce6d28"
       },
       "background":{
         "name":"background_proteins.csv",
