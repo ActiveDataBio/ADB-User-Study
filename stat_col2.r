@@ -109,28 +109,16 @@ for (i in 2:ncol(metadata)) {
   
   eval(parse(text=paste0('meta=metadata$',names(metadata[i]))))
   meta <- fixFactor(meta)
-  # multivariate categorical data
-  # if (sum(config == 'categorical') == 1) {
   print(config[1])
-    source(paste0('../rcode/',config[1],'.r'))
-    test_result = test(meta, group, null_string)
-    if (is.null(test_result)) next
-    testMethods[i] = test_result['testMethods']
-    pvalues[i] = test_result['pvalues']
-    labels[i] = test_result['labels']
-    types[i] = test_result['types']
-    gin[i] = test_result['gin']
-    gout[i] = test_result['gout']
-  #} else if (sum(config == 'continuous') == 1) {
-    # source('stat_col_continuous.r')
-    # test_result = test(meta, group, null_string)
-    # if (is.null(test_result)) next
-    # testMethods[i] = test_result['testMethods']
-    # pvalues[i] = test_result['p.value']
-    # types[i] = test_result['types']
-    # gin[i] = test_result['gin']
-    # gout[i] = test_result['gout']
-  #}
+  source(paste0('../rcode/',config[1],'.r'))
+  test_result = test(meta, group, null_string)
+  if (is.null(test_result)) next
+  testMethods[i] = test_result['testMethods']
+  pvalues[i] = test_result['pvalues']
+  labels[i] = test_result['labels']
+  types[i] = test_result['types']
+  gin[i] = test_result['gin']
+  gout[i] = test_result['gout']
 }
 statTestResult = data.frame(names=names(metadata), types = types, methods = testMethods, pvalues = pvalues, labels=labels, group_in = gin, group_out = gout)
 
