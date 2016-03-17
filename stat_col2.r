@@ -40,7 +40,7 @@ findLeaves <- function(node) {
   } else {
     count <<- count + 1
     leaf[count] <<- node$name
-    print (node$name)
+    #print (node$name)
   }
 }
 
@@ -79,13 +79,13 @@ match_idx <- match_idx[complete.cases(match_idx)]
 
 ## make a group according to the each nodes (subset)
 #' @NOTE: be careful whether there is 'temp_group' column in meta data...
-metadata$temp_group = "OUT"
-metadata[match_idx,]$temp_group = 'IN'
-# group <- c()
-# for (i in (1:nrow(metadata))) {
-#   if (i %in% match_idx) group[i] <- 'IN'
-#   else group[i] <- 'OUT'
-# }
+# metadata$temp_group = "OUT"
+# metadata[match_idx,]$temp_group = 'IN'
+group <- c()
+for (i in (1:nrow(metadata))) {
+  if (i %in% match_idx) group[i] <- 'IN'
+  else group[i] <- 'OUT'
+}
 
 testMethods <- c()
 pvalues <- c()
@@ -111,11 +111,12 @@ for (i in 2:ncol(metadata)) {
   meta <- fixFactor(meta)
   # multivariate categorical data
   # if (sum(config == 'categorical') == 1) {
-    source(paste0('../rcode/',config,'.r'))
+  print(config[1])
+    source(paste0('../rcode/',config[1],'.r'))
     test_result = test(meta, group, null_string)
     if (is.null(test_result)) next
     testMethods[i] = test_result['testMethods']
-    pvalues[i] = test_result['p.value']
+    pvalues[i] = test_result['pvalues']
     labels[i] = test_result['labels']
     types[i] = test_result['types']
     gin[i] = test_result['gin']
