@@ -11,7 +11,7 @@
       },
       "custom" : [
         {
-          "colNames": ["PlatinumStatus"],
+          "colNames": ["PlatinumStatus","vital_status"],
           "snippet": {
               "name":"fisher.r",
               "sha": "7716f6d6ff7fcb9de14f225e986cea206f00ebae"
