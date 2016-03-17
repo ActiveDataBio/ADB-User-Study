@@ -6,10 +6,18 @@
         "sha" : "86b647f1245bc31f34f5b0cccab1b4545a3ab1d5"
       },
       "script" : {
-        "name" : "StatMetaTest.R",
-        "sha" : "e09ae4bba68aa24129200d9b4429a52396394173"
+        "name" : "stat_col2.r",
+        "sha" : "59f4586966ff480c12b47512cb96a100e6574911"
       },
-      "custom" : [ ]
+      "custom" : [
+        {
+          "colNames": ["PlatinumStatus","vital_status"],
+          "snippet": {
+              "name":"fisher.r",
+              "sha": "7716f6d6ff7fcb9de14f225e986cea206f00ebae"
+          }
+        }
+      ]
     },
     "row" : {
       "geneset" : {
@@ -17,8 +25,8 @@
         "sha" : "5789a36488faab8c9526ac07864f63afa0685a34"
       },
       "script" : {
-        "name" : "GeneSetEnrich.R",
-        "sha" : "75c9dd6446970f112ea0eb27f76a9468acac92aa"
+        "name" : "GeneSetEnrich2.R",
+        "sha" : "6740fb59438ed53e40b97aaa3c70c7ea4dce6d28"
       },
       "background" : {
         "name" : "background_proteins.csv",
