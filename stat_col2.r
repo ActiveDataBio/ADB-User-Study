@@ -110,6 +110,7 @@ for (i in 2:ncol(metadata)) {
   labels[i] <- NA
   gin[i] <- NA
   gout[i] <- NA
+
   col_name <- names(metadata[i])
   ## user preference for this column
   eval(parse(text=paste0('config=metaconfig$',col_name)))
@@ -119,12 +120,13 @@ for (i in 2:ncol(metadata)) {
   eval(parse(text=paste0('meta=metadata$',col_name)))
   meta <- fixFactor(meta)
   if (col_name %in% custom_codes$col) {
-    snippet <- custom_codes$snippet[custom_codes$col==col_name]
+    snippet <- as.character(custom_codes$snippet[custom_codes$col==col_name])
     print(paste0("custom code for ", col_name, ": ", snippet))
   } else {
     snippet <- paste0('../rcode/',config[1],'.r')
   }
   source(snippet)
+
   test_result = test(meta, group, null_string)
   if (is.null(test_result)) next
   testMethods[i] = test_result['testMethods']
