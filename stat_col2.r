@@ -40,8 +40,17 @@ findLeaves <- function(node) {
   } else {
     count <<- count + 1
     leaf[count] <<- node$name
-    print (node$name)
+    #print (node$name)
   }
+}
+
+#' customized parameters
+temp <- fromJSON(args[6])
+custom_codes <- NULL
+for (i in 1:length(temp)) {
+  new <- data.frame(col=temp[[i]]$names,snippet=c(rep(paste0(temp[[i]]$snippet$sha,'_',temp[[i]]$snippet$name),length(temp[[i]]$names))))
+  if (is.null(custom_codes))  custom_codes<-new
+  else custom_codes<-rbind(custom_codes,new)
 }
 
 ## fetch a list of children of this node
@@ -79,13 +88,13 @@ match_idx <- match_idx[complete.cases(match_idx)]
 
 ## make a group according to the each nodes (subset)
 #' @NOTE: be careful whether there is 'temp_group' column in meta data...
-metadata$temp_group = "OUT"
-metadata[match_idx,]$temp_group = 'IN'
-# group <- c()
-# for (i in (1:nrow(metadata))) {
-#   if (i %in% match_idx) group[i] <- 'IN'
-#   else group[i] <- 'OUT'
-# }
+# metadata$temp_group = "OUT"
+# metadata[match_idx,]$temp_group = 'IN'
+group <- c()
+for (i in (1:nrow(metadata))) {
+  if (i %in% match_idx) group[i] <- 'IN'
+  else group[i] <- 'OUT'
+}
 
 testMethods <- c()
 pvalues <- c()
@@ -101,35 +110,29 @@ for (i in 2:ncol(metadata)) {
   labels[i] <- NA
   gin[i] <- NA
   gout[i] <- NA
-  
+  col_name <- names(metadata[i])
   ## user preference for this column
-  eval(parse(text=paste0('config=metaconfig$',names(metadata[i]))))
+  eval(parse(text=paste0('config=metaconfig$',col_name)))
   if (sum(config == 'no') == 1) next
   config <- fixFactor(config)
   
-  eval(parse(text=paste0('meta=metadata$',names(metadata[i]))))
+  eval(parse(text=paste0('meta=metadata$',col_name)))
   meta <- fixFactor(meta)
-  # multivariate categorical data
-  # if (sum(config == 'categorical') == 1) {
-    source(paste0('../',config,'.r'))
-    test_result = test(meta, group, null_string)
-    if (is.null(test_result)) next
-    testMethods[i] = test_result['testMethods']
-    pvalues[i] = test_result['p.value']
-    labels[i] = test_result['labels']
-    types[i] = test_result['types']
-    gin[i] = test_result['gin']
-    gout[i] = test_result['gout']
-  #} else if (sum(config == 'continuous') == 1) {
-    # source('stat_col_continuous.r')
-    # test_result = test(meta, group, null_string)
-    # if (is.null(test_result)) next
-    # testMethods[i] = test_result['testMethods']
-    # pvalues[i] = test_result['p.value']
-    # types[i] = test_result['types']
-    # gin[i] = test_result['gin']
-    # gout[i] = test_result['gout']
-  #}
+  if (col_name %in% custom_codes$col) {
+    snippet <- custom_codes$snippet[custom_codes$col==col_name]
+    print(paste0("custom code for ", col_name, ": ", snippet))
+  } else {
+    snippet <- paste0('../rcode/',config[1],'.r')
+  }
+  source(snippet)
+  test_result = test(meta, group, null_string)
+  if (is.null(test_result)) next
+  testMethods[i] = test_result['testMethods']
+  pvalues[i] = test_result['pvalues']
+  labels[i] = test_result['labels']
+  types[i] = test_result['types']
+  gin[i] = test_result['gin']
+  gout[i] = test_result['gout']
 }
 statTestResult = data.frame(names=names(metadata), types = types, methods = testMethods, pvalues = pvalues, labels=labels, group_in = gin, group_out = gout)
 
