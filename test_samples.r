@@ -49,7 +49,7 @@ temp <- fromJSON(args[6])
 custom_codes <- NULL
 if (length(temp) > 0) {
   for (i in 1:length(temp)) {
-    new <- data.frame(col=temp[[i]]$names,snippet=c(rep(paste0(temp[[i]]$snippet$sha,'_',temp[[i]]$snippet$name),length(temp[[i]]$names))))
+    new <- data.frame(col=temp[[i]]$names,snippet=c(rep(temp[[i]]$snippet$sha,length(temp[[i]]$names))))
     if (is.null(custom_codes))  custom_codes<-new
     else custom_codes<-rbind(custom_codes,new)
   }  
