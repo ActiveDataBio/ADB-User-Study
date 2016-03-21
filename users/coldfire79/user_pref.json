@@ -6,7 +6,7 @@
         "sha" : "86b647f1245bc31f34f5b0cccab1b4545a3ab1d5"
       },
       "script" : {
-        "name" : "StatMetaTest.R",
+        "name" : "test_samples.r",
         "sha" : "a688aeaaa245284b66c4a5b377f8869e3c55a838"
       },
       "custom" : [
@@ -25,11 +25,11 @@
         "sha" : "5789a36488faab8c9526ac07864f63afa0685a34"
       },
       "script" : {
-        "name" : "GeneSetEnrich.R",
+        "name" : "test_molecules.r",
         "sha" : "6740fb59438ed53e40b97aaa3c70c7ea4dce6d28"
       },
       "background" : {
-        "name" : "background_proteins.csv",
+        "name" : "background.csv",
         "sha" : "78986d9ec65eb5631d5d86997d4f5654c7de9cb8"
       }
     }
