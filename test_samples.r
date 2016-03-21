@@ -47,10 +47,12 @@ findLeaves <- function(node) {
 #' customized parameters
 temp <- fromJSON(args[6])
 custom_codes <- NULL
-for (i in 1:length(temp)) {
-  new <- data.frame(col=temp[[i]]$names,snippet=c(rep(paste0(temp[[i]]$snippet$sha,'_',temp[[i]]$snippet$name),length(temp[[i]]$names))))
-  if (is.null(custom_codes))  custom_codes<-new
-  else custom_codes<-rbind(custom_codes,new)
+if (length(temp) > 0) {
+  for (i in 1:length(temp)) {
+    new <- data.frame(col=temp[[i]]$names,snippet=c(rep(paste0(temp[[i]]$snippet$sha,'_',temp[[i]]$snippet$name),length(temp[[i]]$names))))
+    if (is.null(custom_codes))  custom_codes<-new
+    else custom_codes<-rbind(custom_codes,new)
+  }  
 }
 
 ## fetch a list of children of this node
@@ -119,7 +121,7 @@ for (i in 2:ncol(metadata)) {
   
   eval(parse(text=paste0('meta=metadata$',col_name)))
   meta <- fixFactor(meta)
-  if (col_name %in% custom_codes$col) {
+  if (!is.null(custom_codes) && col_name %in% custom_codes$col) {
     snippet <- as.character(custom_codes$snippet[custom_codes$col==col_name])
     print(paste0("custom code for ", col_name, ": ", snippet))
   } else {
