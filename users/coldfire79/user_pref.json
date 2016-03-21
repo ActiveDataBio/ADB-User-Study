@@ -7,11 +7,11 @@
       },
       "script" : {
         "name" : "stat_col2.r",
-        "sha" : "72a15e4bc8a7080249af56b1d036df184c30f082"
+        "sha" : "59f4586966ff480c12b47512cb96a100e6574911"
       },
       "custom" : [
         {
-          "colNames": ["PlatinumStatus"],
+          "colNames": ["PlatinumStatus","vital_status"],
           "snippet": {
               "name":"fisher.r",
               "sha": "7716f6d6ff7fcb9de14f225e986cea206f00ebae"

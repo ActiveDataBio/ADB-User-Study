@@ -1,6 +1,48 @@
 {
-  "dendrograms": {
-    "rowSha": "8957f82fa988cef4035e9f853fcb800ed15dafbf",
-    "colSha": "770c71d0614fe43d934ddc11b102bd9b02f1db81"
-  }
+  "tests" : {
+    "col" : {
+      "metadata" : {
+        "name" : "metadata.tsv",
+        "sha" : "86b647f1245bc31f34f5b0cccab1b4545a3ab1d5"
+      },
+      "script" : {
+        "name" : "stat_col2.r",
+        "sha" : "59f4586966ff480c12b47512cb96a100e6574911"
+      },
+      "custom" : [
+        {
+          "colNames": ["PlatinumStatus","vital_status"],
+          "snippet": {
+              "name":"fisher.r",
+              "sha": "7716f6d6ff7fcb9de14f225e986cea206f00ebae"
+          }
+        }
+      ]
+    },
+    "row" : {
+      "geneset" : {
+        "name" : "genesets.RData",
+        "sha" : "5789a36488faab8c9526ac07864f63afa0685a34"
+      },
+      "script" : {
+        "name" : "GeneSetEnrich2.R",
+        "sha" : "6740fb59438ed53e40b97aaa3c70c7ea4dce6d28"
+      },
+      "background" : {
+        "name" : "background_proteins.csv",
+        "sha" : "78986d9ec65eb5631d5d86997d4f5654c7de9cb8"
+      }
+    }
+  },
+  "dendrograms" : {
+    "col" : {
+      "name" : "dendro_col.json",
+      "sha" : "770c71d0614fe43d934ddc11b102bd9b02f1db81"
+    },
+    "row" : {
+      "name" : "dendro_row.json",
+      "sha" : "8957f82fa988cef4035e9f853fcb800ed15dafbf"
+    }
+  },
+  "recommenders" : null
 }
