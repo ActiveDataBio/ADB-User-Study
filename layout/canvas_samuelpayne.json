@@ -25,7 +25,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":4,
+          "@id":10004,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,7 +51,7 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":4},
+        "type":{"@ref":10004},
         "score":0.0,
         "data":";NP_808220;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_808220",
@@ -74,7 +74,7 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":4},
+        "type":{"@ref":10004},
         "score":0.0,
         "data":";NP_803878;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_803878",
@@ -97,7 +97,7 @@
         "isUserData":true,
         "x":961.0,
         "y":468.5,
-        "type":{"@ref":4},
+        "type":{"@ref":10004},
         "score":0.0,
         "data":";NP_000033;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_000033",
@@ -120,7 +120,7 @@
         "isUserData":true,
         "x":961.0,
         "y":468.5,
-        "type":{"@ref":4},
+        "type":{"@ref":10004},
         "score":0.0,
         "data":";NP_000054;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_000054",
@@ -144,7 +144,7 @@
         "x":961.0,
         "y":468.5,
         "type":{
-          "@id":1,
+          "@id":10072,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
