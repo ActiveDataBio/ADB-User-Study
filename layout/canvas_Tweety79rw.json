@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1458698194363,
+  "lastModifiedDate":1458763757192,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":974.9713995805209,
         "y":649.4999999999999,
         "type":{
-          "@id":9977,
+          "@id":9988,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -52,7 +52,7 @@
         "x":374.98899983866187,
         "y":649.4999999999999,
         "type":{
-          "@id":10025,
+          "@id":10045,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -79,7 +79,7 @@
         "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "@id":9978,
+          "@id":9968,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -105,10 +105,33 @@
         "isUserData":true,
         "x":1349.9603994191827,
         "y":519.5999999999999,
-        "type":{"@ref":9978},
+        "type":{"@ref":9968},
         "score":0.0,
         "data":";NP_057707;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_057707",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1458758699964,
+        "groupId":-1,
+        "isUserData":true,
+        "x":599.982399741859,
+        "y":519.5999999999999,
+        "type":{"@ref":9968},
+        "score":0.0,
+        "data":";NP_803878;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_803878",
         "badge":0,
         "sections":null,
         "listValues":null,
