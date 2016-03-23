@@ -25,7 +25,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":9936,
+          "@id":9938,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,7 +51,7 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":9936},
+        "type":{"@ref":9938},
         "score":0.0,
         "data":";NP_808220;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_808220",
@@ -74,7 +74,7 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":9936},
+        "type":{"@ref":9938},
         "score":0.0,
         "data":";NP_803878;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_803878",
@@ -98,7 +98,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":10019,
+          "@id":10021,
           "name":"PATHWAY",
           "ordinal":20
         },
