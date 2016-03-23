@@ -3,7 +3,7 @@
   "id":1454024262515,
   "name":"ADB-User-Study_samuelpayne",
   "creationDate":1454024262515,
-  "lastModifiedDate":1458758960527,
+  "lastModifiedDate":1458759032015,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":10027,
+          "@id":4,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,7 +51,7 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":10027},
+        "type":{"@ref":4},
         "score":0.0,
         "data":";NP_808220;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_808220",
@@ -74,7 +74,7 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":10027},
+        "type":{"@ref":4},
         "score":0.0,
         "data":";NP_803878;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_803878",
@@ -97,7 +97,7 @@
         "isUserData":true,
         "x":961.0,
         "y":468.5,
-        "type":{"@ref":10027},
+        "type":{"@ref":4},
         "score":0.0,
         "data":";NP_000033;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_000033",
@@ -120,10 +120,37 @@
         "isUserData":true,
         "x":961.0,
         "y":468.5,
-        "type":{"@ref":10027},
+        "type":{"@ref":4},
         "score":0.0,
         "data":";NP_000054;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_000054",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1458759032015,
+        "groupId":-1,
+        "isUserData":true,
+        "x":961.0,
+        "y":468.5,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"null;node1654;245;375;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"interesting",
         "badge":0,
         "sections":null,
         "listValues":null,
