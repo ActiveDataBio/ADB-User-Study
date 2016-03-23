@@ -1,9 +1,10 @@
 {
+  "@id":9739,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1457127134345,
+  "lastModifiedDate":1458698146782,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,14 +19,15 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
+        "@id":9749,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1456417062063,
         "groupId":-1,
         "isUserData":true,
-        "x":1274.9625994514504,
+        "x":974.9713995805209,
         "y":389.69999999999993,
         "type":{
-          "@id":10020,
+          "@id":9738,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -45,6 +47,7 @@
         }
       },
       {
+        "@id":9748,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1456417062983,
         "groupId":-1,
@@ -52,7 +55,7 @@
         "x":974.9713995805209,
         "y":649.4999999999999,
         "type":{
-          "@id":10012,
+          "@id":9741,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -72,20 +75,45 @@
         }
       },
       {
+        "@id":10070,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1456502102199,
         "groupId":-1,
         "isUserData":true,
-        "x":449.9867998063943,
-        "y":519.5999999999999,
+        "x":374.98899983866187,
+        "y":649.4999999999999,
         "type":{
-          "@id":10019,
+          "@id":9747,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
         "score":0.0,
         "data":"null;node165;26;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"node165",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@id":9746,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1458698146782,
+        "groupId":-1,
+        "isUserData":true,
+        "x":840.0,
+        "y":482.5,
+        "type":{"@ref":9738},
+        "score":0.0,
+        "data":"undefined;NP_001092;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"ACTB",
         "badge":0,
         "sections":null,
         "listValues":null,
