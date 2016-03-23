@@ -3,7 +3,7 @@
   "id":1454024262515,
   "name":"ADB-User-Study_samuelpayne",
   "creationDate":1454024262515,
-  "lastModifiedDate":1458758740798,
+  "lastModifiedDate":1458758852704,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":960.0,
         "y":500.0,
         "type":{
-          "@id":9938,
+          "@id":10000,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,7 +51,7 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":9938},
+        "type":{"@ref":10000},
         "score":0.0,
         "data":";NP_808220;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_808220",
@@ -74,37 +74,10 @@
         "isUserData":true,
         "x":960.0,
         "y":500.0,
-        "type":{"@ref":9938},
+        "type":{"@ref":10000},
         "score":0.0,
         "data":";NP_803878;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_803878",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1458758704146,
-        "groupId":-1,
-        "isUserData":true,
-        "x":960.0,
-        "y":500.0,
-        "type":{
-          "@id":10021,
-          "name":"PATHWAY",
-          "ordinal":20
-        },
-        "score":0.0,
-        "data":";hsa04610;node1654;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"hsa04610",
         "badge":0,
         "sections":null,
         "listValues":null,
