@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1458698146782,
+  "lastModifiedDate":1458698194363,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,40 +19,13 @@
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1456417062063,
-        "groupId":-1,
-        "isUserData":true,
-        "x":974.9713995805209,
-        "y":389.69999999999993,
-        "type":{
-          "@id":10092,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_997639;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_997639",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1456417062983,
         "groupId":-1,
         "isUserData":true,
         "x":974.9713995805209,
         "y":649.4999999999999,
         "type":{
-          "@id":10099,
+          "@id":10000,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -79,7 +52,7 @@
         "x":374.98899983866187,
         "y":649.4999999999999,
         "type":{
-          "@id":10114,
+          "@id":10022,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -103,12 +76,39 @@
         "id":1458698146782,
         "groupId":-1,
         "isUserData":true,
-        "x":840.0,
-        "y":482.5,
-        "type":{"@ref":10092},
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "@id":10001,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
         "score":0.0,
         "data":"undefined;NP_001092;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"ACTB",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1458698178341,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1349.9603994191827,
+        "y":519.5999999999999,
+        "type":{"@ref":10001},
+        "score":0.0,
+        "data":";NP_057707;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_057707",
         "badge":0,
         "sections":null,
         "listValues":null,
