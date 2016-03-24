@@ -6,7 +6,7 @@
         "sha" : "86b647f1245bc31f34f5b0cccab1b4545a3ab1d5"
       },
       "script" : {
-        "name" : "test_samples.r",
+        "name" : "StatMetaTest.R",
         "sha" : "3a7d49ee3a97275484b6fbd2c5d27dcef9ef2313"
       },
       "custom" : [ ]
@@ -17,11 +17,11 @@
         "sha" : "5789a36488faab8c9526ac07864f63afa0685a34"
       },
       "script" : {
-        "name" : "test_molecules.r",
+        "name" : "GeneSetEnrich.R",
         "sha" : "6740fb59438ed53e40b97aaa3c70c7ea4dce6d28"
       },
       "background" : {
-        "name" : "background.csv",
+        "name" : "background_proteins.csv",
         "sha" : "78986d9ec65eb5631d5d86997d4f5654c7de9cb8"
       }
     }
@@ -29,11 +29,11 @@
   "dendrograms" : {
     "col" : {
       "name" : "dendro_col.json",
-      "sha" : "770c71d0614fe43d934ddc11b102bd9b02f1db81"
+      "sha" : "df73660a85897593038183620ea056e21b3b412d"
     },
     "row" : {
       "name" : "dendro_row.json",
-      "sha" : "8957f82fa988cef4035e9f853fcb800ed15dafbf"
+      "sha" : "d8ab9ddecb3e81b30412667655ace670df13c797"
     }
   },
   "recommenders" : null
