@@ -9,7 +9,13 @@
         "name" : "StatMetaTest.R",
         "sha" : "3a7d49ee3a97275484b6fbd2c5d27dcef9ef2313"
       },
-      "custom" : [ ]
+      "custom" : [{
+          "colNames": ["PlatinumStatus","vital_status"],
+          "snippet": {
+              "name":"fisher.r",
+              "sha": "7716f6d6ff7fcb9de14f225e986cea206f00ebae"
+          }
+        } ]
     },
     "row" : {
       "geneset" : {
