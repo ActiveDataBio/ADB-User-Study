@@ -45,6 +45,7 @@ findLeaves <- function(node) {
 }
 
 #' customized parameters
+print(args[6])
 temp <- fromJSON(args[6])
 custom_codes <- NULL
 if (length(temp) > 0) {
