@@ -1,5 +1,5 @@
 {
-  "@id":9711,
+  "@id":9751,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
@@ -26,7 +26,7 @@
         "x":928.5,
         "y":659.0,
         "type":{
-          "@id":9718,
+          "@id":9758,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -46,7 +46,7 @@
         }
       },
       {
-        "@id":9717,
+        "@id":9757,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1460477933476,
         "groupId":-1,
