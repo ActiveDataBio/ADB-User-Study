@@ -1,5 +1,5 @@
 {
-  "@id":11094,
+  "@id":11189,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
@@ -19,7 +19,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":11110,
+        "@id":11205,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1460477933476,
         "groupId":-1,
@@ -27,13 +27,13 @@
         "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "@id":11107,
+          "@id":11202,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
         "data":"pubmed;sam payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"sam payne",
+        "label":"sam payne(copied)",
         "badge":0,
         "sections":null,
         "listValues":null,
@@ -47,17 +47,17 @@
         }
       },
       {
-        "@id":11109,
+        "@id":11204,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1460480004675,
         "groupId":-1,
         "isUserData":true,
-        "x":1049.9691995482533,
+        "x":899.9735996127886,
         "y":519.5999999999999,
-        "type":{"@ref":11107},
+        "type":{"@ref":11202},
         "score":0.0,
         "data":"pubmed;joonyong lee;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"joonyong lee",
+        "label":"joonyong lee(copied)",
         "badge":0,
         "sections":null,
         "listValues":null,
