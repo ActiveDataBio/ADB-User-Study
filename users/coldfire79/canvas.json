@@ -1,9 +1,10 @@
 {
+  "@id":9892,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1460420214358,
-  "lastModifiedDate":1460496560211,
+  "lastModifiedDate":1460497484344,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -18,19 +19,21 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
+        "@id":9907,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1460480004675,
+        "id":1460497484344,
         "groupId":-1,
         "isUserData":true,
-        "x":1049.9691995482533,
-        "y":519.5999999999999,
+        "x":824.9757996450561,
+        "y":649.4999999999999,
         "type":{
+          "@id":9905,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
-        "data":"pubmed;joonyong lee;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"joonyong lee",
+        "data":"pubmed;human and cat;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"human and cat",
         "badge":0,
         "sections":null,
         "listValues":null,
