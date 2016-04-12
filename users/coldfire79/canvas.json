@@ -1,10 +1,9 @@
 {
-  "@id":9448,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1460420214358,
-  "lastModifiedDate":1460496560211,
+  "lastModifiedDate":1460495197256,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -19,21 +18,19 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":9460,
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1460480004675,
+        "id":1460477933476,
         "groupId":-1,
         "isUserData":true,
-        "x":1049.9691995482533,
-        "y":519.5999999999999,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
         "type":{
-          "@id":9447,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
-        "data":"pubmed;joonyong lee;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"joonyong lee",
+        "data":"pubmed;sam payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"sam payne",
         "badge":0,
         "sections":null,
         "listValues":null,
