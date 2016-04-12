@@ -1,9 +1,10 @@
 {
+  "@id":9618,
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1456336575449,
+  "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
-  "creationDate":1456336575448,
-  "lastModifiedDate":1459466107946,
+  "creationDate":1460420214358,
+  "lastModifiedDate":1460477933476,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +16,63 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1460420219231,
+        "groupId":-1,
+        "isUserData":true,
+        "x":928.5,
+        "y":659.0,
+        "type":{
+          "@id":9625,
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa05322;node1662;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa05322",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@id":9624,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1460477933476,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "name":"TEXT",
+          "ordinal":0
+        },
+        "score":0.0,
+        "data":"pubmed;sam payne;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"sam payne",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      }
+    ]
   },
   "userEdges":null,
   "groups":null
