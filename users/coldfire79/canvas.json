@@ -1,5 +1,5 @@
 {
-  "@id":10893,
+  "@id":10920,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
@@ -19,7 +19,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":10909,
+        "@id":10936,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1460477933476,
         "groupId":-1,
@@ -27,7 +27,7 @@
         "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "@id":10906,
+          "@id":10933,
           "name":"TEXT",
           "ordinal":0
         },
@@ -47,14 +47,14 @@
         }
       },
       {
-        "@id":10908,
+        "@id":10935,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1460480004675,
         "groupId":-1,
         "isUserData":true,
-        "x":974.9713995805209,
-        "y":389.69999999999993,
-        "type":{"@ref":10906},
+        "x":899.9735996127886,
+        "y":519.5999999999999,
+        "type":{"@ref":10933},
         "score":0.0,
         "data":"pubmed;joonyong lee;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"joonyong lee",
