@@ -12,21 +12,13 @@
       "custom": [
         {
           "colNames": [
+            "Normal_Control",
             "PlatinumStatus",
-            "additional_chemo_therapy"
+            "TSS"
           ],
           "snippet": {
             "name": "rcode/categorical.r",
             "sha": "d00f0d906523a69b190e5c1811f8bbb900b9b213"
-          }
-        },
-        {
-          "colNames": [
-            "PlatinumStatus"
-          ],
-          "snippet": {
-            "name": "GeneSetEnrich.R",
-            "sha": "cad5086740d2d04a7b8ab8e609bb17ffceedf77d"
           }
         }
       ]
