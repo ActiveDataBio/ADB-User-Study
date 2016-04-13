@@ -11,19 +11,12 @@
       },
       "custom": [
         {
-          "colNames": [],
-          "snippet": {
-            "name": "fisher.r",
-            "sha": "7716f6d6ff7fcb9de14f225e986cea206f00ebae"
-          }
-        },
-        {
           "colNames": [
             "PlatinumStatus"
           ],
           "snippet": {
             "name": "rcode/fisher.r",
-            "sha": "c4972d72a7d713621aa333f27e8256e92a1c3371"
+            "sha": "21745dff9c3bae103aba21ec9ab54884cc725161"
           }
         },
         {
@@ -33,7 +26,7 @@
           ],
           "snippet": {
             "name": "rcode/categorical.r",
-            "sha": "d00f0d906523a69b190e5c1811f8bbb900b9b213"
+            "sha": "23a118d7b4ae3690572ac044079de1dac11ca612"
           }
         }
       ]
