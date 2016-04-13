@@ -1,5 +1,5 @@
 {
-  "@id":10510,
+  "@id":10018,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
@@ -19,7 +19,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":10520,
+        "@id":10026,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1460497484344,
         "groupId":-1,
@@ -27,12 +27,13 @@
         "x":824.9757996450561,
         "y":649.4999999999999,
         "type":{
+          "@id":10017,
           "name":"TEXT",
           "ordinal":0
         },
         "score":0.0,
         "data":"pubmed;human and cat;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"human and cat",
+        "label":"human and cat(copied)",
         "badge":0,
         "sections":null,
         "listValues":null,
