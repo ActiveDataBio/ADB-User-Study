@@ -9,21 +9,7 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": [
-        {
-          "colNames": [
-            "additional_immuno_therapy",
-            "PlatinumFreeInterval",
-            "PlatinumStatus",
-            "ProgorRecur",
-            "TSS"
-          ],
-          "snippet": {
-            "name": "generate_rdata.R",
-            "sha": "7e4fdadebe3fe81ef1e3b252fd949b0297efd7b4"
-          }
-        }
-      ]
+      "custom": []
     },
     "row": {
       "geneset": {
