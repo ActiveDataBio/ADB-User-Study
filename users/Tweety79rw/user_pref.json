@@ -9,20 +9,7 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": [
-        {
-          "colNames": [
-            "Normal_Control",
-            "PlatinumFreeInterval",
-            "PlatinumStatus",
-            "ProgorRecur"
-          ],
-          "snippet": {
-            "name": "rcode/categorical.r",
-            "sha": "23a118d7b4ae3690572ac044079de1dac11ca612"
-          }
-        }
-      ]
+      "custom": []
     },
     "row": {
       "geneset": {
