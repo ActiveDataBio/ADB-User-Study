@@ -46,7 +46,11 @@
       }
     }
   },
-  "dendrograms": {
+  "dataset": {
+    "matrix":{
+      "name": "matrix.csv",
+      "sha": "3e87639ca28c0e3237520e124fabbd81e9fb0267"
+    },
     "col": {
       "name": "dendro_col.json",
       "sha": "770c71d0614fe43d934ddc11b102bd9b02f1db81"
