@@ -12,7 +12,6 @@
       "custom": [
         {
           "colNames": [
-            "additional_drug_therapy",
             "additional_immuno_therapy"
           ],
           "snippet": {
