@@ -9,7 +9,27 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": []
+      "custom": [
+        {
+          "colNames": [
+            "Tumor Type"
+          ],
+          "snippet": {
+            "name": "StatMetaTest.R",
+            "sha": "b33b5701c8fa596ae5c392fe545ad4f55f93cd2e"
+          }
+        },
+        {
+          "colNames": [
+            "PlatinumStatus",
+            "ProgorRecur"
+          ],
+          "snippet": {
+            "name": "rcode/fisher.r",
+            "sha": "21745dff9c3bae103aba21ec9ab54884cc725161"
+          }
+        }
+      ]
     },
     "row": {
       "geneset": {
