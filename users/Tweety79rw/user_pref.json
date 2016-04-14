@@ -12,7 +12,11 @@
       "custom": [
         {
           "colNames": [
-            "additional_immuno_therapy"
+            "additional_immuno_therapy",
+            "PlatinumFreeInterval",
+            "PlatinumStatus",
+            "ProgorRecur",
+            "TSS"
           ],
           "snippet": {
             "name": "generate_rdata.R",
