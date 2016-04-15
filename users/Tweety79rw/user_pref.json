@@ -18,16 +18,6 @@
             "name": "StatMetaTest.R",
             "sha": "b33b5701c8fa596ae5c392fe545ad4f55f93cd2e"
           }
-        },
-        {
-          "colNames": [
-            "PlatinumStatus",
-            "ProgorRecur"
-          ],
-          "snippet": {
-            "name": "rcode/fisher.r",
-            "sha": "21745dff9c3bae103aba21ec9ab54884cc725161"
-          }
         }
       ]
     },
