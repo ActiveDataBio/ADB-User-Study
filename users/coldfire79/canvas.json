@@ -3,7 +3,7 @@
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1460420214358,
-  "lastModifiedDate":1460756539994,
+  "lastModifiedDate":1461010515629,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,63 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1460756477110,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1027.5,
-        "y":659.0,
-        "type":{
-          "@id":5,
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
-        "score":0.0,
-        "data":"5ccfaf40bd8d82c7e9d0f3f6968f022e3810bac8;node166;11;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"node166",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1460756539994,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1499.9559993546475,
-        "y":519.5999999999999,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"5ccfaf40bd8d82c7e9d0f3f6968f022e3810bac8;node1658;495;731;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"protein2",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":null,
   "groups":null
