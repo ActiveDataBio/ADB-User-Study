@@ -34,7 +34,7 @@ findLeaves <- function(node) {
     }
   } else {
     count <<- count + 1
-    refseq[count] <<- node$name
+    refseq[count] <<- unlist(strsplit(node$name, "[.]"))[1]
     #print (node$name)
   }
 }
@@ -50,8 +50,8 @@ if (!is.null(refSeqIds)) {
   NAMER=read.csv(args[5],sep=",",header=TRUE)
   
   temp = sub("(.*)\\.\\d+", "\\1", refSeqIds)
-  if (sum(NAMER$id %in% temp)>0) {
-    SOURCE = data.frame(id=temp)
+  if (sum(NAMER$refseq %in% temp)>0) {
+    SOURCE = data.frame(refseq=temp)
   } else if (sum(NAMER$gene %in% temp)>0) {
     SOURCE = data.frame(gene=temp)
   } else {
