@@ -3,7 +3,7 @@
   "id":1460420214358,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1460420214358,
-  "lastModifiedDate":1461010515629,
+  "lastModifiedDate":1461866981202,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,36 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1461866981202,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":500.0,
+        "type":{
+          "@id":9564,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":"05c7f6b259a4df9181db65bd34b956db9ea00d24;NP_000120;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_000120",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      }
+    ]
   },
   "userEdges":null,
   "groups":null
