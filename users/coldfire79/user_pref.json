@@ -12,7 +12,8 @@
       "custom": [
         {
           "colNames": [
-            "TSS"
+            "TSS",
+            "vital_status"
           ],
           "snippet": {
             "name": "users/coldfire79/fisher.r",
