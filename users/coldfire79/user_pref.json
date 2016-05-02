@@ -1,44 +1,54 @@
 {
-  "tests" : {
-    "col" : {
-      "metadata" : {
-        "name" : "metadata.tsv",
-        "sha" : "86b647f1245bc31f34f5b0cccab1b4545a3ab1d5"
+  "tests": {
+    "col": {
+      "metadata": {
+        "name": "metadata.tsv",
+        "sha": "86b647f1245bc31f34f5b0cccab1b4545a3ab1d5"
       },
-      "script" : {
-        "name" : "test_samples.r",
-        "sha" : "c059706ce980580475df5a599e8d72f805162fa5"
+      "script": {
+        "name": "test_samples.r",
+        "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom" : [ ]
+      "custom": [
+        {
+          "colNames": [
+            "TSS"
+          ],
+          "snippet": {
+            "name": "users/coldfire79/fisher.r",
+            "sha": "7716f6d6ff7fcb9de14f225e986cea206f00ebae"
+          }
+        }
+      ]
     },
-    "row" : {
-      "geneset" : {
-        "name" : "genesets.RData",
-        "sha" : "5789a36488faab8c9526ac07864f63afa0685a34"
+    "row": {
+      "geneset": {
+        "name": "genesets.RData",
+        "sha": "5789a36488faab8c9526ac07864f63afa0685a34"
       },
-      "script" : {
-        "name" : "test_molecules.r",
-        "sha" : "37fda2a77e67109daa4def5a9a8606c1bd7951cb"
+      "script": {
+        "name": "test_molecules.r",
+        "sha": "37fda2a77e67109daa4def5a9a8606c1bd7951cb"
       },
-      "background" : {
-        "name" : "background.csv",
-        "sha" : "4182450d61b4be2512acd4f12ee851765335e48f"
+      "background": {
+        "name": "background.csv",
+        "sha": "4182450d61b4be2512acd4f12ee851765335e48f"
       }
     }
   },
-  "dataset" : {
-    "matrix" : {
-      "name" : "matrix.csv",
-      "sha" : "3e87639ca28c0e3237520e124fabbd81e9fb0267"
+  "dataset": {
+    "matrix": {
+      "name": "matrix.csv",
+      "sha": "3e87639ca28c0e3237520e124fabbd81e9fb0267"
     },
-    "col" : {
-      "name" : "dendro_col.json",
-      "sha" : "df73660a85897593038183620ea056e21b3b412d"
+    "col": {
+      "name": "dendro_col.json",
+      "sha": "df73660a85897593038183620ea056e21b3b412d"
     },
-    "row" : {
-      "name" : "dendro_row.json",
-      "sha" : "89d51aab61df220dcf6c19aef732817d60a159ab"
+    "row": {
+      "name": "dendro_row.json",
+      "sha": "89d51aab61df220dcf6c19aef732817d60a159ab"
     }
   },
-  "recommenders" : null
+  "recommenders": null
 }
