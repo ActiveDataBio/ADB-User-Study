@@ -18,22 +18,26 @@
       },
       "script" : {
         "name" : "test_molecules.r",
-        "sha" : "6740fb59438ed53e40b97aaa3c70c7ea4dce6d28"
+        "sha" : "37fda2a77e67109daa4def5a9a8606c1bd7951cb"
       },
       "background" : {
         "name" : "background.csv",
-        "sha" : "78986d9ec65eb5631d5d86997d4f5654c7de9cb8"
+        "sha" : "4182450d61b4be2512acd4f12ee851765335e48f"
       }
     }
   },
-  "dendrograms" : {
+  "dataset" : {
+    "matrix" : {
+      "name" : "matrix.csv",
+      "sha" : "3e87639ca28c0e3237520e124fabbd81e9fb0267"
+    },
     "col" : {
       "name" : "dendro_col.json",
       "sha" : "df73660a85897593038183620ea056e21b3b412d"
     },
     "row" : {
       "name" : "dendro_row.json",
-      "sha" : "d8ab9ddecb3e81b30412667655ace670df13c797"
+      "sha" : "299db92ee1bed6a8a2edd6800f77cf93f8b44993"
     }
   },
   "recommenders" : null
