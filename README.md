@@ -9,5 +9,6 @@ The Active Data Biology User Study Dataset is a subset of a publicly available o
 <!--adbio-funding-->
 <!--adbio-publication-->
 <!--adbio-organism-->
-Organism hsa:Homo sapiens (human)<!------------------------------------------------------------------------------>
+Organism hsa:Homo sapiens (human)
+<!------------------------------------------------------------------------------>
 <!--you can add any other information here-->
