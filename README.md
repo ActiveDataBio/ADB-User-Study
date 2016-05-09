@@ -9,6 +9,6 @@ The Active Data Biology User Study Dataset is a subset of a publicly available o
 <!--adbio-funding-->
 <!--adbio-publication-->
 <!--adbio-organism-->
-Organism [Visit at Kegg Homo sapiens (human)](http://www.genome.jp/kegg-bin/show_organism?org=hsa)
+Organism [Homo sapiens (human)](http://www.genome.jp/kegg-bin/show organism?org=hsa
 <!------------------------------------------------------------------------------>
 <!--you can add any other information here-->
