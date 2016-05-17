@@ -3,7 +3,7 @@
   "id":1454024262515,
   "name":"ADB-User-Study_samuelpayne",
   "creationDate":1454024262515,
-  "lastModifiedDate":1458767462135,
+  "lastModifiedDate":1463426827968,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":1274.9625994514504,
         "y":389.69999999999993,
         "type":{
-          "@id":9887,
+          "@id":9971,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -50,16 +50,43 @@
         "id":1458767462135,
         "groupId":-1,
         "isUserData":true,
-        "x":961.0,
-        "y":468.5,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
         "type":{
-          "@id":9886,
+          "@id":9970,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
         "score":0.0,
         "data":"null;node166;11;0;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"small group",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1463426827968,
+        "groupId":-1,
+        "isUserData":true,
+        "x":899.9735996127886,
+        "y":519.5999999999999,
+        "type":{
+          "@id":9969,
+          "name":"PATHWAY",
+          "ordinal":20
+        },
+        "score":0.0,
+        "data":";hsa04610;node1654;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"hsa04610",
         "badge":0,
         "sections":null,
         "listValues":null,
