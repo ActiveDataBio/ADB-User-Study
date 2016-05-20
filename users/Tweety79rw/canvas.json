@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1463781002338,
+  "lastModifiedDate":1463782200995,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -25,7 +25,7 @@
         "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "@id":9489,
+          "@id":8459,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,33 +51,10 @@
         "isUserData":true,
         "x":1199.964799483718,
         "y":519.5999999999999,
-        "type":{"@ref":9489},
+        "type":{"@ref":8459},
         "score":0.0,
         "data":"05c7f6b259a4df9181db65bd34b956db9ea00d24;NP_001239133;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_001239133",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1463781002338,
-        "groupId":-1,
-        "isUserData":true,
-        "x":960.0,
-        "y":497.5,
-        "type":{"@ref":9489},
-        "score":0.0,
-        "data":"05c7f6b259a4df9181db65bd34b956db9ea00d24;K03990;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"K03990",
         "badge":0,
         "sections":null,
         "listValues":null,
