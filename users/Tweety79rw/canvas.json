@@ -3,7 +3,7 @@
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1463775741900,
+  "lastModifiedDate":1463775915311,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,35 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1463775887099,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1049.9691995482533,
+        "y":519.5999999999999,
+        "type":{
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":"NC_018919;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
+        "label":"NC_018919",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      }
+    ]
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
