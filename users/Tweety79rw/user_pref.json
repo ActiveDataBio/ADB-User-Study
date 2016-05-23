@@ -1,5 +1,4 @@
 {
-  "testingCommit":{},
   "tests" : {
     "col" : {
       "metadata" : {
@@ -34,11 +33,11 @@
     },
     "col" : {
       "name" : "dendro_col.json",
-      "sha" : "df73660a85897593038183620ea056e21b3b412d"
+      "sha" : "27ec7ddc1ddb61534cadd5b105464f24cebddee0"
     },
     "row" : {
       "name" : "dendro_row.json",
-      "sha" : "89d51aab61df220dcf6c19aef732817d60a159ab"
+      "sha" : "299db92ee1bed6a8a2edd6800f77cf93f8b44993"
     }
   },
   "recommenders" : null
