@@ -14,7 +14,6 @@
           "colNames": [
             "Normal_Control",
             "PlatinumStatus",
-            "Tumor Type",
             "additional_immuno_therapy"
           ],
           "snippet": {
