@@ -12,7 +12,6 @@
       "custom": [
         {
           "colNames": [
-            "TSS",
             "vital_status"
           ],
           "snippet": {
