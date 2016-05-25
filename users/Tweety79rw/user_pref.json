@@ -9,19 +9,7 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": [
-        {
-          "colNames": [
-            "Normal_Control",
-            "PlatinumStatus",
-            "additional_immuno_therapy"
-          ],
-          "snippet": {
-            "name": "fisher.r",
-            "sha": "21745dff9c3bae103aba21ec9ab54884cc725161"
-          }
-        }
-      ]
+      "custom": []
     },
     "row": {
       "geneset": {
