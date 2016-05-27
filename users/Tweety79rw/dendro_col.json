@@ -9,163 +9,291 @@
           "children": [
             {
               "name": "PID_00132",
-              "displayName": "PID_00132"
+              "displayName": "PID_00132",
+              "depth": 3,
+              "x": 9.608938547486034,
+              "y": 90,
+              "dx": 9.608938547486034,
+              "dy": 100
             },
             {
               "name": "PID_00118",
-              "displayName": "PID_00118"
+              "displayName": "PID_00118",
+              "depth": 3,
+              "x": 19.217877094972067,
+              "y": 90
             },
             {
               "name": "PID_00043",
-              "displayName": "PID_00043"
+              "displayName": "PID_00043",
+              "depth": 3,
+              "x": 28.8268156424581,
+              "y": 90
             },
             {
               "name": "PID_00008",
-              "displayName": "PID_00008"
+              "displayName": "PID_00008",
+              "depth": 3,
+              "x": 38.435754189944134,
+              "y": 90
             },
             {
               "name": "PID_00163",
-              "displayName": "PID_00163"
+              "displayName": "PID_00163",
+              "depth": 3,
+              "x": 48.04469273743017,
+              "y": 90
             },
             {
               "name": "PID_00124",
-              "displayName": "PID_00124"
+              "displayName": "PID_00124",
+              "depth": 3,
+              "x": 57.6536312849162,
+              "y": 90
             },
             {
               "name": "PID_00131",
-              "displayName": "PID_00131"
+              "displayName": "PID_00131",
+              "depth": 3,
+              "x": 67.26256983240224,
+              "y": 90
             },
             {
               "name": "PID_00071",
-              "displayName": "PID_00071"
+              "displayName": "PID_00071",
+              "depth": 3,
+              "x": 76.87150837988827,
+              "y": 90
             },
             {
               "name": "PID_00048",
-              "displayName": "PID_00048"
+              "displayName": "PID_00048",
+              "depth": 3,
+              "x": 86.4804469273743,
+              "y": 90
             },
             {
               "name": "PID_00002",
-              "displayName": "PID_00002"
+              "displayName": "PID_00002",
+              "depth": 3,
+              "x": 96.08938547486034,
+              "y": 90
             },
             {
               "name": "PID_00078",
-              "displayName": "PID_00078"
+              "displayName": "PID_00078",
+              "depth": 3,
+              "x": 105.69832402234637,
+              "y": 90
             },
             {
               "name": "PID_00014",
-              "displayName": "PID_00014"
+              "displayName": "PID_00014",
+              "depth": 3,
+              "x": 115.3072625698324,
+              "y": 90
             },
             {
               "name": "PID_00037",
-              "displayName": "PID_00037"
+              "displayName": "PID_00037",
+              "depth": 3,
+              "x": 124.91620111731845,
+              "y": 90
             },
             {
               "name": "PID_00019",
-              "displayName": "PID_00019"
+              "displayName": "PID_00019",
+              "depth": 3,
+              "x": 134.52513966480447,
+              "y": 90
             },
             {
               "name": "PID_00022",
-              "displayName": "PID_00022"
+              "displayName": "PID_00022",
+              "depth": 3,
+              "x": 144.1340782122905,
+              "y": 90
             },
             {
               "name": "PID_00018",
-              "displayName": "PID_00018"
+              "displayName": "PID_00018",
+              "depth": 3,
+              "x": 153.74301675977654,
+              "y": 90
             },
             {
               "name": "PID_00100",
-              "displayName": "PID_00100"
+              "displayName": "PID_00100",
+              "depth": 3,
+              "x": 163.35195530726256,
+              "y": 90
             },
             {
               "name": "PID_00029",
-              "displayName": "PID_00029"
+              "displayName": "PID_00029",
+              "depth": 3,
+              "x": 172.9608938547486,
+              "y": 90
             },
             {
               "name": "PID_00121",
-              "displayName": "PID_00121"
+              "displayName": "PID_00121",
+              "depth": 3,
+              "x": 182.56983240223462,
+              "y": 90
             },
             {
               "name": "PID_00041",
-              "displayName": "PID_00041"
+              "displayName": "PID_00041",
+              "depth": 3,
+              "x": 192.17877094972067,
+              "y": 90
             },
             {
               "name": "PID_00133",
-              "displayName": "PID_00133"
+              "displayName": "PID_00133",
+              "depth": 3,
+              "x": 201.78770949720672,
+              "y": 90
             },
             {
               "name": "PID_00123",
-              "displayName": "PID_00123"
+              "displayName": "PID_00123",
+              "depth": 3,
+              "x": 211.39664804469274,
+              "y": 90
             },
             {
               "name": "PID_00174",
-              "displayName": "PID_00174"
+              "displayName": "PID_00174",
+              "depth": 3,
+              "x": 221.0055865921788,
+              "y": 90
             },
             {
               "name": "PID_00068",
-              "displayName": "PID_00068"
+              "displayName": "PID_00068",
+              "depth": 3,
+              "x": 230.6145251396648,
+              "y": 90
             },
             {
               "name": "PID_00103",
-              "displayName": "PID_00103"
+              "displayName": "PID_00103",
+              "depth": 3,
+              "x": 240.22346368715083,
+              "y": 90
             },
             {
               "name": "PID_00152",
-              "displayName": "PID_00152"
+              "displayName": "PID_00152",
+              "depth": 3,
+              "x": 249.8324022346369,
+              "y": 90
             }
           ],
-          "displayName": "node165"
+          "displayName": "node165",
+          "depth": 2,
+          "x": 129.72067039106145,
+          "y": 67.5,
+          "dx": 129.72067039106145,
+          "dy": 77.5
         },
         {
           "name": "node166",
           "children": [
             {
               "name": "PID_00115",
-              "displayName": "PID_00115"
+              "displayName": "PID_00115",
+              "depth": 3,
+              "x": 269.05027932960894,
+              "y": 90
             },
             {
               "name": "PID_00148",
-              "displayName": "PID_00148"
+              "displayName": "PID_00148",
+              "depth": 3,
+              "x": 278.659217877095,
+              "y": 90
             },
             {
               "name": "PID_00106",
-              "displayName": "PID_00106"
+              "displayName": "PID_00106",
+              "depth": 3,
+              "x": 288.268156424581,
+              "y": 90
             },
             {
               "name": "PID_00045",
-              "displayName": "PID_00045"
+              "displayName": "PID_00045",
+              "depth": 3,
+              "x": 297.8770949720671,
+              "y": 90
             },
             {
               "name": "PID_00151",
-              "displayName": "PID_00151"
+              "displayName": "PID_00151",
+              "depth": 3,
+              "x": 307.4860335195531,
+              "y": 90
             },
             {
               "name": "PID_00090",
-              "displayName": "PID_00090"
+              "displayName": "PID_00090",
+              "depth": 3,
+              "x": 317.0949720670391,
+              "y": 90
             },
             {
               "name": "PID_00110",
-              "displayName": "PID_00110"
+              "displayName": "PID_00110",
+              "depth": 3,
+              "x": 326.7039106145251,
+              "y": 90
             },
             {
               "name": "PID_00156",
-              "displayName": "PID_00156"
+              "displayName": "PID_00156",
+              "depth": 3,
+              "x": 336.31284916201116,
+              "y": 90
             },
             {
               "name": "PID_00171",
-              "displayName": "PID_00171"
+              "displayName": "PID_00171",
+              "depth": 3,
+              "x": 345.9217877094972,
+              "y": 90
             },
             {
               "name": "PID_00057",
-              "displayName": "PID_00057"
+              "displayName": "PID_00057",
+              "depth": 3,
+              "x": 355.53072625698326,
+              "y": 90
             },
             {
               "name": "PID_00114",
-              "displayName": "PID_00114"
+              "displayName": "PID_00114",
+              "depth": 3,
+              "x": 365.13966480446925,
+              "y": 90
             }
           ],
-          "displayName": "small grou"
+          "displayName": "small group",
+          "depth": 2,
+          "x": 317.0949720670391,
+          "y": 67.5,
+          "dx": 317.0949720670391,
+          "dy": 77.5
         }
       ],
-      "displayName": "node170"
+      "displayName": "node170",
+      "depth": 1,
+      "x": 223.40782122905026,
+      "y": 45,
+      "dx": 223.40782122905026,
+      "dy": 55
     },
     {
       "name": "node172",
@@ -175,222 +303,389 @@
           "children": [
             {
               "name": "PID_00119",
-              "displayName": "PID_00119"
+              "displayName": "PID_00119",
+              "depth": 3,
+              "x": 384.35754189944134,
+              "y": 90
             },
             {
               "name": "PID_00157",
-              "displayName": "PID_00157"
+              "displayName": "PID_00157",
+              "depth": 3,
+              "x": 393.9664804469274,
+              "y": 90
             },
             {
               "name": "PID_00147",
-              "displayName": "PID_00147"
+              "displayName": "PID_00147",
+              "depth": 3,
+              "x": 403.57541899441344,
+              "y": 90
             },
             {
               "name": "PID_00067",
-              "displayName": "PID_00067"
+              "displayName": "PID_00067",
+              "depth": 3,
+              "x": 413.18435754189943,
+              "y": 90
             },
             {
               "name": "PID_00092",
-              "displayName": "PID_00092"
+              "displayName": "PID_00092",
+              "depth": 3,
+              "x": 422.7932960893855,
+              "y": 90
             },
             {
               "name": "PID_00010",
-              "displayName": "PID_00010"
+              "displayName": "PID_00010",
+              "depth": 3,
+              "x": 432.4022346368715,
+              "y": 90
             },
             {
               "name": "PID_00011",
-              "displayName": "PID_00011"
+              "displayName": "PID_00011",
+              "depth": 3,
+              "x": 442.0111731843576,
+              "y": 90
             },
             {
               "name": "PID_00084",
-              "displayName": "PID_00084"
+              "displayName": "PID_00084",
+              "depth": 3,
+              "x": 451.62011173184356,
+              "y": 90
             },
             {
               "name": "PID_00101",
-              "displayName": "PID_00101"
+              "displayName": "PID_00101",
+              "depth": 3,
+              "x": 461.2290502793296,
+              "y": 90
             },
             {
               "name": "PID_00009",
-              "displayName": "PID_00009"
+              "displayName": "PID_00009",
+              "depth": 3,
+              "x": 470.8379888268156,
+              "y": 90
             },
             {
               "name": "PID_00060",
-              "displayName": "PID_00060"
+              "displayName": "PID_00060",
+              "depth": 3,
+              "x": 480.44692737430165,
+              "y": 90
             },
             {
               "name": "PID_00094",
-              "displayName": "PID_00094"
+              "displayName": "PID_00094",
+              "depth": 3,
+              "x": 490.05586592178764,
+              "y": 90
             },
             {
               "name": "PID_00061",
-              "displayName": "PID_00061"
+              "displayName": "PID_00061",
+              "depth": 3,
+              "x": 499.6648044692738,
+              "y": 90
             },
             {
               "name": "PID_00116",
-              "displayName": "PID_00116"
+              "displayName": "PID_00116",
+              "depth": 3,
+              "x": 509.2737430167598,
+              "y": 90
             },
             {
               "name": "PID_00038",
-              "displayName": "PID_00038"
+              "displayName": "PID_00038",
+              "depth": 3,
+              "x": 518.8826815642458,
+              "y": 90
             },
             {
               "name": "PID_00023",
-              "displayName": "PID_00023"
+              "displayName": "PID_00023",
+              "depth": 3,
+              "x": 528.4916201117319,
+              "y": 90
             },
             {
               "name": "PID_00140",
-              "displayName": "PID_00140"
+              "displayName": "PID_00140",
+              "depth": 3,
+              "x": 538.1005586592179,
+              "y": 90
             },
             {
               "name": "PID_00053",
-              "displayName": "PID_00053"
+              "displayName": "PID_00053",
+              "depth": 3,
+              "x": 547.7094972067039,
+              "y": 90
             },
             {
               "name": "PID_00088",
-              "displayName": "PID_00088"
+              "displayName": "PID_00088",
+              "depth": 3,
+              "x": 557.31843575419,
+              "y": 90
             },
             {
               "name": "PID_00081",
-              "displayName": "PID_00081"
+              "displayName": "PID_00081",
+              "depth": 3,
+              "x": 566.927374301676,
+              "y": 90
             },
             {
               "name": "PID_00017",
-              "displayName": "PID_00017"
+              "displayName": "PID_00017",
+              "depth": 3,
+              "x": 576.536312849162,
+              "y": 90
             },
             {
               "name": "PID_00164",
-              "displayName": "PID_00164"
+              "displayName": "PID_00164",
+              "depth": 3,
+              "x": 586.145251396648,
+              "y": 90
             },
             {
               "name": "PID_00079",
-              "displayName": "PID_00079"
+              "displayName": "PID_00079",
+              "depth": 3,
+              "x": 595.7541899441342,
+              "y": 90
             },
             {
               "name": "PID_00055",
-              "displayName": "PID_00055"
+              "displayName": "PID_00055",
+              "depth": 3,
+              "x": 605.3631284916202,
+              "y": 90
             },
             {
               "name": "PID_00167",
-              "displayName": "PID_00167"
+              "displayName": "PID_00167",
+              "depth": 3,
+              "x": 614.9720670391062,
+              "y": 90
             },
             {
               "name": "PID_00020",
-              "displayName": "PID_00020"
+              "displayName": "PID_00020",
+              "depth": 3,
+              "x": 624.5810055865921,
+              "y": 90
             },
             {
               "name": "PID_00006",
-              "displayName": "PID_00006"
+              "displayName": "PID_00006",
+              "depth": 3,
+              "x": 634.1899441340782,
+              "y": 90
             },
             {
               "name": "PID_00096",
-              "displayName": "PID_00096"
+              "displayName": "PID_00096",
+              "depth": 3,
+              "x": 643.7988826815642,
+              "y": 90
             },
             {
               "name": "PID_00075",
-              "displayName": "PID_00075"
+              "displayName": "PID_00075",
+              "depth": 3,
+              "x": 653.4078212290502,
+              "y": 90
             },
             {
               "name": "PID_00150",
-              "displayName": "PID_00150"
+              "displayName": "PID_00150",
+              "depth": 3,
+              "x": 663.0167597765363,
+              "y": 90
             },
             {
               "name": "PID_00080",
-              "displayName": "PID_00080"
+              "displayName": "PID_00080",
+              "depth": 3,
+              "x": 672.6256983240223,
+              "y": 90
             },
             {
               "name": "PID_00025",
-              "displayName": "PID_00025"
+              "displayName": "PID_00025",
+              "depth": 3,
+              "x": 682.2346368715084,
+              "y": 90
             },
             {
               "name": "PID_00137",
-              "displayName": "PID_00137"
+              "displayName": "PID_00137",
+              "depth": 3,
+              "x": 691.8435754189944,
+              "y": 90
             },
             {
               "name": "PID_00004",
-              "displayName": "PID_00004"
+              "displayName": "PID_00004",
+              "depth": 3,
+              "x": 701.4525139664805,
+              "y": 90
             },
             {
               "name": "PID_00040",
-              "displayName": "PID_00040"
+              "displayName": "PID_00040",
+              "depth": 3,
+              "x": 711.0614525139665,
+              "y": 90
             },
             {
               "name": "PID_00013",
-              "displayName": "PID_00013"
+              "displayName": "PID_00013",
+              "depth": 3,
+              "x": 720.6703910614525,
+              "y": 90
             },
             {
               "name": "PID_00086",
-              "displayName": "PID_00086"
+              "displayName": "PID_00086",
+              "depth": 3,
+              "x": 730.2793296089385,
+              "y": 90
             },
             {
               "name": "PID_00145",
-              "displayName": "PID_00145"
+              "displayName": "PID_00145",
+              "depth": 3,
+              "x": 739.8882681564246,
+              "y": 90
             },
             {
               "name": "PID_00165",
-              "displayName": "PID_00165"
+              "displayName": "PID_00165",
+              "depth": 3,
+              "x": 749.4972067039106,
+              "y": 90
             },
             {
               "name": "PID_00007",
-              "displayName": "PID_00007"
+              "displayName": "PID_00007",
+              "depth": 3,
+              "x": 759.1061452513966,
+              "y": 90
             },
             {
               "name": "PID_00107",
-              "displayName": "PID_00107"
+              "displayName": "PID_00107",
+              "depth": 3,
+              "x": 768.7150837988827,
+              "y": 90
             },
             {
               "name": "PID_00034",
-              "displayName": "PID_00034"
+              "displayName": "PID_00034",
+              "depth": 3,
+              "x": 778.3240223463688,
+              "y": 90
             },
             {
               "name": "PID_00001",
-              "displayName": "PID_00001"
+              "displayName": "PID_00001",
+              "depth": 3,
+              "x": 787.9329608938548,
+              "y": 90
             },
             {
               "name": "PID_00098",
-              "displayName": "PID_00098"
+              "displayName": "PID_00098",
+              "depth": 3,
+              "x": 797.5418994413408,
+              "y": 90
             },
             {
               "name": "PID_00072",
-              "displayName": "PID_00072"
+              "displayName": "PID_00072",
+              "depth": 3,
+              "x": 807.1508379888269,
+              "y": 90
             },
             {
               "name": "PID_00135",
-              "displayName": "PID_00135"
+              "displayName": "PID_00135",
+              "depth": 3,
+              "x": 816.7597765363129,
+              "y": 90
             },
             {
               "name": "PID_00083",
-              "displayName": "PID_00083"
+              "displayName": "PID_00083",
+              "depth": 3,
+              "x": 826.3687150837989,
+              "y": 90
             },
             {
               "name": "PID_00166",
-              "displayName": "PID_00166"
+              "displayName": "PID_00166",
+              "depth": 3,
+              "x": 835.9776536312849,
+              "y": 90
             },
             {
               "name": "PID_00047",
-              "displayName": "PID_00047"
+              "displayName": "PID_00047",
+              "depth": 3,
+              "x": 845.586592178771,
+              "y": 90
             },
             {
               "name": "PID_00154",
-              "displayName": "PID_00154"
+              "displayName": "PID_00154",
+              "depth": 3,
+              "x": 855.195530726257,
+              "y": 90
             },
             {
               "name": "PID_00109",
-              "displayName": "PID_00109"
+              "displayName": "PID_00109",
+              "depth": 3,
+              "x": 864.804469273743,
+              "y": 90
             },
             {
               "name": "PID_00046",
-              "displayName": "PID_00046"
+              "displayName": "PID_00046",
+              "depth": 3,
+              "x": 874.413407821229,
+              "y": 90
             },
             {
               "name": "PID_00039",
-              "displayName": "PID_00039"
+              "displayName": "PID_00039",
+              "depth": 3,
+              "x": 884.0223463687151,
+              "y": 90
             },
             {
               "name": "PID_00049",
-              "displayName": "PID_00049"
+              "displayName": "PID_00049",
+              "depth": 3,
+              "x": 893.631284916201,
+              "y": 90
             }
           ],
-          "displayName": "node168"
+          "displayName": "node168",
+          "depth": 2,
+          "x": 638.9944134078213,
+          "y": 67.5,
+          "dx": 638.9944134078213,
+          "dy": 77.5
         },
         {
           "name": "node171",
@@ -400,351 +695,625 @@
               "children": [
                 {
                   "name": "PID_00003",
-                  "displayName": "PID_00003"
+                  "displayName": "PID_00003",
+                  "depth": 4,
+                  "x": 912.8491620111732,
+                  "y": 90
                 },
                 {
                   "name": "PID_00160",
-                  "displayName": "PID_00160"
+                  "displayName": "PID_00160",
+                  "depth": 4,
+                  "x": 922.4581005586592,
+                  "y": 90
                 },
                 {
                   "name": "PID_00155",
-                  "displayName": "PID_00155"
+                  "displayName": "PID_00155",
+                  "depth": 4,
+                  "x": 932.0670391061453,
+                  "y": 90
                 },
                 {
                   "name": "PID_00082",
-                  "displayName": "PID_00082"
+                  "displayName": "PID_00082",
+                  "depth": 4,
+                  "x": 941.6759776536312,
+                  "y": 90
                 },
                 {
                   "name": "PID_00064",
-                  "displayName": "PID_00064"
+                  "displayName": "PID_00064",
+                  "depth": 4,
+                  "x": 951.2849162011173,
+                  "y": 90
                 },
                 {
                   "name": "PID_00054",
-                  "displayName": "PID_00054"
+                  "displayName": "PID_00054",
+                  "depth": 4,
+                  "x": 960.8938547486033,
+                  "y": 90
                 },
                 {
                   "name": "PID_00024",
-                  "displayName": "PID_00024"
+                  "displayName": "PID_00024",
+                  "depth": 4,
+                  "x": 970.5027932960894,
+                  "y": 90
                 },
                 {
                   "name": "PID_00030",
-                  "displayName": "PID_00030"
+                  "displayName": "PID_00030",
+                  "depth": 4,
+                  "x": 980.1117318435753,
+                  "y": 90
                 },
                 {
                   "name": "PID_00143",
-                  "displayName": "PID_00143"
+                  "displayName": "PID_00143",
+                  "depth": 4,
+                  "x": 989.7206703910615,
+                  "y": 90
                 },
                 {
                   "name": "PID_00158",
-                  "displayName": "PID_00158"
+                  "displayName": "PID_00158",
+                  "depth": 4,
+                  "x": 999.3296089385476,
+                  "y": 90
                 },
                 {
                   "name": "PID_00161",
-                  "displayName": "PID_00161"
+                  "displayName": "PID_00161",
+                  "depth": 4,
+                  "x": 1008.9385474860335,
+                  "y": 90
                 },
                 {
                   "name": "PID_00005",
-                  "displayName": "PID_00005"
+                  "displayName": "PID_00005",
+                  "depth": 4,
+                  "x": 1018.5474860335196,
+                  "y": 90
                 },
                 {
                   "name": "PID_00074",
-                  "displayName": "PID_00074"
+                  "displayName": "PID_00074",
+                  "depth": 4,
+                  "x": 1028.1564245810055,
+                  "y": 90
                 },
                 {
                   "name": "PID_00112",
-                  "displayName": "PID_00112"
+                  "displayName": "PID_00112",
+                  "depth": 4,
+                  "x": 1037.7653631284916,
+                  "y": 90
                 },
                 {
                   "name": "PID_00016",
-                  "displayName": "PID_00016"
+                  "displayName": "PID_00016",
+                  "depth": 4,
+                  "x": 1047.3743016759777,
+                  "y": 90
                 },
                 {
                   "name": "PID_00063",
-                  "displayName": "PID_00063"
+                  "displayName": "PID_00063",
+                  "depth": 4,
+                  "x": 1056.9832402234638,
+                  "y": 90
                 },
                 {
                   "name": "PID_00138",
-                  "displayName": "PID_00138"
+                  "displayName": "PID_00138",
+                  "depth": 4,
+                  "x": 1066.5921787709497,
+                  "y": 90
                 },
                 {
                   "name": "PID_00070",
-                  "displayName": "PID_00070"
+                  "displayName": "PID_00070",
+                  "depth": 4,
+                  "x": 1076.2011173184358,
+                  "y": 90
                 },
                 {
                   "name": "PID_00031",
-                  "displayName": "PID_00031"
+                  "displayName": "PID_00031",
+                  "depth": 4,
+                  "x": 1085.8100558659216,
+                  "y": 90
                 },
                 {
                   "name": "PID_00134",
-                  "displayName": "PID_00134"
+                  "displayName": "PID_00134",
+                  "depth": 4,
+                  "x": 1095.4189944134077,
+                  "y": 90
                 },
                 {
                   "name": "PID_00056",
-                  "displayName": "PID_00056"
+                  "displayName": "PID_00056",
+                  "depth": 4,
+                  "x": 1105.0279329608938,
+                  "y": 90
                 },
                 {
                   "name": "PID_00093",
-                  "displayName": "PID_00093"
+                  "displayName": "PID_00093",
+                  "depth": 4,
+                  "x": 1114.63687150838,
+                  "y": 90
                 },
                 {
                   "name": "PID_00102",
-                  "displayName": "PID_00102"
+                  "displayName": "PID_00102",
+                  "depth": 4,
+                  "x": 1124.245810055866,
+                  "y": 90
                 },
                 {
                   "name": "PID_00089",
-                  "displayName": "PID_00089"
+                  "displayName": "PID_00089",
+                  "depth": 4,
+                  "x": 1133.854748603352,
+                  "y": 90
                 },
                 {
                   "name": "PID_00052",
-                  "displayName": "PID_00052"
+                  "displayName": "PID_00052",
+                  "depth": 4,
+                  "x": 1143.463687150838,
+                  "y": 90
                 },
                 {
                   "name": "PID_00036",
-                  "displayName": "PID_00036"
+                  "displayName": "PID_00036",
+                  "depth": 4,
+                  "x": 1153.072625698324,
+                  "y": 90
                 },
                 {
                   "name": "PID_00141",
-                  "displayName": "PID_00141"
+                  "displayName": "PID_00141",
+                  "depth": 4,
+                  "x": 1162.68156424581,
+                  "y": 90
                 },
                 {
                   "name": "PID_00035",
-                  "displayName": "PID_00035"
+                  "displayName": "PID_00035",
+                  "depth": 4,
+                  "x": 1172.290502793296,
+                  "y": 90
                 },
                 {
                   "name": "PID_00077",
-                  "displayName": "PID_00077"
+                  "displayName": "PID_00077",
+                  "depth": 4,
+                  "x": 1181.899441340782,
+                  "y": 90
                 }
               ],
-              "displayName": "node163"
+              "displayName": "node163",
+              "depth": 3,
+              "x": 1047.3743016759777,
+              "y": 67.5,
+              "dx": 1047.3743016759777,
+              "dy": 77.5
             },
             {
               "name": "node169",
               "children": [
                 {
                   "name": "PID_00170",
-                  "displayName": "PID_00170"
+                  "displayName": "PID_00170",
+                  "depth": 4,
+                  "x": 1201.1173184357542,
+                  "y": 90
                 },
                 {
                   "name": "PID_00142",
-                  "displayName": "PID_00142"
+                  "displayName": "PID_00142",
+                  "depth": 4,
+                  "x": 1210.7262569832403,
+                  "y": 90
                 },
                 {
                   "name": "PID_00073",
-                  "displayName": "PID_00073"
+                  "displayName": "PID_00073",
+                  "depth": 4,
+                  "x": 1220.3351955307262,
+                  "y": 90
                 },
                 {
                   "name": "PID_00125",
-                  "displayName": "PID_00125"
+                  "displayName": "PID_00125",
+                  "depth": 4,
+                  "x": 1229.9441340782123,
+                  "y": 90
                 },
                 {
                   "name": "PID_00139",
-                  "displayName": "PID_00139"
+                  "displayName": "PID_00139",
+                  "depth": 4,
+                  "x": 1239.5530726256982,
+                  "y": 90
                 },
                 {
                   "name": "PID_00042",
-                  "displayName": "PID_00042"
+                  "displayName": "PID_00042",
+                  "depth": 4,
+                  "x": 1249.1620111731843,
+                  "y": 90
                 },
                 {
                   "name": "PID_00085",
-                  "displayName": "PID_00085"
+                  "displayName": "PID_00085",
+                  "depth": 4,
+                  "x": 1258.7709497206704,
+                  "y": 90
                 },
                 {
                   "name": "PID_00136",
-                  "displayName": "PID_00136"
+                  "displayName": "PID_00136",
+                  "depth": 4,
+                  "x": 1268.3798882681565,
+                  "y": 90
                 },
                 {
                   "name": "PID_00027",
-                  "displayName": "PID_00027"
+                  "displayName": "PID_00027",
+                  "depth": 4,
+                  "x": 1277.9888268156426,
+                  "y": 90
                 },
                 {
                   "name": "PID_00097",
-                  "displayName": "PID_00097"
+                  "displayName": "PID_00097",
+                  "depth": 4,
+                  "x": 1287.5977653631285,
+                  "y": 90
                 },
                 {
                   "name": "PID_00058",
-                  "displayName": "PID_00058"
+                  "displayName": "PID_00058",
+                  "depth": 4,
+                  "x": 1297.2067039106146,
+                  "y": 90
                 },
                 {
                   "name": "PID_00169",
-                  "displayName": "PID_00169"
+                  "displayName": "PID_00169",
+                  "depth": 4,
+                  "x": 1306.8156424581005,
+                  "y": 90
                 },
                 {
                   "name": "PID_00076",
-                  "displayName": "PID_00076"
+                  "displayName": "PID_00076",
+                  "depth": 4,
+                  "x": 1316.4245810055866,
+                  "y": 90
                 },
                 {
                   "name": "PID_00130",
-                  "displayName": "PID_00130"
+                  "displayName": "PID_00130",
+                  "depth": 4,
+                  "x": 1326.0335195530727,
+                  "y": 90
                 },
                 {
                   "name": "PID_00126",
-                  "displayName": "PID_00126"
+                  "displayName": "PID_00126",
+                  "depth": 4,
+                  "x": 1335.6424581005588,
+                  "y": 90
                 },
                 {
                   "name": "PID_00153",
-                  "displayName": "PID_00153"
+                  "displayName": "PID_00153",
+                  "depth": 4,
+                  "x": 1345.2513966480446,
+                  "y": 90
                 },
                 {
                   "name": "PID_00087",
-                  "displayName": "PID_00087"
+                  "displayName": "PID_00087",
+                  "depth": 4,
+                  "x": 1354.8603351955308,
+                  "y": 90
                 },
                 {
                   "name": "PID_00066",
-                  "displayName": "PID_00066"
+                  "displayName": "PID_00066",
+                  "depth": 4,
+                  "x": 1364.4692737430169,
+                  "y": 90
                 },
                 {
                   "name": "PID_00015",
-                  "displayName": "PID_00015"
+                  "displayName": "PID_00015",
+                  "depth": 4,
+                  "x": 1374.0782122905027,
+                  "y": 90
                 },
                 {
                   "name": "PID_00129",
-                  "displayName": "PID_00129"
+                  "displayName": "PID_00129",
+                  "depth": 4,
+                  "x": 1383.6871508379888,
+                  "y": 90
                 },
                 {
                   "name": "PID_00095",
-                  "displayName": "PID_00095"
+                  "displayName": "PID_00095",
+                  "depth": 4,
+                  "x": 1393.2960893854747,
+                  "y": 90
                 },
                 {
                   "name": "PID_00168",
-                  "displayName": "PID_00168"
+                  "displayName": "PID_00168",
+                  "depth": 4,
+                  "x": 1402.905027932961,
+                  "y": 90
                 },
                 {
                   "name": "PID_00021",
-                  "displayName": "PID_00021"
+                  "displayName": "PID_00021",
+                  "depth": 4,
+                  "x": 1412.513966480447,
+                  "y": 90
                 },
                 {
                   "name": "PID_00146",
-                  "displayName": "PID_00146"
+                  "displayName": "PID_00146",
+                  "depth": 4,
+                  "x": 1422.122905027933,
+                  "y": 90
                 },
                 {
                   "name": "PID_00033",
-                  "displayName": "PID_00033"
+                  "displayName": "PID_00033",
+                  "depth": 4,
+                  "x": 1431.731843575419,
+                  "y": 90
                 },
                 {
                   "name": "PID_00026",
-                  "displayName": "PID_00026"
+                  "displayName": "PID_00026",
+                  "depth": 4,
+                  "x": 1441.340782122905,
+                  "y": 90
                 },
                 {
                   "name": "PID_00099",
-                  "displayName": "PID_00099"
+                  "displayName": "PID_00099",
+                  "depth": 4,
+                  "x": 1450.9497206703911,
+                  "y": 90
                 },
                 {
                   "name": "PID_00062",
-                  "displayName": "PID_00062"
+                  "displayName": "PID_00062",
+                  "depth": 4,
+                  "x": 1460.558659217877,
+                  "y": 90
                 },
                 {
                   "name": "PID_00117",
-                  "displayName": "PID_00117"
+                  "displayName": "PID_00117",
+                  "depth": 4,
+                  "x": 1470.167597765363,
+                  "y": 90
                 },
                 {
                   "name": "PID_00172",
-                  "displayName": "PID_00172"
+                  "displayName": "PID_00172",
+                  "depth": 4,
+                  "x": 1479.7765363128492,
+                  "y": 90
                 },
                 {
                   "name": "PID_00044",
-                  "displayName": "PID_00044"
+                  "displayName": "PID_00044",
+                  "depth": 4,
+                  "x": 1489.3854748603353,
+                  "y": 90
                 },
                 {
                   "name": "PID_00122",
-                  "displayName": "PID_00122"
+                  "displayName": "PID_00122",
+                  "depth": 4,
+                  "x": 1498.9944134078212,
+                  "y": 90
                 },
                 {
                   "name": "PID_00032",
-                  "displayName": "PID_00032"
+                  "displayName": "PID_00032",
+                  "depth": 4,
+                  "x": 1508.6033519553073,
+                  "y": 90
                 },
                 {
                   "name": "PID_00108",
-                  "displayName": "PID_00108"
+                  "displayName": "PID_00108",
+                  "depth": 4,
+                  "x": 1518.2122905027932,
+                  "y": 90
                 },
                 {
                   "name": "PID_00144",
-                  "displayName": "PID_00144"
+                  "displayName": "PID_00144",
+                  "depth": 4,
+                  "x": 1527.8212290502793,
+                  "y": 90
                 },
                 {
                   "name": "PID_00159",
-                  "displayName": "PID_00159"
+                  "displayName": "PID_00159",
+                  "depth": 4,
+                  "x": 1537.4301675977654,
+                  "y": 90
                 },
                 {
                   "name": "PID_00051",
-                  "displayName": "PID_00051"
+                  "displayName": "PID_00051",
+                  "depth": 4,
+                  "x": 1547.0391061452515,
+                  "y": 90
                 },
                 {
                   "name": "PID_00127",
-                  "displayName": "PID_00127"
+                  "displayName": "PID_00127",
+                  "depth": 4,
+                  "x": 1556.6480446927376,
+                  "y": 90
                 },
                 {
                   "name": "PID_00111",
-                  "displayName": "PID_00111"
+                  "displayName": "PID_00111",
+                  "depth": 4,
+                  "x": 1566.2569832402235,
+                  "y": 90
                 },
                 {
                   "name": "PID_00149",
-                  "displayName": "PID_00149"
+                  "displayName": "PID_00149",
+                  "depth": 4,
+                  "x": 1575.8659217877096,
+                  "y": 90
                 },
                 {
                   "name": "PID_00069",
-                  "displayName": "PID_00069"
+                  "displayName": "PID_00069",
+                  "depth": 4,
+                  "x": 1585.4748603351954,
+                  "y": 90
                 },
                 {
                   "name": "PID_00105",
-                  "displayName": "PID_00105"
+                  "displayName": "PID_00105",
+                  "depth": 4,
+                  "x": 1595.0837988826815,
+                  "y": 90
                 },
                 {
                   "name": "PID_00173",
-                  "displayName": "PID_00173"
+                  "displayName": "PID_00173",
+                  "depth": 4,
+                  "x": 1604.6927374301674,
+                  "y": 90
                 },
                 {
                   "name": "PID_00104",
-                  "displayName": "PID_00104"
+                  "displayName": "PID_00104",
+                  "depth": 4,
+                  "x": 1614.3016759776538,
+                  "y": 90
                 },
                 {
                   "name": "PID_00065",
-                  "displayName": "PID_00065"
+                  "displayName": "PID_00065",
+                  "depth": 4,
+                  "x": 1623.9106145251396,
+                  "y": 90
                 },
                 {
                   "name": "PID_00028",
-                  "displayName": "PID_00028"
+                  "displayName": "PID_00028",
+                  "depth": 4,
+                  "x": 1633.5195530726257,
+                  "y": 90
                 },
                 {
                   "name": "PID_00059",
-                  "displayName": "PID_00059"
+                  "displayName": "PID_00059",
+                  "depth": 4,
+                  "x": 1643.1284916201118,
+                  "y": 90
                 },
                 {
                   "name": "PID_00113",
-                  "displayName": "PID_00113"
+                  "displayName": "PID_00113",
+                  "depth": 4,
+                  "x": 1652.7374301675977,
+                  "y": 90
                 },
                 {
                   "name": "PID_00050",
-                  "displayName": "PID_00050"
+                  "displayName": "PID_00050",
+                  "depth": 4,
+                  "x": 1662.3463687150838,
+                  "y": 90
                 },
                 {
                   "name": "PID_00120",
-                  "displayName": "PID_00120"
+                  "displayName": "PID_00120",
+                  "depth": 4,
+                  "x": 1671.9553072625697,
+                  "y": 90
                 },
                 {
                   "name": "PID_00128",
-                  "displayName": "PID_00128"
+                  "displayName": "PID_00128",
+                  "depth": 4,
+                  "x": 1681.5642458100558,
+                  "y": 90
                 },
                 {
                   "name": "PID_00012",
-                  "displayName": "PID_00012"
+                  "displayName": "PID_00012",
+                  "depth": 4,
+                  "x": 1691.173184357542,
+                  "y": 90
                 },
                 {
                   "name": "PID_00091",
-                  "displayName": "PID_00091"
+                  "displayName": "PID_00091",
+                  "depth": 4,
+                  "x": 1700.782122905028,
+                  "y": 90
                 },
                 {
                   "name": "PID_00162",
-                  "displayName": "PID_00162"
+                  "displayName": "PID_00162",
+                  "depth": 4,
+                  "x": 1710.391061452514,
+                  "y": 90
                 }
               ],
-              "displayName": "node169"
+              "displayName": "Good outcome group",
+              "depth": 3,
+              "x": 1455.754189944134,
+              "y": 67.5,
+              "dx": 1455.754189944134,
+              "dy": 77.5
             }
           ],
-          "displayName": "node171"
+          "displayName": "node171",
+          "depth": 2,
+          "x": 1251.5642458100558,
+          "y": 45,
+          "dx": 1251.5642458100558,
+          "dy": 55
         }
       ],
-      "displayName": "node172"
+      "displayName": "node172",
+      "depth": 1,
+      "x": 945.2793296089385,
+      "y": 22.5,
+      "dx": 945.2793296089385,
+      "dy": 32.5
     }
   ],
-  "displayName": "node173"
+  "displayName": "node173",
+  "depth": 0,
+  "x": 584.3435754189944,
+  "y": 0,
+  "dx": 584.3435754189944,
+  "dy": 10
 }
