@@ -33,11 +33,11 @@
     },
     "col": {
       "name": "dendro_col.json",
-      "sha": "6161d56befb534d014bd3e2272c0e85c31f71260"
+      "sha": "a3687011cee058c2c99dea07afac03d7bc8d9175"
     },
     "row": {
       "name": "dendro_row.json",
-      "sha": "2d484788b9d14153da079577894555de12938f85"
+      "sha": "a3687011cee058c2c99dea07afac03d7bc8d9175"
     }
   },
   "recommenders": null
