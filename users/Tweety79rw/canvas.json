@@ -25,7 +25,7 @@
         "x":1349.9603994191827,
         "y":519.5999999999999,
         "type":{
-          "@id":9520,
+          "@id":9582,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -51,7 +51,7 @@
         "isUserData":true,
         "x":449.9867998063943,
         "y":519.5999999999999,
-        "type":{"@ref":9520},
+        "type":{"@ref":9582},
         "score":0.0,
         "data":";NP_808220;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_808220",
