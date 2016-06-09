@@ -1,5 +1,5 @@
 {
-  "@id":11020,
+  "@id":10996,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
@@ -26,7 +26,7 @@
         "x":299.9911998709295,
         "y":519.5999999999999,
         "type":{
-          "@id":11023,
+          "@id":10999,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -53,7 +53,7 @@
         "x":1124.9669995159857,
         "y":649.4999999999999,
         "type":{
-          "@id":11025,
+          "@id":11001,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -80,7 +80,7 @@
         "x":599.982399741859,
         "y":259.79999999999995,
         "type":{
-          "@id":11028,
+          "@id":11004,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -106,7 +106,7 @@
         "isUserData":true,
         "x":524.9845997741267,
         "y":909.2999999999998,
-        "type":{"@ref":11023},
+        "type":{"@ref":10999},
         "score":0.0,
         "data":"139eba05c8989f32e869f336698b1959a47e318b;NP_000005;ADB-User-Study;ActiveDataBio;master",
         "label":"NP_000005",
@@ -123,7 +123,7 @@
         }
       },
       {
-        "@id":11112,
+        "@id":11088,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1465496115512,
         "groupId":-1,
@@ -161,7 +161,7 @@
         "targetNodeID":1463784508646,
         "label":null,
         "type":{
-          "@id":11111,
+          "@id":11087,
           "name":"SOLID",
           "ordinal":1
         },
@@ -173,7 +173,7 @@
         "sourceNodeID":1465496088647,
         "targetNodeID":1465496096257,
         "label":null,
-        "type":{"@ref":11111},
+        "type":{"@ref":11087},
         "evidenceNodes":null
       }
     ]
