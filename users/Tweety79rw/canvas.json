@@ -1,10 +1,10 @@
 {
-  "@id":10971,
+  "@id":10996,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
   "creationDate":1449262168622,
-  "lastModifiedDate":1465496135558,
+  "lastModifiedDate":1465497465384,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -26,7 +26,7 @@
         "x":299.9911998709295,
         "y":519.5999999999999,
         "type":{
-          "@id":10972,
+          "@id":10997,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -47,39 +47,16 @@
       },
       {
         "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1464199148765,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":519.5999999999999,
-        "type":{
-          "@id":10976,
-          "name":"PATIENT_GROUP",
-          "ordinal":18
-        },
-        "score":0.0,
-        "data":"42a9687708ea7dc4b637518cbba505d6ba23915d;node166;11;0;ADB-User-Study;ActiveDataBio;master",
-        "label":"small group",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1465496070193,
         "groupId":-1,
         "isUserData":true,
         "x":1424.958199386915,
         "y":649.4999999999999,
-        "type":{"@ref":10976},
+        "type":{
+          "@id":11002,
+          "name":"PATIENT_GROUP",
+          "ordinal":18
+        },
         "score":0.0,
         "data":"139eba05c8989f32e869f336698b1959a47e318b;node168;54;0;ADB-User-Study;ActiveDataBio;master",
         "label":"Middle Group",
@@ -103,7 +80,7 @@
         "x":1124.9669995159857,
         "y":649.4999999999999,
         "type":{
-          "@id":10975,
+          "@id":11001,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -130,7 +107,7 @@
         "x":599.982399741859,
         "y":259.79999999999995,
         "type":{
-          "@id":10978,
+          "@id":11000,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -156,7 +133,7 @@
         "isUserData":true,
         "x":524.9845997741267,
         "y":909.2999999999998,
-        "type":{"@ref":10972},
+        "type":{"@ref":10997},
         "score":0.0,
         "data":"139eba05c8989f32e869f336698b1959a47e318b;NP_000005;ADB-User-Study;ActiveDataBio;master",
         "label":"NP_000005",
@@ -173,7 +150,7 @@
         }
       },
       {
-        "@id":11064,
+        "@id":11089,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1465496115512,
         "groupId":-1,
@@ -211,7 +188,7 @@
         "targetNodeID":1463784508646,
         "label":null,
         "type":{
-          "@id":11063,
+          "@id":11088,
           "name":"SOLID",
           "ordinal":1
         },
@@ -223,7 +200,7 @@
         "sourceNodeID":1465496088647,
         "targetNodeID":1465496096257,
         "label":null,
-        "type":{"@ref":11063},
+        "type":{"@ref":11088},
         "evidenceNodes":null
       }
     ]
