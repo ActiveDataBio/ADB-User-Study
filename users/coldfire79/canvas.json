@@ -1,51 +1,9 @@
 {
-  "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1460420214358,
-  "name":"ADB-User-Study_coldfire79",
-  "creationDate":1460420214358,
-  "lastModifiedDate":1461866981202,
-  "users":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.ADUser",
-        "id":0,
-        "name":"ADB-User-Study_coldfire79"
-      }
-    ]
-  },
-  "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1461866981202,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":519.5999999999999,
-        "type":{
-          "@id":11175,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"05c7f6b259a4df9181db65bd34b956db9ea00d24;NP_000120;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_000120",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      }
-    ]
-  },
-  "userEdges":null,
-  "groups":null
+  "id" : 1466200440643,
+  "name" : "ADB-User-Study_coldfire79",
+  "creationDate" : 1466200440643,
+  "lastModifiedDate" : 1466200440643,
+  "users" : [ {
+    "name" : "ADB-User-Study_coldfire79"
+  } ]
 }
