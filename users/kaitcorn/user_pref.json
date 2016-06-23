@@ -9,7 +9,17 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": []
+      "custom": [
+        {
+          "colNames": [
+            "year_of_initial_pathologic_diagnosis"
+          ],
+          "snippet": {
+            "name": "users/kaitcorn/wilcoxon.R",
+            "sha": "3ea43d87fa80f91096d4be87959a3a2a27d57de4"
+          }
+        }
+      ]
     },
     "row": {
       "geneset": {
