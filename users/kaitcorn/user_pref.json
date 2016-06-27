@@ -18,6 +18,15 @@
             "name": "users/kaitcorn/t_test.R",
             "sha": "f6f3197cbfb082c9db02ff1c46e07f4108bdc534"
           }
+        },
+        {
+          "colNames": [
+            "vital_status"
+          ],
+          "snippet": {
+            "name": "rcode/categorical.r",
+            "sha": "23a118d7b4ae3690572ac044079de1dac11ca612"
+          }
         }
       ]
     },
