@@ -12,7 +12,8 @@
       "custom": [
         {
           "colNames": [
-            "PlatinumFreeInterval"
+            "PlatinumFreeInterval",
+            "PlatinumStatus"
           ],
           "snippet": {
             "name": "users/kaitcorn/t_test.R",
