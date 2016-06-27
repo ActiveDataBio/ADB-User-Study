@@ -9,18 +9,7 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": [
-        {
-          "colNames": [
-            "PlatinumFreeInterval",
-            "PlatinumStatus"
-          ],
-          "snippet": {
-            "name": "users/kaitcorn/t_test.R",
-            "sha": "f6f3197cbfb082c9db02ff1c46e07f4108bdc534"
-          }
-        }
-      ]
+      "custom": []
     },
     "row": {
       "geneset": {
