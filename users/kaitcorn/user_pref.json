@@ -12,7 +12,8 @@
       "custom": [
         {
           "colNames": [
-            "vital_status"
+            "vital_status",
+            "PlatinumFreeInterval"
           ],
           "snippet": {
             "name": "users/kaitcorn/t_test.R",
