@@ -12,7 +12,7 @@
       "custom": [
         {
           "colNames": [
-            "TSS"
+            "vital_status"
           ],
           "snippet": {
             "name": "rcode/fisher.r",
