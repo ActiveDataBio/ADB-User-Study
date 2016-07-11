@@ -1,9 +1,51 @@
 {
-  "id" : 1466200440643,
-  "name" : "ADB-User-Study_coldfire79",
-  "creationDate" : 1466200440643,
-  "lastModifiedDate" : 1466200440643,
-  "users" : [ {
-    "name" : "ADB-User-Study_coldfire79"
-  } ]
+  "@type":"gov.pnnl.activedata.data.Canvas",
+  "id":1468258346599,
+  "name":"ADB-User-Study_coldfire79",
+  "creationDate":1468258346599,
+  "lastModifiedDate":1468258351227,
+  "users":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.ADUser",
+        "id":0,
+        "name":"ADB-User-Study_coldfire79"
+      }
+    ]
+  },
+  "userDataNodes":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1468258351227,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":649.4999999999999,
+        "type":{
+          "@id":9647,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":"ee86bc637d73fa197a16a2d4338e5346a90a33e3;NP_001605;ADB-User-Study;ActiveDataBio;master",
+        "label":"NP_001605",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      }
+    ]
+  },
+  "userEdges":null,
+  "groups":null
 }
