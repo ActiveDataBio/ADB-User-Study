@@ -10886,7 +10886,7 @@
                       "displayName": "node1592"
                     }
                   ],
-                  "displayName": "node1644"
+                  "displayName": "potential blood contamination"
                 },
                 {
                   "name": "node1643",
@@ -11793,7 +11793,7 @@
                   "displayName": "node1643"
                 }
               ],
-              "displayName": "node1654"
+              "displayName": "interesting"
             },
             {
               "name": "node1648",
@@ -14290,7 +14290,7 @@
               "displayName": "node1648"
             }
           ],
-          "displayName": "protein2"
+          "displayName": "node1658"
         },
         {
           "name": "node1653",
@@ -16617,7 +16617,7 @@
           "displayName": "node1653"
         }
       ],
-      "displayName": "node1659"
+      "displayName": "focal adhesion"
     }
   ],
   "displayName": "node1662"
