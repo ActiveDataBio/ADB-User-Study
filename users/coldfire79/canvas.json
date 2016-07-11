@@ -3,7 +3,7 @@
   "id":1468258346599,
   "name":"ADB-User-Study_coldfire79",
   "creationDate":1468258346599,
-  "lastModifiedDate":1468258351227,
+  "lastModifiedDate":1468258488633,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -22,16 +22,42 @@
         "id":1468258351227,
         "groupId":-1,
         "isUserData":true,
-        "x":524.9845997741267,
-        "y":649.4999999999999,
+        "x":824.9757996450561,
+        "y":389.69999999999993,
         "type":{
-          "@id":9647,
           "name":"PROTEIN",
           "ordinal":17
         },
         "score":0.0,
         "data":"ee86bc637d73fa197a16a2d4338e5346a90a33e3;NP_001605;ADB-User-Study;ActiveDataBio;master",
         "label":"NP_001605",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "gbuttons":{
+          "@type":"java.util.ArrayList"
+        }
+      },
+      {
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1468258488633,
+        "groupId":-1,
+        "isUserData":true,
+        "x":1003.0,
+        "y":637.0,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"ee86bc637d73fa197a16a2d4338e5346a90a33e3;node1659;728;810;ADB-User-Study;ActiveDataBio;master",
+        "label":"focal adhesion",
         "badge":0,
         "sections":null,
         "listValues":null,
