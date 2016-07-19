@@ -1,5 +1,5 @@
 {
-  "@id":10162,
+  "@id":10216,
   "@type":"gov.pnnl.activedata.data.Canvas",
   "id":1449262168622,
   "name":"ADB-User-Study_Tweety79rw",
@@ -26,7 +26,7 @@
         "x":1424.958199386915,
         "y":129.89999999999998,
         "type":{
-          "@id":10167,
+          "@id":10219,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -53,7 +53,7 @@
         "x":149.99559993546475,
         "y":779.3999999999999,
         "type":{
-          "@id":10163,
+          "@id":10217,
           "name":"PATIENT_GROUP",
           "ordinal":18
         },
@@ -80,7 +80,7 @@
         "x":149.99559993546475,
         "y":259.79999999999995,
         "type":{
-          "@id":10139,
+          "@id":10176,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -106,7 +106,7 @@
         "isUserData":true,
         "x":1349.9603994191827,
         "y":519.5999999999999,
-        "type":{"@ref":10139},
+        "type":{"@ref":10176},
         "score":0.0,
         "data":";NP_057707;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_057707",
@@ -129,7 +129,7 @@
         "isUserData":true,
         "x":599.982399741859,
         "y":259.79999999999995,
-        "type":{"@ref":10139},
+        "type":{"@ref":10176},
         "score":0.0,
         "data":";NP_803878;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_803878",
@@ -152,7 +152,7 @@
         "isUserData":true,
         "x":899.9735996127886,
         "y":259.79999999999995,
-        "type":{"@ref":10139},
+        "type":{"@ref":10176},
         "score":0.0,
         "data":";NP_808220;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"NP_808220",
@@ -176,7 +176,7 @@
         "isUserData":true,
         "x":974.9713995805209,
         "y":649.4999999999999,
-        "type":{"@ref":10163},
+        "type":{"@ref":10217},
         "score":0.0,
         "data":"139eba05c8989f32e869f336698b1959a47e318b;node169;54;0;ADB-User-Study;ActiveDataBio;master",
         "label":"Good outcome group",
@@ -199,7 +199,7 @@
         "isUserData":true,
         "x":1649.9515992901122,
         "y":779.3999999999999,
-        "type":{"@ref":10167},
+        "type":{"@ref":10219},
         "score":0.0,
         "data":"139eba05c8989f32e869f336698b1959a47e318b;node1322;65;250;ADB-User-Study;ActiveDataBio;master",
         "label":"node1322",
@@ -223,7 +223,7 @@
         "x":1049.9691995482533,
         "y":779.3999999999999,
         "type":{
-          "@id":10173,
+          "@id":10224,
           "name":"PATHWAY",
           "ordinal":20
         },
@@ -243,7 +243,7 @@
         }
       },
       {
-        "@id":10264,
+        "@id":10284,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1467823056483,
         "groupId":-1,
@@ -276,7 +276,7 @@
         "isUserData":true,
         "x":899.9735996127886,
         "y":519.5999999999999,
-        "type":{"@ref":10173},
+        "type":{"@ref":10224},
         "score":0.0,
         "data":";hsa04610;node1654;ADB-User-Study;PNNL-Comp-Mass-Spec;master",
         "label":"hsa04610",
