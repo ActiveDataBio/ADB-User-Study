@@ -9,17 +9,7 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": [
-        {
-          "colNames": [
-            "PlatinumFreeInterval"
-          ],
-          "snippet": {
-            "name": "rcode/two_sample_proportion.R",
-            "sha": "8568e5f43e26a4dd577376e027efb98818e36a5c"
-          }
-        }
-      ]
+      "custom": []
     },
     "row": {
       "geneset": {
