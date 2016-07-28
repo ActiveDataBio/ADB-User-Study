@@ -3,7 +3,7 @@
   "id":1454024262515,
   "name":"ADB-User-Study_samuelpayne",
   "creationDate":1454024262515,
-  "lastModifiedDate":1469723513536,
+  "lastModifiedDate":1469723591429,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,62 +15,7 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1469723448481,
-        "groupId":-1,
-        "isUserData":true,
-        "x":960.0,
-        "y":500.0,
-        "type":{
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"0ccd1e45b64bb336881a11704f682d37e010708c;NP_444256;ADB-User-Study;ActiveDataBio;master",
-        "label":"NP_444256",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.HashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1469723513536,
-        "groupId":-1,
-        "isUserData":true,
-        "x":374.98899983866187,
-        "y":389.69999999999993,
-        "type":{
-          "@id":1,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"0ccd1e45b64bb336881a11704f682d37e010708c;node1659;728;810;ADB-User-Study;ActiveDataBio;master",
-        "label":"muscle and adhesion",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
