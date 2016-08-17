@@ -2,8 +2,74 @@
   "id" : 1471388144164,
   "name" : "ADB-User-Study_Tweety79rw",
   "creationDate" : 1471388144164,
-  "lastModifiedDate" : 1471388144164,
+  "lastModifiedDate" : 1471453076462,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
+  } ],
+  "userDataNodes" : [ {
+    "id" : 1471453029916,
+    "groupId" : -1,
+    "x" : 824.9757996450561,
+    "y" : 389.69999999999993,
+    "type" : "TEXT",
+    "score" : 0.0,
+    "data" : "pubmed;Ryan Wilson;ADB-User-Study;ActiveDataBio;master",
+    "label" : "Ryan Wilson",
+    "badge" : 0,
+    "attributes" : { },
+    "buttons" : [ ],
+    "userData" : true
+  }, {
+    "id" : 1471453063421,
+    "groupId" : -1,
+    "x" : 1349.9603994191827,
+    "y" : 519.5999999999999,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "139eba05c8989f32e869f336698b1959a47e318b;hsa05332;node1564;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa05332",
+    "badge" : 0,
+    "attributes" : { },
+    "buttons" : [ ],
+    "userData" : true
+  }, {
+    "id" : 1471453066349,
+    "groupId" : -1,
+    "x" : 299.9911998709295,
+    "y" : 519.5999999999999,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "139eba05c8989f32e869f336698b1959a47e318b;NP_000256;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_000256",
+    "badge" : 0,
+    "attributes" : { },
+    "buttons" : [ ],
+    "userData" : true
+  }, {
+    "id" : 1471453069215,
+    "groupId" : -1,
+    "x" : 599.982399741859,
+    "y" : 779.3999999999999,
+    "type" : "PROTEIN_GROUP",
+    "score" : 0.0,
+    "data" : "139eba05c8989f32e869f336698b1959a47e318b;node1564;90;300;ADB-User-Study;ActiveDataBio;master",
+    "label" : "node1564",
+    "badge" : 0,
+    "attributes" : { },
+    "buttons" : [ ],
+    "userData" : true
+  }, {
+    "id" : 1471453076462,
+    "groupId" : -1,
+    "x" : 1049.9691995482533,
+    "y" : 779.3999999999999,
+    "type" : "PATIENT_GROUP",
+    "score" : 0.0,
+    "data" : "139eba05c8989f32e869f336698b1959a47e318b;node168;54;0;ADB-User-Study;ActiveDataBio;master",
+    "label" : "Middle Group",
+    "badge" : 0,
+    "attributes" : { },
+    "buttons" : [ ],
+    "userData" : true
   } ]
 }
