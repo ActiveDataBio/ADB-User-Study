@@ -17,8 +17,8 @@
     "label" : "ryan wilson",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1471388236329,
     "groupId" : -1,
@@ -30,8 +30,8 @@
     "label" : "Middle Group",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1471453995861,
     "groupId" : -1,
@@ -43,8 +43,8 @@
     "label" : "NP_000256",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1471453996199,
     "groupId" : -1,
@@ -56,7 +56,7 @@
     "label" : "NP_000424",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   } ]
 }
