@@ -2,24 +2,11 @@
   "id" : 1471388144164,
   "name" : "ADB-User-Study_Tweety79rw",
   "creationDate" : 1471388144164,
-  "lastModifiedDate" : 1471453996199,
+  "lastModifiedDate" : 1471469540833,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
   } ],
   "userDataNodes" : [ {
-    "id" : 1471388203193,
-    "groupId" : -1,
-    "x" : 974.9713995805209,
-    "y" : 389.69999999999993,
-    "type" : "TEXT",
-    "score" : 0.0,
-    "data" : "pubmed;ryan wilson;ADB-User-Study;ActiveDataBio;master",
-    "label" : "ryan wilson",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
-  }, {
     "id" : 1471388236329,
     "groupId" : -1,
     "x" : 224.99339990319714,
