@@ -2,7 +2,7 @@
   "id" : 1471388144164,
   "name" : "ADB-User-Study_Tweety79rw",
   "creationDate" : 1471388144164,
-  "lastModifiedDate" : 1471388236329,
+  "lastModifiedDate" : 1471453996199,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
   } ],
@@ -28,6 +28,32 @@
     "score" : 0.0,
     "data" : "139eba05c8989f32e869f336698b1959a47e318b;node168;54;0;ADB-User-Study;ActiveDataBio;master",
     "label" : "Middle Group",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471453995861,
+    "groupId" : -1,
+    "x" : 1349.9603994191827,
+    "y" : 259.79999999999995,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "139eba05c8989f32e869f336698b1959a47e318b;NP_000256;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_000256",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471453996199,
+    "groupId" : -1,
+    "x" : 299.9911998709295,
+    "y" : 779.3999999999999,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "139eba05c8989f32e869f336698b1959a47e318b;NP_000424;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_000424",
     "badge" : 0,
     "attributes" : { },
     "userData" : true,
