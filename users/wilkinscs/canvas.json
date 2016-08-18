@@ -2,15 +2,15 @@
   "id" : 1471563723196,
   "name" : "ADB-User-Study_wilkinscs",
   "creationDate" : 1471563723196,
-  "lastModifiedDate" : 1471563787195,
+  "lastModifiedDate" : 1471564384239,
   "users" : [ {
     "name" : "ADB-User-Study_wilkinscs"
   } ],
   "userDataNodes" : [ {
     "id" : 1471563740286,
     "groupId" : -1,
-    "x" : 599.982399741859,
-    "y" : 259.79999999999995,
+    "x" : 674.9801997095914,
+    "y" : 389.69999999999993,
     "type" : "TEXT",
     "score" : 0.0,
     "data" : "pubmed;Christopher Wilkins;ADB-User-Study;ActiveDataBio;master",
@@ -22,7 +22,7 @@
   }, {
     "id" : 1471563787195,
     "groupId" : -1,
-    "x" : 899.9735996127886,
+    "x" : 1049.9691995482533,
     "y" : 259.79999999999995,
     "type" : "TEXT",
     "score" : 0.0,
@@ -32,5 +32,176 @@
     "attributes" : { },
     "userData" : true,
     "buttons" : [ ]
+  }, {
+    "id" : 1471564265144,
+    "groupId" : -1,
+    "x" : 974.9713995805209,
+    "y" : 649.4999999999999,
+    "type" : "PATIENT_GROUP",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;node171;83;0;ADB-User-Study;ActiveDataBio;master",
+    "label" : "node171",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564301116,
+    "groupId" : -1,
+    "x" : 749.9779996773237,
+    "y" : 519.5999999999999,
+    "type" : "PROTEIN_GROUP",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;node5;2;17;ADB-User-Study;ActiveDataBio;master",
+    "label" : "node5",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564304234,
+    "groupId" : -1,
+    "x" : 824.9757996450561,
+    "y" : 649.4999999999999,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;NP_001092;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_001092",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564304795,
+    "groupId" : -1,
+    "x" : 1574.9537993223798,
+    "y" : 389.69999999999993,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;NP_001605;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_001605",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564309094,
+    "groupId" : -1,
+    "x" : 1049.9691995482533,
+    "y" : 519.5999999999999,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;hsa05416;node5;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa05416",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564309591,
+    "groupId" : -1,
+    "x" : 1349.9603994191827,
+    "y" : 259.79999999999995,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;hsa05410;node5;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa05410",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564310340,
+    "groupId" : -1,
+    "x" : 1349.9603994191827,
+    "y" : 519.5999999999999,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;hsa05414;node5;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa05414",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564310860,
+    "groupId" : -1,
+    "x" : 824.9757996450561,
+    "y" : 389.69999999999993,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;hsa05412;node5;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa05412",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564314405,
+    "groupId" : -1,
+    "x" : 960.0,
+    "y" : 500.0,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;hsa05130;node5;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa05130",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471564321139,
+    "groupId" : -1,
+    "x" : 299.9911998709295,
+    "y" : 259.79999999999995,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "79a802a86c6b526dabbca30aba86943b6d104321;hsa04810;node5;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa04810",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  } ],
+  "userEdges" : [ {
+    "id" : 1471564341588,
+    "sourceNodeID" : 1471564304795,
+    "targetNodeID" : 1471564310340,
+    "type" : "SOLID"
+  }, {
+    "id" : 1471564346082,
+    "sourceNodeID" : 1471564304795,
+    "targetNodeID" : 1471564309591,
+    "type" : "SOLID"
+  }, {
+    "id" : 1471564351546,
+    "sourceNodeID" : 1471564310340,
+    "targetNodeID" : 1471564309094,
+    "type" : "SOLID"
+  }, {
+    "id" : 1471564356591,
+    "sourceNodeID" : 1471564309591,
+    "targetNodeID" : 1471563787195,
+    "type" : "SOLID"
+  }, {
+    "id" : 1471564361131,
+    "sourceNodeID" : 1471564309094,
+    "targetNodeID" : 1471564265144,
+    "type" : "SOLID"
+  }, {
+    "id" : 1471564366394,
+    "sourceNodeID" : 1471564265144,
+    "targetNodeID" : 1471564304234,
+    "type" : "SOLID"
+  }, {
+    "id" : 1471564369449,
+    "sourceNodeID" : 1471564304234,
+    "targetNodeID" : 1471564301116,
+    "type" : "SOLID"
+  }, {
+    "id" : 1471564384239,
+    "sourceNodeID" : 1471564310860,
+    "targetNodeID" : 1471563740286,
+    "type" : "SOLID"
   } ]
 }
