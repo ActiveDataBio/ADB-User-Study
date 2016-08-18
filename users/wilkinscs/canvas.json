@@ -1,0 +1,36 @@
+{
+  "id" : 1471563723196,
+  "name" : "ADB-User-Study_wilkinscs",
+  "creationDate" : 1471563723196,
+  "lastModifiedDate" : 1471563787195,
+  "users" : [ {
+    "name" : "ADB-User-Study_wilkinscs"
+  } ],
+  "userDataNodes" : [ {
+    "id" : 1471563740286,
+    "groupId" : -1,
+    "x" : 599.982399741859,
+    "y" : 259.79999999999995,
+    "type" : "TEXT",
+    "score" : 0.0,
+    "data" : "pubmed;Christopher Wilkins;ADB-User-Study;ActiveDataBio;master",
+    "label" : "Christopher Wilkins",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471563787195,
+    "groupId" : -1,
+    "x" : 899.9735996127886,
+    "y" : 259.79999999999995,
+    "type" : "TEXT",
+    "score" : 0.0,
+    "data" : "pubmed;Bryson Gibbons;ADB-User-Study;ActiveDataBio;master",
+    "label" : "Bryson Gibbons",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  } ]
+}
