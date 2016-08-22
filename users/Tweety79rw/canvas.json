@@ -2,14 +2,27 @@
   "id" : 1471388144164,
   "name" : "ADB-User-Study_Tweety79rw",
   "creationDate" : 1471388144164,
-  "lastModifiedDate" : 1471559140430,
+  "lastModifiedDate" : 1471558515646,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
   } ],
   "userDataNodes" : [ {
+    "id" : 1471388203193,
+    "groupId" : -1,
+    "x" : 1499.9559993546475,
+    "y" : 259.79999999999995,
+    "type" : "TEXT",
+    "score" : 0.0,
+    "data" : "pubmed;ryan wilson;ADB-User-Study;ActiveDataBio;master",
+    "label" : "ryan wilson",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
     "id" : 1471388236329,
     "groupId" : -1,
-    "x" : 224.99339990319714,
+    "x" : 374.98899983866187,
     "y" : 389.69999999999993,
     "type" : "PATIENT_GROUP",
     "score" : 0.0,
@@ -20,10 +33,25 @@
     "userData" : true,
     "buttons" : [ ]
   }, {
-    "id" : 1471453995861,
+    "id" : 1471454065768,
     "groupId" : -1,
-    "x" : 1349.9603994191827,
-    "y" : 259.79999999999995,
+    "x" : 824.9757996450561,
+    "y" : 649.4999999999999,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "139eba05c8989f32e869f336698b1959a47e318b;NP_000192;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_000192",
+    "badge" : 0,
+    "attributes" : {
+      "PUBMEDS:NP_000192" : "Pubmed Titles List"
+    },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1471454066105,
+    "groupId" : -1,
+    "x" : 1574.9537993223798,
+    "y" : 649.4999999999999,
     "type" : "PROTEIN",
     "score" : 0.0,
     "data" : "139eba05c8989f32e869f336698b1959a47e318b;NP_000256;ADB-User-Study;ActiveDataBio;master",
@@ -32,34 +60,11 @@
     "attributes" : { },
     "userData" : true,
     "buttons" : [ ]
-  }, {
-    "id" : 1471453996199,
-    "groupId" : -1,
-    "x" : 749.9779996773237,
-    "y" : 259.79999999999995,
-    "type" : "PROTEIN",
-    "score" : 0.0,
-    "data" : "139eba05c8989f32e869f336698b1959a47e318b;NP_000424;ADB-User-Study;ActiveDataBio;master",
-    "label" : "NP_000424",
-    "badge" : 0,
-    "attributes" : {
-      "PROTEIN:NP_000424" : "neutrophil cytosol factor 2 isoform 1 [Homo sapiens]",
-      "PUBMEDS:NP_000424" : "Pubmed Titles List"
-    },
-    "userData" : true,
-    "buttons" : [ ]
-  }, {
-    "id" : 1471559140430,
-    "groupId" : -1,
-    "x" : 824.9757996450561,
-    "y" : 129.89999999999998,
-    "type" : "TEXT",
-    "score" : 0.0,
-    "data" : "pubmed;Ryan Wilson;ADB-User-Study;ActiveDataBio;master",
-    "label" : "Ryan Wilson",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+  } ],
+  "userEdges" : [ {
+    "id" : 1471558511380,
+    "sourceNodeID" : 1471454066105,
+    "targetNodeID" : 1471454065768,
+    "type" : "SOLID"
   } ]
 }
