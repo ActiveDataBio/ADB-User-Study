@@ -9,7 +9,16 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": []
+      "custom": [
+        {
+          "colNames": [
+            "TSS"
+          ],
+          "snippet": {
+            "name": "fisher"
+          }
+        }
+      ]
     },
     "row": {
       "geneset": {
