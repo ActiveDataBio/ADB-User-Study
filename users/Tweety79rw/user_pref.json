@@ -12,7 +12,9 @@
       "custom": [
         {
           "colNames": [
-            "TSS"
+            "TSS",
+            "PlatinumStatus",
+            "days_to_death"
           ],
           "snippet": {
             "name": "fisher"
