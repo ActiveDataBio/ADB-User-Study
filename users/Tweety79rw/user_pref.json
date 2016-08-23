@@ -18,6 +18,15 @@
           "snippet": {
             "name": "t-test"
           }
+        },
+        {
+          "colNames": [
+            "ProgorRecur",
+            "additional_chemo_therapy"
+          ],
+          "snippet": {
+            "name": "fisher"
+          }
         }
       ]
     },
