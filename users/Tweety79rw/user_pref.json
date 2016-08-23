@@ -13,20 +13,10 @@
         {
           "colNames": [
             "TSS",
-            "PlatinumStatus",
-            "days_to_death"
+            "PlatinumFreeInterval"
           ],
           "snippet": {
-            "name": "fisher"
-          }
-        },
-        {
-          "colNames": [
-            "Normal_Control",
-            "additional_chemo_therapy"
-          ],
-          "snippet": {
-            "name": "t-test"
+            "name": "wilcoxon"
           }
         }
       ]
