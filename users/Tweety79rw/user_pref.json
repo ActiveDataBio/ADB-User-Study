@@ -19,6 +19,15 @@
           "snippet": {
             "name": "fisher"
           }
+        },
+        {
+          "colNames": [
+            "Normal_Control",
+            "additional_chemo_therapy"
+          ],
+          "snippet": {
+            "name": "t-test"
+          }
         }
       ]
     },
