@@ -9,7 +9,17 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": []
+      "custom": [
+        {
+          "colNames": [
+            "TSS",
+            "Normal_Control"
+          ],
+          "snippet": {
+            "name": "t-test"
+          }
+        }
+      ]
     },
     "row": {
       "geneset": {
