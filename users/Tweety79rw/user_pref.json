@@ -18,6 +18,15 @@
           "snippet": {
             "name": "wilcoxon"
           }
+        },
+        {
+          "colNames": [
+            "PlatinumFreeInterval",
+            "TSS"
+          ],
+          "snippet": {
+            "name": "chisq"
+          }
         }
       ]
     },
