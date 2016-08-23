@@ -27,6 +27,14 @@
           "snippet": {
             "name": "fisher"
           }
+        },
+        {
+          "colNames": [
+            "PlatinumFreeInterval"
+          ],
+          "snippet": {
+            "name": "kaplan_meier"
+          }
         }
       ]
     },
