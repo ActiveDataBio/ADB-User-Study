@@ -9,26 +9,7 @@
         "name": "test_samples.r",
         "sha": "c059706ce980580475df5a599e8d72f805162fa5"
       },
-      "custom": [
-        {
-          "colNames": [
-            "TSS",
-            "PlatinumFreeInterval"
-          ],
-          "snippet": {
-            "name": "wilcoxon"
-          }
-        },
-        {
-          "colNames": [
-            "PlatinumFreeInterval",
-            "TSS"
-          ],
-          "snippet": {
-            "name": "chisq"
-          }
-        }
-      ]
+      "custom": []
     },
     "row": {
       "geneset": {
