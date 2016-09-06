@@ -15,7 +15,7 @@
             "vital_status"
           ],
           "snippet": {
-            "name": "rcode/fisher.R",
+            "name": "fisher",
             "sha": "23462bca5bd300268ed1f7e3cfbd2308b8ba6e3b"
           }
         }
