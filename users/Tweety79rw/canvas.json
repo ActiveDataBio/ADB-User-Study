@@ -17,21 +17,21 @@
     "label" : "ryan wilson",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1471388236329,
     "groupId" : -1,
-    "x" : 374.98899983866187,
-    "y" : 389.69999999999993,
+    "x" : 449.9867998063943,
+    "y" : 519.5999999999999,
     "type" : "PATIENT_GROUP",
     "score" : 0.0,
     "data" : "139eba05c8989f32e869f336698b1959a47e318b;node168;54;0;ADB-User-Study;ActiveDataBio;master",
     "label" : "Middle Group",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1471454065768,
     "groupId" : -1,
@@ -45,8 +45,8 @@
     "attributes" : {
       "PUBMEDS:NP_000192" : "Pubmed Titles List"
     },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1471454066105,
     "groupId" : -1,
@@ -58,8 +58,8 @@
     "label" : "NP_000256",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   } ],
   "userEdges" : [ {
     "id" : 1471558511380,
