@@ -17,8 +17,8 @@
     "label" : "ryan wilson",
     "badge" : 0,
     "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   }, {
     "id" : 1471388236329,
     "groupId" : -1,
@@ -30,8 +30,8 @@
     "label" : "Middle Group",
     "badge" : 0,
     "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   }, {
     "id" : 1471454065768,
     "groupId" : -1,
@@ -45,8 +45,8 @@
     "attributes" : {
       "PUBMEDS:NP_000192" : "Pubmed Titles List"
     },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   }, {
     "id" : 1471454066105,
     "groupId" : -1,
@@ -58,8 +58,8 @@
     "label" : "NP_000256",
     "badge" : 0,
     "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   } ],
   "userEdges" : [ {
     "id" : 1471558511380,
