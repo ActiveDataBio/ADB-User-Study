@@ -2,8 +2,22 @@
   "id" : 1474384490902,
   "name" : "ADB-User-Study_Tweety79rw",
   "creationDate" : 1474384490901,
-  "lastModifiedDate" : 1474384490901,
+  "lastModifiedDate" : 1474384611683,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
+  } ],
+  "userDataNodes" : [ {
+    "id" : 1474384611683,
+    "groupId" : -1,
+    "x" : 779.4228634059948,
+    "y" : 450.0,
+    "type" : "TEXT",
+    "score" : 0.0,
+    "data" : "pubmed;apple;ADB-User-Study;ActiveDataBio;master",
+    "label" : "apple",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
   } ]
 }
