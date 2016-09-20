@@ -1,16 +1,16 @@
 {
-  "id" : 1474383456590,
+  "id" : 1474383490516,
   "name" : "ADB-User-Study_Tweety79rw",
-  "creationDate" : 1474383456590,
-  "lastModifiedDate" : 1474383464326,
+  "creationDate" : 1474383490516,
+  "lastModifiedDate" : 1474383520291,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
   } ],
   "userDataNodes" : [ {
-    "id" : 1474383464326,
+    "id" : 1474383520291,
     "groupId" : -1,
-    "x" : 519.6152422706631,
-    "y" : 630.0,
+    "x" : 623.5382907247957,
+    "y" : 360.0,
     "type" : "TEXT",
     "score" : 0.0,
     "data" : "pubmed;apple;ADB-User-Study;ActiveDataBio;master",
