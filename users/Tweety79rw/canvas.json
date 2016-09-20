@@ -9,7 +9,7 @@
   "userDataNodes" : [ {
     "id" : 1474384611683,
     "groupId" : -1,
-    "x" : 779.4228634059948,
+    "x" : 259.8076211353316,
     "y" : 450.0,
     "type" : "TEXT",
     "score" : 0.0,
@@ -22,8 +22,8 @@
   }, {
     "id" : 1474384661759,
     "groupId" : -1,
-    "x" : 960.0,
-    "y" : 495.0,
+    "x" : 1472.2431864335456,
+    "y" : 150.0,
     "type" : "PATIENT_GROUP",
     "score" : 0.0,
     "data" : "undefined;node166;11;0;ADB-User-Study;ActiveDataBio;master",
@@ -35,8 +35,8 @@
   }, {
     "id" : 1474384673652,
     "groupId" : -1,
-    "x" : 960.0,
-    "y" : 495.0,
+    "x" : 606.217782649107,
+    "y" : 750.0,
     "type" : "PATHWAY",
     "score" : 0.0,
     "data" : "undefined;hsa04610;node1658;ADB-User-Study;ActiveDataBio;master",
@@ -48,8 +48,8 @@
   }, {
     "id" : 1474384675066,
     "groupId" : -1,
-    "x" : 960.0,
-    "y" : 495.0,
+    "x" : 1125.8330249197702,
+    "y" : 750.0,
     "type" : "PROTEIN",
     "score" : 0.0,
     "data" : "undefined;NP_001986;ADB-User-Study;ActiveDataBio;master",
