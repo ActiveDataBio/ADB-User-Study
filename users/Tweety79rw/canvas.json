@@ -17,8 +17,8 @@
     "label" : "apple",
     "badge" : 0,
     "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   }, {
     "id" : 1474384661759,
     "groupId" : -1,
@@ -30,8 +30,8 @@
     "label" : "small group",
     "badge" : 0,
     "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   }, {
     "id" : 1474384673652,
     "groupId" : -1,
@@ -43,8 +43,8 @@
     "label" : "hsa04610",
     "badge" : 0,
     "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   }, {
     "id" : 1474384675066,
     "groupId" : -1,
@@ -56,7 +56,7 @@
     "label" : "NP_001986",
     "badge" : 0,
     "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "userData" : true
   } ]
 }
