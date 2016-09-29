@@ -9,16 +9,16 @@
   "userDataNodes" : [ {
     "id" : 1474384611683,
     "groupId" : -1,
-    "x" : 692.8203230275509,
-    "y" : 450.0,
+    "x" : 599.982399741859,
+    "y" : 519.5999999999999,
     "type" : "TEXT",
     "score" : 0.0,
     "data" : "pubmed;apple;ADB-User-Study;ActiveDataBio;master",
     "label" : "apple",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1474384661759,
     "groupId" : -1,
@@ -30,21 +30,21 @@
     "label" : "small group",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1474384673652,
     "groupId" : -1,
-    "x" : 779.4228634059948,
-    "y" : 450.0,
+    "x" : 674.9801997095914,
+    "y" : 649.4999999999999,
     "type" : "PATHWAY",
     "score" : 0.0,
     "data" : "undefined;hsa04610;node1658;ADB-User-Study;ActiveDataBio;master",
     "label" : "hsa04610",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   }, {
     "id" : 1474384675066,
     "groupId" : -1,
@@ -56,7 +56,7 @@
     "label" : "NP_001986",
     "badge" : 0,
     "attributes" : { },
-    "buttons" : [ ],
-    "userData" : true
+    "userData" : true,
+    "buttons" : [ ]
   } ]
 }
