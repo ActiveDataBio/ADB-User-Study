@@ -17,6 +17,14 @@
           "snippet": {
             "name": "chisq"
           }
+        },
+        {
+          "colNames": [
+            "age_at_initial_pathologic_diagnosis"
+          ],
+          "snippet": {
+            "name": "wilcoxon"
+          }
         }
       ]
     },
