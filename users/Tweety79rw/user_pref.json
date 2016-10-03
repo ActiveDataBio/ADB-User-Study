@@ -20,7 +20,23 @@
         },
         {
           "colNames": [
-            "age_at_initial_pathologic_diagnosis"
+            "age_at_initial_pathologic_diagnosis",
+            "TSS",
+            "Tumor Type",
+            "additional_chemo_therapy",
+            "additional_drug_therapy",
+            "additional_immuno_therapy",
+            "additional_pharmaceutical_therapy",
+            "additional_radiation_therapy",
+            "chemo_therapy",
+            "PlatinumStatus",
+            "ProgorRecur",
+            "days_to_death",
+            "days_to_death_or_LFU",
+            "days_to_initial_pathologic_diagnosis",
+            "days_to_last_followup",
+            "days_to_tumor_progression",
+            "group"
           ],
           "snippet": {
             "name": "wilcoxon"
