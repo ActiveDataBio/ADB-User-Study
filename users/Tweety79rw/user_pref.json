@@ -12,14 +12,6 @@
       "custom": [
         {
           "colNames": [
-            "vital_status"
-          ],
-          "snippet": {
-            "name": "chisq"
-          }
-        },
-        {
-          "colNames": [
             "age_at_initial_pathologic_diagnosis",
             "TSS",
             "Tumor Type",
