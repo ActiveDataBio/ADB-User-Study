@@ -1,78 +1,23 @@
 {
-  "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1468258346599,
-  "name":"ADB-User-Study_coldfire79",
-  "creationDate":1468258346599,
-  "lastModifiedDate":1468258488633,
-  "users":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.ADUser",
-        "id":0,
-        "name":"ADB-User-Study_coldfire79"
-      }
-    ]
-  },
-  "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1468258351227,
-        "groupId":-1,
-        "isUserData":true,
-        "x":824.9757996450561,
-        "y":389.69999999999993,
-        "type":{
-          "@id":9755,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":"ee86bc637d73fa197a16a2d4338e5346a90a33e3;NP_001605;ADB-User-Study;ActiveDataBio;master",
-        "label":"NP_001605",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      },
-      {
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1468258488633,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1003.0,
-        "y":637.0,
-        "type":{
-          "@id":9763,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"ee86bc637d73fa197a16a2d4338e5346a90a33e3;node1659;728;810;ADB-User-Study;ActiveDataBio;master",
-        "label":"focal adhesion",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "gbuttons":{
-          "@type":"java.util.ArrayList"
-        }
-      }
-    ]
-  },
-  "userEdges":null,
-  "groups":null
+  "id" : 1476765367589,
+  "name" : "ADB-User-Study_coldfire79",
+  "creationDate" : 1476765367589,
+  "lastModifiedDate" : 1476765373710,
+  "users" : [ {
+    "name" : "ADB-User-Study_coldfire79"
+  } ],
+  "userDataNodes" : [ {
+    "id" : 1476765373710,
+    "groupId" : -1,
+    "x" : 720.0,
+    "y" : 388.0,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "undefined;NP_000134;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_000177",
+    "badge" : 0,
+    "attributes" : { },
+    "buttons" : [ ],
+    "userData" : true
+  } ]
 }
