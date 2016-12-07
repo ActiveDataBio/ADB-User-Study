@@ -2,7 +2,7 @@
   "id" : 1480954560755,
   "name" : "Tweety79rw",
   "creationDate" : 1480954560755,
-  "lastModifiedDate" : 1481058743560,
+  "lastModifiedDate" : 1481139576979,
   "users" : [ {
     "name" : "Tweety79rw"
   } ],
@@ -19,5 +19,18 @@
     "userData" : true,
     "buttons" : [ ],
     "data" : "null;NP_001239133;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
+  }, {
+    "id" : 1481139576979,
+    "groupId" : -1,
+    "x" : 974.9713995805209,
+    "y" : 389.69999999999993,
+    "type" : "TEXT",
+    "score" : 0.0,
+    "label" : "Ryan Wilson",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ],
+    "data" : "pubmed;Ryan Wilson;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;undefined;undefined"
   } ]
 }
