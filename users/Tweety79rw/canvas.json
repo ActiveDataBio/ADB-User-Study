@@ -1,62 +1,23 @@
 {
-  "id" : 1474384490902,
-  "name" : "ADB-User-Study_Tweety79rw",
-  "creationDate" : 1474384490901,
-  "lastModifiedDate" : 1474384675066,
+  "id" : 1480954560755,
+  "name" : "Tweety79rw",
+  "creationDate" : 1480954560755,
+  "lastModifiedDate" : 1481058743560,
   "users" : [ {
-    "name" : "ADB-User-Study_Tweety79rw"
+    "name" : "Tweety79rw"
   } ],
   "userDataNodes" : [ {
-    "id" : 1474384611683,
+    "id" : 1481045219588,
     "groupId" : -1,
-    "x" : 599.982399741859,
+    "x" : 449.9867998063943,
     "y" : 519.5999999999999,
-    "type" : "TEXT",
-    "score" : 0.0,
-    "data" : "pubmed;apple;ADB-User-Study;ActiveDataBio;master",
-    "label" : "apple",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
-  }, {
-    "id" : 1474384661759,
-    "groupId" : -1,
-    "x" : 1125.8330249197702,
-    "y" : 300.0,
-    "type" : "PATIENT_GROUP",
-    "score" : 0.0,
-    "data" : "undefined;node166;11;0;ADB-User-Study;ActiveDataBio;master",
-    "label" : "small group",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
-  }, {
-    "id" : 1474384673652,
-    "groupId" : -1,
-    "x" : 674.9801997095914,
-    "y" : 649.4999999999999,
-    "type" : "PATHWAY",
-    "score" : 0.0,
-    "data" : "undefined;hsa04610;node1658;ADB-User-Study;ActiveDataBio;master",
-    "label" : "hsa04610",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ]
-  }, {
-    "id" : 1474384675066,
-    "groupId" : -1,
-    "x" : 1125.8330249197702,
-    "y" : 750.0,
     "type" : "PROTEIN",
     "score" : 0.0,
-    "data" : "undefined;NP_001986;ADB-User-Study;ActiveDataBio;master",
-    "label" : "NP_001986",
+    "label" : "NP_001239133",
     "badge" : 0,
     "attributes" : { },
     "userData" : true,
-    "buttons" : [ ]
+    "buttons" : [ ],
+    "data" : "null;NP_001239133;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
   } ]
 }
