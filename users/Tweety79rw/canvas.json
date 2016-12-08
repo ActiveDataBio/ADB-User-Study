@@ -1,36 +1,9 @@
 {
-  "id" : 1480954560755,
+  "id" : 1481238001130,
   "name" : "Tweety79rw",
-  "creationDate" : 1480954560755,
-  "lastModifiedDate" : 1481236888899,
+  "creationDate" : 1481238001130,
+  "lastModifiedDate" : 1481238001130,
   "users" : [ {
     "name" : "Tweety79rw"
-  } ],
-  "userDataNodes" : [ {
-    "id" : 1481236885550,
-    "groupId" : -1,
-    "x" : 1349.9603994191827,
-    "y" : 519.5999999999999,
-    "type" : "PATHWAY",
-    "score" : 0.0,
-    "label" : "hsa04610",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ],
-    "data" : "undefined;hsa04610;node1658;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
-  }, {
-    "id" : 1481236888899,
-    "groupId" : -1,
-    "x" : 374.98899983866187,
-    "y" : 389.69999999999993,
-    "type" : "PROTEIN",
-    "score" : 0.0,
-    "label" : "NP_000005",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ],
-    "data" : "undefined;NP_000005;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
   } ]
 }
