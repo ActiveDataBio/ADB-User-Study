@@ -2,7 +2,7 @@
   "id" : 1480954560755,
   "name" : "Tweety79rw",
   "creationDate" : 1480954560755,
-  "lastModifiedDate" : 1481232053192,
+  "lastModifiedDate" : 1481233247091,
   "users" : [ {
     "name" : "Tweety79rw"
   } ],
@@ -19,5 +19,18 @@
     "userData" : true,
     "buttons" : [ ],
     "data" : "null;undefined;91;202;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
+  }, {
+    "id" : 1481233247091,
+    "groupId" : -1,
+    "x" : 960.0,
+    "y" : 470.5,
+    "type" : "PATIENT_GROUP",
+    "score" : 0.0,
+    "label" : "node166",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ],
+    "data" : "null;node166;11;0;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
   } ]
 }
