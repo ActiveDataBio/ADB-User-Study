@@ -2,8 +2,61 @@
   "id" : 1481238001130,
   "name" : "Tweety79rw",
   "creationDate" : 1481238001130,
-  "lastModifiedDate" : 1481238001130,
+  "lastModifiedDate" : 1481238627507,
   "users" : [ {
     "name" : "Tweety79rw"
+  } ],
+  "userDataNodes" : [ {
+    "id" : 1481238555790,
+    "groupId" : -1,
+    "x" : 599.982399741859,
+    "y" : 779.3999999999999,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "label" : "hsa04610",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ],
+    "data" : "undefined;hsa04610;node1659;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
+  }, {
+    "id" : 1481238560345,
+    "groupId" : -1,
+    "x" : 1424.958199386915,
+    "y" : 389.69999999999993,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "label" : "NP_000022",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ],
+    "data" : "undefined;NP_000022;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
+  }, {
+    "id" : 1481238561595,
+    "groupId" : -1,
+    "x" : 224.99339990319714,
+    "y" : 389.69999999999993,
+    "type" : "PROTEIN_GROUP",
+    "score" : 0.0,
+    "label" : "node1659",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ],
+    "data" : "null;node1659;728;810;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
+  }, {
+    "id" : 1481238627507,
+    "groupId" : -1,
+    "x" : 960.0,
+    "y" : 495.0,
+    "type" : "PATIENT_GROUP",
+    "score" : 0.0,
+    "label" : "node166",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ],
+    "data" : "null;node166;11;0;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
   } ]
 }
