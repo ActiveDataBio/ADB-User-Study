@@ -2,37 +2,11 @@
   "id" : 1480954560755,
   "name" : "Tweety79rw",
   "creationDate" : 1480954560755,
-  "lastModifiedDate" : 1481231996367,
+  "lastModifiedDate" : 1481232053192,
   "users" : [ {
     "name" : "Tweety79rw"
   } ],
   "userDataNodes" : [ {
-    "id" : 1481154221171,
-    "groupId" : -1,
-    "x" : 824.9757996450561,
-    "y" : 649.4999999999999,
-    "type" : "PROTEIN",
-    "score" : 0.0,
-    "label" : "NP_000030",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ],
-    "data" : "undefined;NP_000030;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
-  }, {
-    "id" : 1481222037568,
-    "groupId" : -1,
-    "x" : 1049.9691995482533,
-    "y" : 259.79999999999995,
-    "type" : "TEXT",
-    "score" : 0.0,
-    "label" : "Ryan Wilson",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ],
-    "data" : "pubmed;Ryan Wilson;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;undefined;undefined"
-  }, {
     "id" : 1481226677462,
     "groupId" : -1,
     "x" : 1124.9669995159857,
