@@ -1,2 +1,2 @@
-enrich
-stat
+enrich*.json
+stat*.json
