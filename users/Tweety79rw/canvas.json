@@ -2,8 +2,22 @@
   "id" : 1483555592260,
   "name" : "ADB-User-Study_Tweety79rw",
   "creationDate" : 1483555592260,
-  "lastModifiedDate" : 1483555592260,
+  "lastModifiedDate" : 1483556094729,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
+  } ],
+  "userDataNodes" : [ {
+    "id" : 1483556094729,
+    "groupId" : -1,
+    "x" : 824.9757996450561,
+    "y" : 649.4999999999999,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "undefined;NP_004915;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_004915",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
   } ]
 }
