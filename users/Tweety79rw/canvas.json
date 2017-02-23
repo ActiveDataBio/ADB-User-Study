@@ -1,23 +1,68 @@
 {
-  "id" : 1483555592260,
+  "id" : 1474384490902,
   "name" : "ADB-User-Study_Tweety79rw",
-  "creationDate" : 1483555592260,
-  "lastModifiedDate" : 1483556094729,
+  "creationDate" : 1474384490901,
+  "lastModifiedDate" : 1487888266197,
   "users" : [ {
     "name" : "ADB-User-Study_Tweety79rw"
   } ],
   "userDataNodes" : [ {
-    "id" : 1483556094729,
+    "id" : 1474384661759,
     "groupId" : -1,
-    "x" : 824.9757996450561,
-    "y" : 649.4999999999999,
-    "type" : "PROTEIN",
+    "x" : 1649.9515992901122,
+    "y" : 259.79999999999995,
+    "type" : "PATIENT_GROUP",
     "score" : 0.0,
-    "data" : "undefined;NP_004915;ADB-User-Study;ActiveDataBio;master",
-    "label" : "NP_004915",
+    "data" : "undefined;node166;11;0;ADB-User-Study;ActiveDataBio;master",
+    "label" : "small group",
     "badge" : 0,
     "attributes" : { },
     "userData" : true,
     "buttons" : [ ]
+  }, {
+    "id" : 1474384673652,
+    "groupId" : -1,
+    "x" : 299.9911998709295,
+    "y" : 779.3999999999999,
+    "type" : "PATHWAY",
+    "score" : 0.0,
+    "data" : "undefined;hsa04610;node1658;ADB-User-Study;ActiveDataBio;master",
+    "label" : "hsa04610",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1474384675066,
+    "groupId" : -1,
+    "x" : 1125.8330249197702,
+    "y" : 750.0,
+    "type" : "PROTEIN",
+    "score" : 0.0,
+    "data" : "undefined;NP_001986;ADB-User-Study;ActiveDataBio;master",
+    "label" : "NP_001986",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  }, {
+    "id" : 1487888245929,
+    "groupId" : -1,
+    "x" : 1574.9537993223798,
+    "y" : 129.89999999999998,
+    "type" : "TEXT",
+    "score" : 0.0,
+    "data" : "pubmed;Ryan Wilson;ADB-User-Study;ActiveDataBio;master",
+    "label" : "Ryan Wilson",
+    "badge" : 0,
+    "attributes" : { },
+    "userData" : true,
+    "buttons" : [ ]
+  } ],
+  "userEdges" : [ {
+    "id" : 1487888263329,
+    "sourceNodeID" : 1474384673652,
+    "targetNodeID" : 1474384675066,
+    "type" : "SOLID"
   } ]
 }
