@@ -1,23 +1,9 @@
 {
-  "id" : 1482968313759,
-  "name" : "samuelpayne",
-  "creationDate" : 1482968313759,
-  "lastModifiedDate" : 1482968348246,
+  "id" : 1490646159754,
+  "name" : "ADB-User-Study_samuelpayne",
+  "creationDate" : 1490646159754,
+  "lastModifiedDate" : 1490646159754,
   "users" : [ {
-    "name" : "samuelpayne"
-  } ],
-  "userDataNodes" : [ {
-    "id" : 1482968348246,
-    "groupId" : -1,
-    "x" : 853.5,
-    "y" : 413.5,
-    "type" : "PATHWAY",
-    "score" : 0.0,
-    "label" : "hsa03030",
-    "badge" : 0,
-    "attributes" : { },
-    "userData" : true,
-    "buttons" : [ ],
-    "data" : "undefined;hsa03030;node1640;68747470733a2f2f6769746875622e636f6d2f4163746976654461746142696f2f4144422d557365722d53747564792e676974;https://github.com"
+    "name" : "ADB-User-Study_samuelpayne"
   } ]
 }
